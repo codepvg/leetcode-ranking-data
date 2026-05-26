@@ -99,17 +99,6 @@
     "score": 7
   },
   {
-    "name": "Rajat malapur",
-    "id": "rajatmalapur",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 4
-    },
-    "score": 6
-  },
-  {
     "name": "Nikhil",
     "id": "Nick_kaushik",
     "data": {
@@ -889,5 +878,16 @@
       "totalSolved": 0
     },
     "score": 0
+  },
+  {
+    "name": "Rajat malapur",
+    "id": "rajatmalapur",
+    "data": {
+      "easySolved": -147,
+      "mediumSolved": -87,
+      "hardSolved": -7,
+      "totalSolved": -241
+    },
+    "score": -443
   }
 ]
