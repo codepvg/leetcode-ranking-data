@@ -120,6 +120,18 @@
     "rankChange": "="
   },
   {
+    "name": "sharon",
+    "id": "Sharon_Chelsy",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 4,
+      "hardSolved": 0,
+      "totalSolved": 7
+    },
+    "score": 15,
+    "rankChange": "NEW"
+  },
+  {
     "name": "Rajat malapur",
     "id": "rajatmalapur",
     "data": {
@@ -129,19 +141,7 @@
       "totalSolved": 6
     },
     "score": 12,
-    "rankChange": "+1"
-  },
-  {
-    "name": "sharon",
-    "id": "Sharon_Chelsy",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 3,
-      "hardSolved": 0,
-      "totalSolved": 6
-    },
-    "score": 12,
-    "rankChange": "NEW"
+    "rankChange": "="
   },
   {
     "name": "PRASATH S",
