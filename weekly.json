@@ -24,6 +24,18 @@
     "rankChange": "="
   },
   {
+    "name": "sharon",
+    "id": "Sharon_Chelsy",
+    "data": {
+      "easySolved": 7,
+      "mediumSolved": 8,
+      "hardSolved": 0,
+      "totalSolved": 15
+    },
+    "score": 31,
+    "rankChange": "+3"
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -34,18 +46,6 @@
     },
     "score": 30,
     "rankChange": "NEW"
-  },
-  {
-    "name": "sharon",
-    "id": "Sharon_Chelsy",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 8,
-      "hardSolved": 0,
-      "totalSolved": 14
-    },
-    "score": 30,
-    "rankChange": "+2"
   },
   {
     "name": "rohanonleetcode :P",
