@@ -312,6 +312,18 @@
     "rankChange": "="
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 123,
+      "mediumSolved": 67,
+      "hardSolved": 3,
+      "totalSolved": 193
+    },
+    "score": 339,
+    "rankChange": "+1"
+  },
+  {
     "name": "Mythri",
     "id": "mythri_05",
     "data": {
@@ -321,19 +333,7 @@
       "totalSolved": 174
     },
     "score": 336,
-    "rankChange": "="
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 123,
-      "mediumSolved": 66,
-      "hardSolved": 3,
-      "totalSolved": 192
-    },
-    "score": 336,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "Khwaish Garg",
