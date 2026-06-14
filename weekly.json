@@ -104,6 +104,19 @@
     "rankChange": "="
   },
   {
+    "name": "Harshad Bhalsing",
+    "id": "harsh-0_2",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 3,
+      "hardSolved": 1,
+      "totalSolved": 5
+    },
+    "score": 15,
+    "originalRank": 9,
+    "rankChange": "+4"
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -114,20 +127,7 @@
     },
     "score": 15,
     "originalRank": 9,
-    "rankChange": "="
-  },
-  {
-    "name": "Harshad Bhalsing",
-    "id": "harsh-0_2",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 2,
-      "hardSolved": 1,
-      "totalSolved": 4
-    },
-    "score": 12,
-    "originalRank": 10,
-    "rankChange": "+3"
+    "rankChange": "-1"
   },
   {
     "name": "Neevan Redkar",
