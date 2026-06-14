@@ -130,6 +130,19 @@
     "rankChange": "="
   },
   {
+    "name": "Avinash Ganore",
+    "id": "IAvii",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 1,
+      "hardSolved": 0,
+      "totalSolved": 4
+    },
+    "score": 6,
+    "originalRank": 11,
+    "rankChange": "+5"
+  },
+  {
     "name": "Vanshika Khanna",
     "id": "Vanshikakhanna",
     "data": {
@@ -140,7 +153,7 @@
     },
     "score": 6,
     "originalRank": 11,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "Sarthak Joshi",
@@ -152,8 +165,8 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 12,
-    "rankChange": "="
+    "originalRank": 13,
+    "rankChange": "-1"
   },
   {
     "name": "Aditya sarse",
@@ -165,8 +178,8 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 12,
-    "rankChange": "="
+    "originalRank": 13,
+    "rankChange": "-1"
   },
   {
     "name": "Mahantesh madalgi",
@@ -178,8 +191,8 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 12,
-    "rankChange": "="
+    "originalRank": 13,
+    "rankChange": "-1"
   },
   {
     "name": "Vaishnavi Borkar",
@@ -191,21 +204,8 @@
       "totalSolved": 3
     },
     "score": 3,
-    "originalRank": 15,
-    "rankChange": "="
-  },
-  {
-    "name": "Avinash Ganore",
-    "id": "IAvii",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 3
-    },
-    "score": 3,
-    "originalRank": 15,
-    "rankChange": "="
+    "originalRank": 16,
+    "rankChange": "-1"
   },
   {
     "name": "Abhishek Laxman Guntuk",
