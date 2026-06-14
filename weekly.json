@@ -169,6 +169,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "Khwaish Garg",
+    "id": "KhwaishGarg",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 2,
+      "hardSolved": 0,
+      "totalSolved": 3
+    },
+    "score": 7,
+    "originalRank": 14,
+    "rankChange": "+1"
+  },
+  {
     "name": "Nikhil",
     "id": "Nick_kaushik",
     "data": {
@@ -179,7 +192,7 @@
     },
     "score": 7,
     "originalRank": 14,
-    "rankChange": "+2"
+    "rankChange": "+1"
   },
   {
     "name": "Sameer Upadhyay",
@@ -192,7 +205,7 @@
     },
     "score": 7,
     "originalRank": 14,
-    "rankChange": "+3"
+    "rankChange": "+2"
   },
   {
     "name": "Rajat malapur",
@@ -204,8 +217,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 16,
-    "rankChange": "+1"
+    "originalRank": 17,
+    "rankChange": "="
   },
   {
     "name": "Aryan Shashikant Patil",
@@ -217,8 +230,8 @@
       "totalSolved": 3
     },
     "score": 5,
-    "originalRank": 17,
-    "rankChange": "+2"
+    "originalRank": 18,
+    "rankChange": "+1"
   },
   {
     "name": "PRASATH S",
@@ -230,21 +243,8 @@
       "totalSolved": 3
     },
     "score": 5,
-    "originalRank": 17,
-    "rankChange": "-4"
-  },
-  {
-    "name": "Khwaish Garg",
-    "id": "KhwaishGarg",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 2
-    },
-    "score": 4,
-    "originalRank": 19,
-    "rankChange": "-4"
+    "originalRank": 18,
+    "rankChange": "-5"
   },
   {
     "name": "Rayyan Shaikh",
@@ -256,7 +256,7 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 19,
+    "originalRank": 20,
     "rankChange": "="
   },
   {
@@ -269,8 +269,21 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 19,
+    "originalRank": 20,
     "rankChange": "+78"
+  },
+  {
+    "name": "Anurag",
+    "id": "anuragmuley",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 1,
+      "hardSolved": 0,
+      "totalSolved": 1
+    },
+    "score": 3,
+    "originalRank": 22,
+    "rankChange": "-1"
   },
   {
     "name": "Avinash Ganore",
@@ -283,7 +296,7 @@
     },
     "score": 3,
     "originalRank": 22,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "nikita sharma",
@@ -295,8 +308,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Rahul Ravindra Kate",
@@ -308,8 +321,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Yash G",
@@ -321,8 +334,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Sarthak Joshi",
@@ -334,8 +347,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Sarthak Joshi",
@@ -347,8 +360,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Abhishek Laxman Guntuk",
@@ -360,8 +373,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
@@ -373,8 +386,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Aditya Kulkarni",
@@ -386,8 +399,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "Ajinkya Ashish Moharir",
@@ -399,21 +412,8 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
-    "rankChange": "="
-  },
-  {
-    "name": "Anurag",
-    "id": "anuragmuley",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 0
-    },
-    "score": 0,
-    "originalRank": 23,
-    "rankChange": "-11"
+    "originalRank": 24,
+    "rankChange": "-1"
   },
   {
     "name": "ARCHANA KUMARI",
@@ -425,7 +425,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -438,7 +438,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -451,7 +451,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -464,7 +464,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -477,7 +477,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -490,7 +490,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -503,7 +503,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -516,7 +516,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -529,7 +529,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -542,7 +542,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -555,7 +555,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -568,7 +568,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -581,7 +581,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -594,7 +594,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -607,7 +607,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -620,7 +620,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -633,7 +633,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -646,7 +646,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -659,7 +659,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -672,7 +672,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -685,7 +685,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -698,7 +698,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -711,7 +711,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -724,7 +724,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -737,7 +737,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -750,7 +750,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -763,7 +763,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -776,7 +776,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -789,7 +789,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -802,7 +802,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -815,7 +815,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -828,7 +828,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -841,7 +841,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -854,7 +854,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -867,7 +867,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -880,7 +880,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -893,7 +893,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -906,7 +906,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -919,7 +919,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -932,7 +932,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -945,7 +945,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -958,7 +958,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -971,7 +971,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -984,7 +984,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -997,7 +997,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1010,7 +1010,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1023,7 +1023,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1036,7 +1036,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1049,7 +1049,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1062,7 +1062,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1075,7 +1075,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1088,7 +1088,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1101,7 +1101,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1114,7 +1114,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1127,7 +1127,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1140,7 +1140,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1153,7 +1153,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1166,7 +1166,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1179,7 +1179,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1192,7 +1192,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1205,7 +1205,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1218,7 +1218,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1231,7 +1231,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1244,7 +1244,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1257,7 +1257,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1270,7 +1270,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1283,7 +1283,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "-1"
   },
   {
@@ -1296,7 +1296,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "="
   },
   {
@@ -1309,7 +1309,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "="
   },
   {
@@ -1322,7 +1322,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "="
   },
   {
@@ -1335,7 +1335,7 @@
       "totalSolved": 0
     },
     "score": 0,
-    "originalRank": 23,
+    "originalRank": 24,
     "rankChange": "="
   }
 ]
