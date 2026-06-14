@@ -260,6 +260,19 @@
     "rankChange": "="
   },
   {
+    "name": "Rayyan Shaikh",
+    "id": "RayyanShaikh",
+    "data": {
+      "easySolved": 123,
+      "mediumSolved": 92,
+      "hardSolved": 9,
+      "totalSolved": 224
+    },
+    "score": 444,
+    "originalRank": 21,
+    "rankChange": "+1"
+  },
+  {
     "name": "Sameer Upadhyay",
     "id": "sameer2028",
     "data": {
@@ -270,20 +283,7 @@
     },
     "score": 444,
     "originalRank": 21,
-    "rankChange": "="
-  },
-  {
-    "name": "Rayyan Shaikh",
-    "id": "RayyanShaikh",
-    "data": {
-      "easySolved": 122,
-      "mediumSolved": 92,
-      "hardSolved": 9,
-      "totalSolved": 223
-    },
-    "score": 443,
-    "originalRank": 22,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "Thejaswini",
