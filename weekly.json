@@ -13,6 +13,19 @@
     "rankChange": "="
   },
   {
+    "name": "Roshan Singh",
+    "id": "roshankumar0036singh",
+    "data": {
+      "easySolved": 15,
+      "mediumSolved": 11,
+      "hardSolved": 0,
+      "totalSolved": 26
+    },
+    "score": 48,
+    "originalRank": 2,
+    "rankChange": "+1"
+  },
+  {
     "name": "Prathit Joshi",
     "id": "prathitjoshi",
     "data": {
@@ -22,21 +35,8 @@
       "totalSolved": 19
     },
     "score": 47,
-    "originalRank": 2,
-    "rankChange": "="
-  },
-  {
-    "name": "Roshan Singh",
-    "id": "roshankumar0036singh",
-    "data": {
-      "easySolved": 15,
-      "mediumSolved": 10,
-      "hardSolved": 0,
-      "totalSolved": 25
-    },
-    "score": 45,
     "originalRank": 3,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "rohanonleetcode :P",
