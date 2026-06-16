@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-06-16T04:43:43.319Z",
-  "rank_changes": [],
+  "sync_time": "2026-06-16T04:49:55.129Z",
+  "rank_changes": [
+    {
+      "username": "Piyush",
+      "id": "Infinite_Universe",
+      "old_rank": 9,
+      "new_rank": 8,
+      "rank_delta": 1
+    },
+    {
+      "username": "Lingayat Arya Kamlesh",
+      "id": "Arya_Lingayat",
+      "old_rank": 8,
+      "new_rank": 9,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 3,
+  "users_with_new_solves": 3,
+  "no_changes": false
 }
