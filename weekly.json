@@ -104,6 +104,19 @@
     "rankChange": "="
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 3,
+      "hardSolved": 1,
+      "totalSolved": 5
+    },
+    "score": 15,
+    "originalRank": 9,
+    "rankChange": "NEW"
+  },
+  {
     "name": "Rayyan Shaikh",
     "id": "RayyanShaikh",
     "data": {
@@ -114,7 +127,7 @@
     },
     "score": 15,
     "originalRank": 9,
-    "rankChange": "+1"
+    "rankChange": "="
   },
   {
     "name": "Neevan Redkar",
@@ -126,21 +139,8 @@
       "totalSolved": 5
     },
     "score": 13,
-    "originalRank": 10,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 2,
-      "hardSolved": 1,
-      "totalSolved": 4
-    },
-    "score": 12,
     "originalRank": 11,
-    "rankChange": "NEW"
+    "rankChange": "="
   },
   {
     "name": "Rishab Chandgothia",
