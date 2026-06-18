@@ -117,6 +117,19 @@
     "rankChange": "+6"
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 3,
+      "hardSolved": 2,
+      "totalSolved": 6
+    },
+    "score": 20,
+    "originalRank": 10,
+    "rankChange": "="
+  },
+  {
     "name": "Prathit Joshi",
     "id": "prathitjoshi",
     "data": {
@@ -127,7 +140,7 @@
     },
     "score": 20,
     "originalRank": 10,
-    "rankChange": "-2"
+    "rankChange": "-3"
   },
   {
     "name": "Neevan Redkar",
@@ -139,8 +152,8 @@
       "totalSolved": 7
     },
     "score": 19,
-    "originalRank": 11,
-    "rankChange": "+2"
+    "originalRank": 12,
+    "rankChange": "+1"
   },
   {
     "name": "SHREYA KULKARNI",
@@ -152,21 +165,8 @@
       "totalSolved": 6
     },
     "score": 18,
-    "originalRank": 12,
-    "rankChange": "+2"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 2,
-      "hardSolved": 2,
-      "totalSolved": 5
-    },
-    "score": 17,
     "originalRank": 13,
-    "rankChange": "-3"
+    "rankChange": "+1"
   },
   {
     "name": "Yashaswini KP",
@@ -178,7 +178,7 @@
       "totalSolved": 5
     },
     "score": 17,
-    "originalRank": 13,
+    "originalRank": 14,
     "rankChange": "-3"
   },
   {
