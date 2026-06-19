@@ -3,12 +3,12 @@
     "name": "Roshan Singh",
     "id": "roshankumar0036singh",
     "data": {
-      "easySolved": 8,
-      "mediumSolved": 24,
+      "easySolved": 4,
+      "mediumSolved": 21,
       "hardSolved": 1,
-      "totalSolved": 33
+      "totalSolved": 26
     },
-    "score": 85,
+    "score": 72,
     "originalRank": 1,
     "rankChange": "="
   },
@@ -16,12 +16,12 @@
     "name": "Piyush",
     "id": "Infinite_Universe",
     "data": {
-      "easySolved": 3,
-      "mediumSolved": 20,
+      "easySolved": 2,
+      "mediumSolved": 17,
       "hardSolved": 1,
-      "totalSolved": 24
+      "totalSolved": 20
     },
-    "score": 68,
+    "score": 58,
     "originalRank": 2,
     "rankChange": "="
   },
@@ -36,7 +36,7 @@
     },
     "score": 35,
     "originalRank": 3,
-    "rankChange": "+6"
+    "rankChange": "="
   },
   {
     "name": "Rishab Chandgothia",
@@ -52,19 +52,6 @@
     "rankChange": "="
   },
   {
-    "name": "Thejaswini",
-    "id": "Theju23",
-    "data": {
-      "easySolved": 4,
-      "mediumSolved": 9,
-      "hardSolved": 0,
-      "totalSolved": 13
-    },
-    "score": 31,
-    "originalRank": 5,
-    "rankChange": "-2"
-  },
-  {
     "name": "SHREYA KULKARNI",
     "id": "shreeya25",
     "data": {
@@ -74,8 +61,21 @@
       "totalSolved": 12
     },
     "score": 28,
-    "originalRank": 6,
-    "rankChange": "+8"
+    "originalRank": 5,
+    "rankChange": "+1"
+  },
+  {
+    "name": "Thejaswini",
+    "id": "Theju23",
+    "data": {
+      "easySolved": 4,
+      "mediumSolved": 8,
+      "hardSolved": 0,
+      "totalSolved": 12
+    },
+    "score": 28,
+    "originalRank": 5,
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
@@ -88,20 +88,7 @@
     },
     "score": 27,
     "originalRank": 7,
-    "rankChange": "-2"
-  },
-  {
-    "name": "Harshad Bhalsing",
-    "id": "harsh-0_2",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 5,
-      "hardSolved": 2,
-      "totalSolved": 8
-    },
-    "score": 26,
-    "originalRank": 8,
-    "rankChange": "-2"
+    "rankChange": "="
   },
   {
     "name": "YASH YOGESH BORA",
@@ -113,47 +100,21 @@
       "totalSolved": 11
     },
     "score": 25,
-    "originalRank": 9,
-    "rankChange": "+6"
+    "originalRank": 8,
+    "rankChange": "+1"
   },
   {
-    "name": "Diya Rambhai Odedara",
-    "id": "Diya_Rambhai_Odedara",
+    "name": "Harshad Bhalsing",
+    "id": "harsh-0_2",
     "data": {
       "easySolved": 1,
-      "mediumSolved": 4,
-      "hardSolved": 2,
-      "totalSolved": 7
-    },
-    "score": 23,
-    "originalRank": 10,
-    "rankChange": "-3"
-  },
-  {
-    "name": "Prathit Joshi",
-    "id": "prathitjoshi",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 4,
-      "hardSolved": 2,
-      "totalSolved": 7
-    },
-    "score": 23,
-    "originalRank": 10,
-    "rankChange": "-3"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 3,
-      "hardSolved": 2,
+      "mediumSolved": 5,
+      "hardSolved": 1,
       "totalSolved": 7
     },
     "score": 21,
-    "originalRank": 12,
-    "rankChange": "-2"
+    "originalRank": 9,
+    "rankChange": "-1"
   },
   {
     "name": "Vishal raut",
@@ -165,34 +126,8 @@
       "totalSolved": 8
     },
     "score": 20,
-    "originalRank": 13,
-    "rankChange": "+12"
-  },
-  {
-    "name": "Yashaswini KP",
-    "id": "Yashaswini_K_P",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 5,
-      "hardSolved": 1,
-      "totalSolved": 6
-    },
-    "score": 20,
-    "originalRank": 13,
-    "rankChange": "-3"
-  },
-  {
-    "name": "Mahalaxmi K",
-    "id": "Maha_0604",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 4,
-      "hardSolved": 1,
-      "totalSolved": 7
-    },
-    "score": 19,
-    "originalRank": 15,
-    "rankChange": "-3"
+    "originalRank": 10,
+    "rankChange": "+3"
   },
   {
     "name": "Neevan Redkar",
@@ -204,7 +139,46 @@
       "totalSolved": 7
     },
     "score": 19,
-    "originalRank": 15,
+    "originalRank": 11,
+    "rankChange": "+5"
+  },
+  {
+    "name": "Diya Rambhai Odedara",
+    "id": "Diya_Rambhai_Odedara",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 4,
+      "hardSolved": 1,
+      "totalSolved": 6
+    },
+    "score": 18,
+    "originalRank": 12,
+    "rankChange": "-2"
+  },
+  {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 2,
+      "hardSolved": 2,
+      "totalSolved": 6
+    },
+    "score": 18,
+    "originalRank": 12,
+    "rankChange": "-1"
+  },
+  {
+    "name": "Prathit Joshi",
+    "id": "prathitjoshi",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 4,
+      "hardSolved": 1,
+      "totalSolved": 6
+    },
+    "score": 18,
+    "originalRank": 12,
     "rankChange": "-3"
   },
   {
@@ -217,8 +191,34 @@
       "totalSolved": 8
     },
     "score": 18,
+    "originalRank": 12,
+    "rankChange": "+2"
+  },
+  {
+    "name": "Yashaswini KP",
+    "id": "Yashaswini_K_P",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 4,
+      "hardSolved": 1,
+      "totalSolved": 5
+    },
+    "score": 17,
+    "originalRank": 16,
+    "rankChange": "-2"
+  },
+  {
+    "name": "Mahalaxmi K",
+    "id": "Maha_0604",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 3,
+      "hardSolved": 1,
+      "totalSolved": 6
+    },
+    "score": 16,
     "originalRank": 17,
-    "rankChange": "-1"
+    "rankChange": "-2"
   },
   {
     "name": "Khwaish Garg",
@@ -231,7 +231,7 @@
     },
     "score": 11,
     "originalRank": 18,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Sayondeep Daripa",
@@ -244,7 +244,7 @@
     },
     "score": 11,
     "originalRank": 18,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Vaishnavi Borkar",
@@ -257,7 +257,7 @@
     },
     "score": 10,
     "originalRank": 20,
-    "rankChange": "+24"
+    "rankChange": "="
   },
   {
     "name": "Anurag",
@@ -270,7 +270,7 @@
     },
     "score": 9,
     "originalRank": 21,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "PRASATH S",
@@ -289,14 +289,14 @@
     "name": "Aryan Shashikant Patil",
     "id": "aryanpatil123",
     "data": {
-      "easySolved": 2,
+      "easySolved": 1,
       "mediumSolved": 2,
       "hardSolved": 0,
-      "totalSolved": 4
+      "totalSolved": 3
     },
-    "score": 8,
+    "score": 7,
     "originalRank": 23,
-    "rankChange": "+1"
+    "rankChange": "="
   },
   {
     "name": "Nikhil",
@@ -308,21 +308,8 @@
       "totalSolved": 3
     },
     "score": 7,
-    "originalRank": 24,
-    "rankChange": "-5"
-  },
-  {
-    "name": "Avinash Ganore",
-    "id": "IAvii",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 4
-    },
-    "score": 6,
-    "originalRank": 25,
-    "rankChange": "-4"
+    "originalRank": 23,
+    "rankChange": "="
   },
   {
     "name": "Sameer Upadhyay",
@@ -335,7 +322,20 @@
     },
     "score": 6,
     "originalRank": 25,
-    "rankChange": "-3"
+    "rankChange": "+1"
+  },
+  {
+    "name": "Avinash Ganore",
+    "id": "IAvii",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 1,
+      "hardSolved": 0,
+      "totalSolved": 3
+    },
+    "score": 5,
+    "originalRank": 26,
+    "rankChange": "-1"
   },
   {
     "name": "Rajat malapur",
@@ -348,7 +348,7 @@
     },
     "score": 3,
     "originalRank": 27,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Atharv Kirulkar",
@@ -361,7 +361,7 @@
     },
     "score": 1,
     "originalRank": 28,
-    "rankChange": "+14"
+    "rankChange": "="
   },
   {
     "name": "Atharv Arvind Deshmukh",
@@ -374,7 +374,7 @@
     },
     "score": 1,
     "originalRank": 28,
-    "rankChange": "-2"
+    "rankChange": "="
   },
   {
     "name": "Sakshi Arun Kapase",
@@ -387,7 +387,7 @@
     },
     "score": 1,
     "originalRank": 28,
-    "rankChange": "+48"
+    "rankChange": "="
   },
   {
     "name": "nikita sharma",
@@ -400,7 +400,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Rahul Ravindra Kate",
@@ -413,7 +413,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Yash G",
@@ -426,7 +426,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Sarthak Joshi",
@@ -439,7 +439,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Sarthak Joshi",
@@ -452,7 +452,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Abhishek Laxman Guntuk",
@@ -465,7 +465,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Aditya Kulkarni",
@@ -478,7 +478,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Ajinkya Ashish Moharir",
@@ -491,7 +491,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "ARCHANA KUMARI",
@@ -504,7 +504,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Lingayat Arya Kamlesh",
@@ -517,7 +517,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Aryan Botre",
@@ -530,7 +530,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Aryan Anoop Parihar",
@@ -543,7 +543,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Aryan Sirsavkar",
@@ -556,7 +556,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "Atharva",
@@ -569,7 +569,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-3"
+    "rankChange": "="
   },
   {
     "name": "KRUSHNA",
@@ -582,7 +582,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-2"
+    "rankChange": "="
   },
   {
     "name": "Chirag Budhbaware",
@@ -595,7 +595,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Yash Jawale",
@@ -608,7 +608,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Aditya sarse",
@@ -621,7 +621,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Dhanshree Magar",
@@ -634,7 +634,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "ramkrushanarokde2424@gmail.com",
@@ -647,7 +647,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Harshal Mahajan",
@@ -660,7 +660,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Kaustubh Rananaware",
@@ -673,7 +673,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Hrutuja bhongade",
@@ -686,7 +686,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Jagdish Prajapati",
@@ -699,7 +699,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Jeet Sudhish Pachpande",
@@ -712,7 +712,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Kabeer Ahmed Merchant",
@@ -725,7 +725,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Kartik Bodke",
@@ -738,7 +738,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "M R Krishni",
@@ -751,7 +751,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Mahantesh madalgi",
@@ -764,7 +764,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Mansi Wagh",
@@ -777,7 +777,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "jerusha",
@@ -790,7 +790,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Mehak Zutshi",
@@ -803,7 +803,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Meet Kasat ",
@@ -816,7 +816,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Mythri",
@@ -829,7 +829,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Neerad Ahire",
@@ -842,7 +842,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Nirali",
@@ -855,7 +855,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Siddhant Chavan",
@@ -868,7 +868,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "OM GAURAV KUTE",
@@ -881,7 +881,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Pari Patel",
@@ -894,7 +894,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Prajwal Barsagade",
@@ -907,7 +907,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Pranav Sunilkumar Ijantkar",
@@ -920,7 +920,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Raj S",
@@ -933,7 +933,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Reshma Babaleshwar",
@@ -946,7 +946,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Honath Bankar",
@@ -959,7 +959,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Ruturaj Tushar Pandit",
@@ -972,7 +972,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "RITIKA PARADKAR",
@@ -985,7 +985,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Nexus05",
@@ -998,7 +998,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Jalkote Vidyasagar",
@@ -1011,7 +1011,7 @@
     },
     "score": 0,
     "originalRank": 31,
-    "rankChange": "-1"
+    "rankChange": "="
   },
   {
     "name": "Sakshi Arun Kapase",
