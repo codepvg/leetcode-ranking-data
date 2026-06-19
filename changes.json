@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-06-19T18:06:10.846Z",
-  "rank_changes": [],
+  "sync_time": "2026-06-19T18:12:12.485Z",
+  "rank_changes": [
+    {
+      "username": "SHREYA KULKARNI",
+      "id": "shreeya25",
+      "old_rank": 58,
+      "new_rank": 57,
+      "rank_delta": 1
+    },
+    {
+      "username": "Samarth Deshpande",
+      "id": "SamarthhD",
+      "old_rank": 57,
+      "new_rank": 58,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 2,
+  "total_new_solves": 4,
   "users_with_new_solves": 1,
   "no_changes": false
 }
