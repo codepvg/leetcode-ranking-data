@@ -156,6 +156,19 @@
     "rankChange": "-9"
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 4,
+      "mediumSolved": 0,
+      "hardSolved": 0,
+      "totalSolved": 4
+    },
+    "score": 4,
+    "originalRank": 13,
+    "rankChange": "NEW"
+  },
+  {
     "name": "Rayyan Shaikh",
     "id": "RayyanShaikh",
     "data": {
@@ -166,7 +179,7 @@
     },
     "score": 4,
     "originalRank": 13,
-    "rankChange": "+7"
+    "rankChange": "+6"
   },
   {
     "name": "Yashaswini KP",
@@ -179,20 +192,7 @@
     },
     "score": 4,
     "originalRank": 13,
-    "rankChange": "+8"
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 3
-    },
-    "score": 3,
-    "originalRank": 15,
-    "rankChange": "NEW"
+    "rankChange": "+7"
   },
   {
     "name": "Shivam Gupta",
@@ -204,7 +204,7 @@
       "totalSolved": 1
     },
     "score": 3,
-    "originalRank": 15,
+    "originalRank": 16,
     "rankChange": "+73"
   },
   {
