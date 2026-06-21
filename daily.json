@@ -104,6 +104,19 @@
     "rankChange": "+11"
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 2,
+      "hardSolved": 0,
+      "totalSolved": 4
+    },
+    "score": 8,
+    "originalRank": 9,
+    "rankChange": "-3"
+  },
+  {
     "name": "Challa Uday Kumar",
     "id": "challaudaykumar",
     "data": {
@@ -113,7 +126,7 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 9,
+    "originalRank": 10,
     "rankChange": "NEW"
   },
   {
@@ -126,8 +139,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 9,
-    "rankChange": "-6"
+    "originalRank": 10,
+    "rankChange": "-7"
   },
   {
     "name": "Mahalaxmi K",
@@ -139,8 +152,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 9,
-    "rankChange": "+7"
+    "originalRank": 10,
+    "rankChange": "+6"
   },
   {
     "name": "PRASATH S",
@@ -152,8 +165,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 9,
-    "rankChange": "-4"
+    "originalRank": 10,
+    "rankChange": "-5"
   },
   {
     "name": "Punya NHCE",
@@ -165,21 +178,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 9,
+    "originalRank": 10,
     "rankChange": "NEW"
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 3
-    },
-    "score": 5,
-    "originalRank": 14,
-    "rankChange": "-8"
   },
   {
     "name": "Ridima",
