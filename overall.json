@@ -312,6 +312,19 @@
     "rankChange": "="
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 242,
+      "mediumSolved": 63,
+      "hardSolved": 5,
+      "totalSolved": 310
+    },
+    "score": 456,
+    "originalRank": 25,
+    "rankChange": "+1"
+  },
+  {
     "name": "Thejaswini",
     "id": "Theju23",
     "data": {
@@ -322,20 +335,7 @@
     },
     "score": 456,
     "originalRank": 25,
-    "rankChange": "="
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 241,
-      "mediumSolved": 63,
-      "hardSolved": 5,
-      "totalSolved": 309
-    },
-    "score": 455,
-    "originalRank": 26,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "Sameer Upadhyay",
