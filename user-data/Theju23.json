@@ -1,140 +1,146 @@
-[
-  {
-    "date": "2026-06-01",
-    "easy": 210,
-    "medium": 53,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-02",
-    "easy": 211,
-    "medium": 54,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-03",
-    "easy": 211,
-    "medium": 56,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-04",
-    "easy": 212,
-    "medium": 59,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-05",
-    "easy": 212,
-    "medium": 60,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-06",
-    "easy": 212,
-    "medium": 60,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-07",
-    "easy": 212,
-    "medium": 60,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-08",
-    "easy": 212,
-    "medium": 63,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-09",
-    "easy": 212,
-    "medium": 64,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-10",
-    "easy": 216,
-    "medium": 65,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-11",
-    "easy": 216,
-    "medium": 67,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-12",
-    "easy": 216,
-    "medium": 68,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-13",
-    "easy": 217,
-    "medium": 68,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-14",
-    "easy": 217,
-    "medium": 69,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-15",
-    "easy": 217,
-    "medium": 73,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-16",
-    "easy": 217,
-    "medium": 75,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-17",
-    "easy": 219,
-    "medium": 75,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-18",
-    "easy": 220,
-    "medium": 76,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-19",
-    "easy": 222,
-    "medium": 76,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-20",
-    "easy": 223,
-    "medium": 76,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-21",
-    "easy": 224,
-    "medium": 76,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-22",
-    "easy": 225,
-    "medium": 76,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-23",
-    "easy": 225,
-    "medium": 77,
-    "hard": 0
-  }
-]
+{
+  "history": [
+    {
+      "date": "2026-06-01",
+      "easy": 210,
+      "medium": 53,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-02",
+      "easy": 211,
+      "medium": 54,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-03",
+      "easy": 211,
+      "medium": 56,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-04",
+      "easy": 212,
+      "medium": 59,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-05",
+      "easy": 212,
+      "medium": 60,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-06",
+      "easy": 212,
+      "medium": 60,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-07",
+      "easy": 212,
+      "medium": 60,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-08",
+      "easy": 212,
+      "medium": 63,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-09",
+      "easy": 212,
+      "medium": 64,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-10",
+      "easy": 216,
+      "medium": 65,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-11",
+      "easy": 216,
+      "medium": 67,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-12",
+      "easy": 216,
+      "medium": 68,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-13",
+      "easy": 217,
+      "medium": 68,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-14",
+      "easy": 217,
+      "medium": 69,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-15",
+      "easy": 217,
+      "medium": 73,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-16",
+      "easy": 217,
+      "medium": 75,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-17",
+      "easy": 219,
+      "medium": 75,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-18",
+      "easy": 220,
+      "medium": 76,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-19",
+      "easy": 222,
+      "medium": 76,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-20",
+      "easy": 223,
+      "medium": 76,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-21",
+      "easy": 224,
+      "medium": 76,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-22",
+      "easy": 225,
+      "medium": 76,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-23",
+      "easy": 225,
+      "medium": 77,
+      "hard": 0
+    }
+  ],
+  "badges": [
+    "UP_LINK",
+    "HOT_STREAK"
+  ]
+}

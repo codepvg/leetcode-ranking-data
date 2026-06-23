@@ -1,44 +1,49 @@
-[
-  {
-    "date": "2026-06-17",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-18",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-19",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-20",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-21",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-22",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-23",
-    "easy": 20,
-    "medium": 10,
-    "hard": 0
-  }
-]
+{
+  "history": [
+    {
+      "date": "2026-06-17",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-18",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-19",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-20",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-21",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-22",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-23",
+      "easy": 20,
+      "medium": 10,
+      "hard": 0
+    }
+  ],
+  "badges": [
+    "UP_LINK"
+  ]
+}

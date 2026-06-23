@@ -1,134 +1,137 @@
-[
-  {
-    "date": "2026-06-02",
-    "easy": 10,
-    "medium": 6,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-03",
-    "easy": 10,
-    "medium": 6,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-04",
-    "easy": 11,
-    "medium": 7,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-05",
-    "easy": 11,
-    "medium": 8,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-06",
-    "easy": 11,
-    "medium": 8,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-07",
-    "easy": 11,
-    "medium": 8,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-08",
-    "easy": 13,
-    "medium": 8,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-09",
-    "easy": 13,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-10",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-11",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-12",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-13",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-14",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-15",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-16",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-17",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-18",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-19",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-20",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-21",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-22",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  },
-  {
-    "date": "2026-06-23",
-    "easy": 17,
-    "medium": 14,
-    "hard": 0
-  }
-]
+{
+  "history": [
+    {
+      "date": "2026-06-02",
+      "easy": 10,
+      "medium": 6,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-03",
+      "easy": 10,
+      "medium": 6,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-04",
+      "easy": 11,
+      "medium": 7,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-05",
+      "easy": 11,
+      "medium": 8,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-06",
+      "easy": 11,
+      "medium": 8,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-07",
+      "easy": 11,
+      "medium": 8,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-08",
+      "easy": 13,
+      "medium": 8,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-09",
+      "easy": 13,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-10",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-11",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-12",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-13",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-14",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-15",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-16",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-17",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-18",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-19",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-20",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-21",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-22",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    },
+    {
+      "date": "2026-06-23",
+      "easy": 17,
+      "medium": 14,
+      "hard": 0
+    }
+  ],
+  "badges": []
+}

@@ -1,158 +1,163 @@
-[
-  {
-    "date": "2026-05-29",
-    "easy": 98,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-05-30",
-    "easy": 98,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-05-31",
-    "easy": 98,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-01",
-    "easy": 99,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-02",
-    "easy": 100,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-03",
-    "easy": 100,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-04",
-    "easy": 100,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-05",
-    "easy": 100,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-06",
-    "easy": 100,
-    "medium": 42,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-07",
-    "easy": 100,
-    "medium": 43,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-08",
-    "easy": 100,
-    "medium": 43,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-09",
-    "easy": 100,
-    "medium": 44,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-10",
-    "easy": 101,
-    "medium": 44,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-11",
-    "easy": 101,
-    "medium": 44,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-12",
-    "easy": 101,
-    "medium": 44,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-13",
-    "easy": 101,
-    "medium": 44,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-14",
-    "easy": 101,
-    "medium": 45,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-15",
-    "easy": 101,
-    "medium": 45,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-16",
-    "easy": 101,
-    "medium": 45,
-    "hard": 5
-  },
-  {
-    "date": "2026-06-17",
-    "easy": 101,
-    "medium": 45,
-    "hard": 6
-  },
-  {
-    "date": "2026-06-18",
-    "easy": 101,
-    "medium": 46,
-    "hard": 6
-  },
-  {
-    "date": "2026-06-19",
-    "easy": 102,
-    "medium": 46,
-    "hard": 6
-  },
-  {
-    "date": "2026-06-20",
-    "easy": 102,
-    "medium": 46,
-    "hard": 7
-  },
-  {
-    "date": "2026-06-21",
-    "easy": 102,
-    "medium": 46,
-    "hard": 7
-  },
-  {
-    "date": "2026-06-22",
-    "easy": 103,
-    "medium": 46,
-    "hard": 7
-  },
-  {
-    "date": "2026-06-23",
-    "easy": 103,
-    "medium": 46,
-    "hard": 8
-  }
-]
+{
+  "history": [
+    {
+      "date": "2026-05-29",
+      "easy": 98,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-05-30",
+      "easy": 98,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-05-31",
+      "easy": 98,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-01",
+      "easy": 99,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-02",
+      "easy": 100,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-03",
+      "easy": 100,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-04",
+      "easy": 100,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-05",
+      "easy": 100,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-06",
+      "easy": 100,
+      "medium": 42,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-07",
+      "easy": 100,
+      "medium": 43,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-08",
+      "easy": 100,
+      "medium": 43,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-09",
+      "easy": 100,
+      "medium": 44,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-10",
+      "easy": 101,
+      "medium": 44,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-11",
+      "easy": 101,
+      "medium": 44,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-12",
+      "easy": 101,
+      "medium": 44,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-13",
+      "easy": 101,
+      "medium": 44,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-14",
+      "easy": 101,
+      "medium": 45,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-15",
+      "easy": 101,
+      "medium": 45,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-16",
+      "easy": 101,
+      "medium": 45,
+      "hard": 5
+    },
+    {
+      "date": "2026-06-17",
+      "easy": 101,
+      "medium": 45,
+      "hard": 6
+    },
+    {
+      "date": "2026-06-18",
+      "easy": 101,
+      "medium": 46,
+      "hard": 6
+    },
+    {
+      "date": "2026-06-19",
+      "easy": 102,
+      "medium": 46,
+      "hard": 6
+    },
+    {
+      "date": "2026-06-20",
+      "easy": 102,
+      "medium": 46,
+      "hard": 7
+    },
+    {
+      "date": "2026-06-21",
+      "easy": 102,
+      "medium": 46,
+      "hard": 7
+    },
+    {
+      "date": "2026-06-22",
+      "easy": 103,
+      "medium": 46,
+      "hard": 7
+    },
+    {
+      "date": "2026-06-23",
+      "easy": 103,
+      "medium": 46,
+      "hard": 8
+    }
+  ],
+  "badges": [
+    "UP_LINK"
+  ]
+}
