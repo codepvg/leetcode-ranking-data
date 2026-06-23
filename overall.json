@@ -481,6 +481,19 @@
     "rankChange": "="
   },
   {
+    "name": "Khwaish Garg",
+    "id": "KhwaishGarg",
+    "data": {
+      "easySolved": 103,
+      "mediumSolved": 46,
+      "hardSolved": 8,
+      "totalSolved": 157
+    },
+    "score": 281,
+    "originalRank": 38,
+    "rankChange": "+1"
+  },
+  {
     "name": "Neevan Redkar",
     "id": "neevs1",
     "data": {
@@ -491,20 +504,7 @@
     },
     "score": 281,
     "originalRank": 38,
-    "rankChange": "="
-  },
-  {
-    "name": "Khwaish Garg",
-    "id": "KhwaishGarg",
-    "data": {
-      "easySolved": 103,
-      "mediumSolved": 46,
-      "hardSolved": 7,
-      "totalSolved": 156
-    },
-    "score": 276,
-    "originalRank": 39,
-    "rankChange": "="
+    "rankChange": "-1"
   },
   {
     "name": "Prathit Joshi",
