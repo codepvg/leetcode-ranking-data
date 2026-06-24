@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-06-24T05:36:48.800Z",
-  "rank_changes": [],
+  "sync_time": "2026-06-24T05:41:57.746Z",
+  "rank_changes": [
+    {
+      "username": "Avinash Ganore",
+      "id": "IAvii",
+      "old_rank": 47,
+      "new_rank": 46,
+      "rank_delta": 1
+    },
+    {
+      "username": "Vaishnavi Borkar",
+      "id": "borkarvaishnavi45",
+      "old_rank": 46,
+      "new_rank": 47,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
