@@ -611,19 +611,6 @@
     "rankChange": "="
   },
   {
-    "name": "Mahalaxmi K",
-    "id": "Maha_0604",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 0
-    },
-    "score": 0,
-    "originalRank": 4,
-    "rankChange": "="
-  },
-  {
     "name": "Mahantesh madalgi",
     "id": "mahantesh_00",
     "data": {
@@ -1467,5 +1454,18 @@
     "score": 0,
     "originalRank": 4,
     "rankChange": "="
+  },
+  {
+    "name": "Mahalaxmi K",
+    "id": "Maha_0604",
+    "data": {
+      "easySolved": -213,
+      "mediumSolved": -60,
+      "hardSolved": -4,
+      "totalSolved": -277
+    },
+    "score": -413,
+    "originalRank": 113,
+    "rankChange": "-89"
   }
 ]
