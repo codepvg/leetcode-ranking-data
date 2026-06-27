@@ -136,5 +136,23 @@
   "badges": [
     "UP_LINK",
     "SPEEDRUN"
-  ]
+  ],
+  "leaderboardRanks": {
+    "overall": {
+      "rank": 6,
+      "change": 0
+    },
+    "daily": {
+      "rank": 7,
+      "change": 12
+    },
+    "weekly": {
+      "rank": 3,
+      "change": 0
+    },
+    "monthly": {
+      "rank": "--",
+      "change": 0
+    }
+  }
 }
