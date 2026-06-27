@@ -30,11 +30,11 @@
     "id": "Infinite_Universe",
     "data": {
       "easySolved": 3,
-      "mediumSolved": 12,
+      "mediumSolved": 13,
       "hardSolved": 1,
-      "totalSolved": 16
+      "totalSolved": 17
     },
-    "score": 44,
+    "score": 47,
     "originalRank": 3,
     "rankChange": 0
   },
@@ -130,6 +130,19 @@
     "rankChange": "NEW"
   },
   {
+    "name": "Diya Rambhai Odedara",
+    "id": "Diya_Rambhai_Odedara",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 3,
+      "hardSolved": 3,
+      "totalSolved": 7
+    },
+    "score": 25,
+    "originalRank": 11,
+    "rankChange": "+4"
+  },
+  {
     "name": "Pari Patel",
     "id": "PariChess07",
     "data": {
@@ -165,21 +178,8 @@
       "totalSolved": 8
     },
     "score": 24,
-    "originalRank": 13,
-    "rankChange": 0
-  },
-  {
-    "name": "Diya Rambhai Odedara",
-    "id": "Diya_Rambhai_Odedara",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 2,
-      "hardSolved": 3,
-      "totalSolved": 6
-    },
-    "score": 22,
     "originalRank": 14,
-    "rankChange": "+1"
+    "rankChange": "-1"
   },
   {
     "name": "Neevan Redkar",
@@ -191,8 +191,8 @@
       "totalSolved": 10
     },
     "score": 22,
-    "originalRank": 14,
-    "rankChange": "+6"
+    "originalRank": 15,
+    "rankChange": "+5"
   },
   {
     "name": "rohanonleetcode :P",
@@ -204,8 +204,8 @@
       "totalSolved": 10
     },
     "score": 22,
-    "originalRank": 14,
-    "rankChange": "-5"
+    "originalRank": 15,
+    "rankChange": "-6"
   },
   {
     "name": "Aryan Shashikant Patil",
