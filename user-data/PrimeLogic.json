@@ -157,19 +157,22 @@
       "hard": 21
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK",
+    "SPEEDRUN"
+  ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 3,
-      "change": 0
+      "rank": 2,
+      "change": 1
     },
     "daily": {
-      "rank": 3,
+      "rank": 6,
       "change": 0
     },
     "weekly": {
-      "rank": 5,
-      "change": 2
+      "rank": 2,
+      "change": 5
     },
     "monthly": {
       "rank": "--",
