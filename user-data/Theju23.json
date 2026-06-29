@@ -170,20 +170,22 @@
     },
     {
       "date": "2026-06-29",
-      "easy": 232,
+      "easy": 233,
       "medium": 79,
       "hard": 0
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 26,
       "change": 0
     },
     "daily": {
-      "rank": 15,
-      "change": 0
+      "rank": 8,
+      "change": 19
     },
     "weekly": {
       "rank": 20,
