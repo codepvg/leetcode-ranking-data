@@ -2073,21 +2073,23 @@
     {
       "date": "2026-06-29",
       "easy": 49,
-      "medium": 42,
+      "medium": 45,
       "hard": 7
     }
   ],
   "badges": [
+    "UP_LINK",
+    "HOT_STREAK",
     "SPEEDRUN"
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 46,
-      "change": 0
+      "rank": 45,
+      "change": 1
     },
     "daily": {
-      "rank": 13,
-      "change": -5
+      "rank": 3,
+      "change": 5
     },
     "weekly": {
       "rank": 1,
