@@ -147,11 +147,13 @@
     {
       "date": "2026-06-30",
       "easy": 233,
-      "medium": 254,
+      "medium": 255,
       "hard": 15
     }
   ],
-  "badges": [],
+  "badges": [
+    "SPEEDRUN"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 6,
@@ -162,8 +164,8 @@
       "change": 2
     },
     "weekly": {
-      "rank": 4,
-      "change": 0
+      "rank": 3,
+      "change": 1
     },
     "monthly": {
       "rank": "--",
