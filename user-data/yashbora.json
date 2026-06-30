@@ -2057,6 +2057,12 @@
       "easy": 100,
       "medium": 113,
       "hard": 10
+    },
+    {
+      "date": "2026-06-30",
+      "easy": 100,
+      "medium": 113,
+      "hard": 10
     }
   ],
   "badges": [
@@ -2066,11 +2072,11 @@
   "leaderboardRanks": {
     "overall": {
       "rank": 24,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 5,
-      "change": -2
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
       "rank": 3,
@@ -2078,7 +2084,7 @@
     },
     "monthly": {
       "rank": 6,
-      "change": 2
+      "change": 0
     }
   }
 }

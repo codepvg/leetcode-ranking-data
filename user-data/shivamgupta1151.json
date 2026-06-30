@@ -95,23 +95,27 @@
       "easy": 73,
       "medium": 100,
       "hard": 23
+    },
+    {
+      "date": "2026-06-30",
+      "easy": 73,
+      "medium": 100,
+      "hard": 23
     }
   ],
-  "badges": [
-    "UP_LINK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 25,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 20
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 33,
-      "change": 7
+      "rank": 32,
+      "change": 1
     },
     "monthly": {
       "rank": "--",

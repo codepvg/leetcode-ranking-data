@@ -185,11 +185,15 @@
       "easy": 284,
       "medium": 135,
       "hard": 18
+    },
+    {
+      "date": "2026-06-30",
+      "easy": 284,
+      "medium": 135,
+      "hard": 18
     }
   ],
-  "badges": [
-    "UP_LINK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 13,
@@ -197,15 +201,15 @@
     },
     "daily": {
       "rank": 1,
-      "change": 26
+      "change": 0
     },
     "weekly": {
       "rank": 5,
-      "change": 1
+      "change": 0
     },
     "monthly": {
-      "rank": 6,
-      "change": 0
+      "rank": 7,
+      "change": -1
     }
   }
 }

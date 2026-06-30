@@ -197,10 +197,15 @@
       "easy": 75,
       "medium": 81,
       "hard": 8
+    },
+    {
+      "date": "2026-06-30",
+      "easy": 75,
+      "medium": 81,
+      "hard": 8
     }
   ],
   "badges": [
-    "UP_LINK",
     "SPEEDRUN"
   ],
   "leaderboardRanks": {
@@ -209,12 +214,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 2,
-      "change": 11
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 2,
-      "change": 0
+      "rank": 1,
+      "change": 1
     },
     "monthly": {
       "rank": 1,
