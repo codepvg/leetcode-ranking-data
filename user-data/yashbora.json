@@ -2067,23 +2067,25 @@
     {
       "date": "2026-07-01",
       "easy": 100,
-      "medium": 115,
+      "medium": 116,
       "hard": 10
     }
   ],
-  "badges": [],
+  "badges": [
+    "SPEEDRUN"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 21,
       "change": 0
     },
     "daily": {
-      "rank": 4,
-      "change": 0
+      "rank": 1,
+      "change": 4
     },
     "weekly": {
-      "rank": 4,
-      "change": 0
+      "rank": 3,
+      "change": 1
     },
     "monthly": {
       "rank": 6,
