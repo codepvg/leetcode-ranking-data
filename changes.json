@@ -1,16 +1,30 @@
 {
-  "sync_time": "2026-07-01T16:50:09.785Z",
+  "sync_time": "2026-07-01T17:05:31.566Z",
   "rank_changes": [
     {
-      "username": "Sakshi Arun Kapase",
-      "id": "Sakshi_Kapase",
-      "old_rank": 73,
-      "new_rank": 72,
-      "rank_delta": 1
+      "username": "SHREYA KULKARNI",
+      "id": "shreeya25",
+      "old_rank": 45,
+      "new_rank": 42,
+      "rank_delta": 3
+    },
+    {
+      "username": "Ajinkya Ashish Moharir",
+      "id": "AjinkyaMoharir",
+      "old_rank": 42,
+      "new_rank": 43,
+      "rank_delta": -1
+    },
+    {
+      "username": "Eshani Misra",
+      "id": "ESHA18",
+      "old_rank": 44,
+      "new_rank": 45,
+      "rank_delta": -1
     }
   ],
   "new_users": [],
-  "total_new_solves": 2,
-  "users_with_new_solves": 2,
+  "total_new_solves": 7,
+  "users_with_new_solves": 4,
   "no_changes": false
 }
