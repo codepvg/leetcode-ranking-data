@@ -207,11 +207,12 @@
     {
       "date": "2026-07-01",
       "easy": 75,
-      "medium": 81,
+      "medium": 82,
       "hard": 8
     }
   ],
   "badges": [
+    "UP_LINK",
     "SPEEDRUN"
   ],
   "leaderboardRanks": {
@@ -220,12 +221,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 19,
-      "change": 0
+      "rank": 11,
+      "change": 5
     },
     "weekly": {
-      "rank": 3,
-      "change": -2
+      "rank": 2,
+      "change": -1
     },
     "monthly": {
       "rank": 1,
