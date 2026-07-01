@@ -245,6 +245,12 @@
       "easy": 60,
       "medium": 72,
       "hard": 22
+    },
+    {
+      "date": "2026-07-01",
+      "easy": 60,
+      "medium": 72,
+      "hard": 22
     }
   ],
   "badges": [],
@@ -254,16 +260,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 16,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 27,
-      "change": -5
+      "rank": 24,
+      "change": 3
     },
     "monthly": {
-      "rank": 19,
-      "change": -3
+      "rank": 21,
+      "change": -2
     }
   }
 }

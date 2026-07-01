@@ -755,28 +755,31 @@
       "easy": 44,
       "medium": 66,
       "hard": 10
+    },
+    {
+      "date": "2026-07-01",
+      "easy": 44,
+      "medium": 66,
+      "hard": 10
     }
   ],
-  "badges": [
-    "UP_LINK",
-    "HOT_STREAK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 40,
       "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 9
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 13,
-      "change": 1
+      "rank": 15,
+      "change": -2
     },
     "monthly": {
-      "rank": 2,
-      "change": 0
+      "rank": 3,
+      "change": -1
     }
   }
 }
