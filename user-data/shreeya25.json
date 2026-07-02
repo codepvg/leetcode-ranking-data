@@ -2087,29 +2087,34 @@
       "easy": 49,
       "medium": 50,
       "hard": 7
+    },
+    {
+      "date": "2026-07-02",
+      "easy": 49,
+      "medium": 50,
+      "hard": 7
     }
   ],
   "badges": [
-    "UP_LINK",
     "HOT_STREAK",
     "SPEEDRUN"
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 42,
-      "change": 3
+      "change": 0
     },
     "daily": {
-      "rank": 2,
-      "change": 5
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
       "rank": 1,
-      "change": 1
+      "change": 0
     },
     "monthly": {
       "rank": 2,
-      "change": 1
+      "change": 0
     }
   }
 }
