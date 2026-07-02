@@ -212,24 +212,26 @@
     },
     {
       "date": "2026-07-02",
-      "easy": 75,
-      "medium": 84,
+      "easy": 76,
+      "medium": 85,
       "hard": 8
     }
   ],
-  "badges": [],
+  "badges": [
+    "SPEEDRUN"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 32,
       "change": 0
     },
     "daily": {
-      "rank": 12,
+      "rank": 3,
       "change": 0
     },
     "weekly": {
-      "rank": 4,
-      "change": -2
+      "rank": 1,
+      "change": 1
     },
     "monthly": {
       "rank": 1,
