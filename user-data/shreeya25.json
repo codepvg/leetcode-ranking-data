@@ -2090,12 +2090,13 @@
     },
     {
       "date": "2026-07-02",
-      "easy": 50,
+      "easy": 51,
       "medium": 53,
-      "hard": 7
+      "hard": 8
     }
   ],
   "badges": [
+    "HOT_STREAK",
     "SPEEDRUN"
   ],
   "leaderboardRanks": {
@@ -2104,8 +2105,8 @@
       "change": 1
     },
     "daily": {
-      "rank": 4,
-      "change": -2
+      "rank": 2,
+      "change": 0
     },
     "weekly": {
       "rank": 1,
