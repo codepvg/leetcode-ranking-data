@@ -81,23 +81,25 @@
     {
       "date": "2026-07-03",
       "easy": 140,
-      "medium": 178,
+      "medium": 179,
       "hard": 13
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 14,
       "change": 0
     },
     "daily": {
-      "rank": 19,
-      "change": 0
+      "rank": 14,
+      "change": 12
     },
     "weekly": {
-      "rank": 29,
-      "change": -2
+      "rank": 23,
+      "change": 4
     },
     "monthly": {
       "rank": "--",
