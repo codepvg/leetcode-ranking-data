@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-07-03T14:50:41.316Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-03T15:05:57.340Z",
+  "rank_changes": [
+    {
+      "username": "Rayyan Shaikh",
+      "id": "RayyanShaikh",
+      "old_rank": 23,
+      "new_rank": 22,
+      "rank_delta": 1
+    },
+    {
+      "username": "Rajat malapur",
+      "id": "rajatmalapur",
+      "old_rank": 22,
+      "new_rank": 23,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 2,
   "users_with_new_solves": 2,

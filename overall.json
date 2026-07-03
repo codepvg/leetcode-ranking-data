@@ -273,6 +273,19 @@
     "rankChange": 0
   },
   {
+    "name": "Rayyan Shaikh",
+    "id": "RayyanShaikh",
+    "data": {
+      "easySolved": 130,
+      "mediumSolved": 110,
+      "hardSolved": 10,
+      "totalSolved": 250
+    },
+    "score": 510,
+    "originalRank": 22,
+    "rankChange": "+1"
+  },
+  {
     "name": "Rajat malapur",
     "id": "rajatmalapur",
     "data": {
@@ -282,21 +295,8 @@
       "totalSolved": 272
     },
     "score": 508,
-    "originalRank": 22,
-    "rankChange": 0
-  },
-  {
-    "name": "Rayyan Shaikh",
-    "id": "RayyanShaikh",
-    "data": {
-      "easySolved": 130,
-      "mediumSolved": 109,
-      "hardSolved": 10,
-      "totalSolved": 249
-    },
-    "score": 507,
     "originalRank": 23,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Shivam Gupta",
@@ -525,10 +525,10 @@
     "data": {
       "easySolved": 51,
       "mediumSolved": 54,
-      "hardSolved": 8,
-      "totalSolved": 113
+      "hardSolved": 9,
+      "totalSolved": 114
     },
-    "score": 253,
+    "score": 258,
     "originalRank": 41,
     "rankChange": 0
   },
