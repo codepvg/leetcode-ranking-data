@@ -767,27 +767,31 @@
       "easy": 44,
       "medium": 68,
       "hard": 10
+    },
+    {
+      "date": "2026-07-03",
+      "easy": 44,
+      "medium": 68,
+      "hard": 10
     }
   ],
-  "badges": [
-    "HOT_STREAK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 38,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 14,
-      "change": -2
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 14,
-      "change": 0
+      "rank": 15,
+      "change": -1
     },
     "monthly": {
-      "rank": 4,
-      "change": 0
+      "rank": 3,
+      "change": 1
     }
   }
 }
