@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "PRASATH S",
+    "id": "PRASATH1007",
+    "data": {
+      "easySolved": 8,
+      "mediumSolved": 13,
+      "hardSolved": 0,
+      "totalSolved": 21
+    },
+    "score": 47,
+    "originalRank": 5,
+    "rankChange": "+2"
+  },
+  {
     "name": "Nikhil",
     "id": "Nick_kaushik",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 13
     },
     "score": 45,
-    "originalRank": 5,
-    "rankChange": 0
-  },
-  {
-    "name": "PRASATH S",
-    "id": "PRASATH1007",
-    "data": {
-      "easySolved": 8,
-      "mediumSolved": 12,
-      "hardSolved": 0,
-      "totalSolved": 20
-    },
-    "score": 44,
     "originalRank": 6,
-    "rankChange": "+1"
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
