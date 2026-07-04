@@ -1,5 +1,18 @@
 [
   {
+    "name": "Nikhil",
+    "id": "Nick_kaushik",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 1,
+      "hardSolved": 2,
+      "totalSolved": 3
+    },
+    "score": 13,
+    "originalRank": 1,
+    "rankChange": "+21"
+  },
+  {
     "name": "Piyush",
     "id": "Infinite_Universe",
     "data": {
@@ -9,8 +22,8 @@
       "totalSolved": 4
     },
     "score": 12,
-    "originalRank": 1,
-    "rankChange": 0
+    "originalRank": 2,
+    "rankChange": "-1"
   },
   {
     "name": "Rayyan Shaikh",
@@ -22,8 +35,8 @@
       "totalSolved": 5
     },
     "score": 11,
-    "originalRank": 2,
-    "rankChange": 0
+    "originalRank": 3,
+    "rankChange": "-1"
   },
   {
     "name": "Roshan Singh",
@@ -35,19 +48,6 @@
       "totalSolved": 3
     },
     "score": 9,
-    "originalRank": 3,
-    "rankChange": "+19"
-  },
-  {
-    "name": "Nikhil",
-    "id": "Nick_kaushik",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 1,
-      "hardSolved": 1,
-      "totalSolved": 2
-    },
-    "score": 8,
     "originalRank": 4,
     "rankChange": "+18"
   },
