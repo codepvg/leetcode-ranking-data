@@ -182,6 +182,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 2,
+      "hardSolved": 2,
+      "totalSolved": 7
+    },
+    "score": 19,
+    "originalRank": 15,
+    "rankChange": "+6"
+  },
+  {
     "name": "Diya Rambhai Odedara",
     "id": "Diya_Rambhai_Odedara",
     "data": {
@@ -191,21 +204,8 @@
       "totalSolved": 6
     },
     "score": 18,
-    "originalRank": 15,
-    "rankChange": "-2"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 2,
-      "hardSolved": 2,
-      "totalSolved": 6
-    },
-    "score": 18,
-    "originalRank": 15,
-    "rankChange": "+6"
+    "originalRank": 16,
+    "rankChange": "-3"
   },
   {
     "name": "rohanonleetcode :P",
