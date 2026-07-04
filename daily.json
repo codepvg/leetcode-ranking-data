@@ -4,13 +4,26 @@
     "id": "Infinite_Universe",
     "data": {
       "easySolved": 0,
+      "mediumSolved": 2,
+      "hardSolved": 1,
+      "totalSolved": 3
+    },
+    "score": 11,
+    "originalRank": 1,
+    "rankChange": 0
+  },
+  {
+    "name": "Nikhil",
+    "id": "Nick_kaushik",
+    "data": {
+      "easySolved": 0,
       "mediumSolved": 1,
       "hardSolved": 1,
       "totalSolved": 2
     },
     "score": 8,
-    "originalRank": 1,
-    "rankChange": 0
+    "originalRank": 2,
+    "rankChange": "+20"
   },
   {
     "name": "Roshan Singh",
@@ -22,8 +35,8 @@
       "totalSolved": 2
     },
     "score": 6,
-    "originalRank": 2,
-    "rankChange": "+20"
+    "originalRank": 3,
+    "rankChange": "+19"
   },
   {
     "name": "Aryan Shashikant Patil",
@@ -35,8 +48,8 @@
       "totalSolved": 1
     },
     "score": 3,
-    "originalRank": 3,
-    "rankChange": "+19"
+    "originalRank": 4,
+    "rankChange": "+18"
   },
   {
     "name": "Harshad Bhalsing",
@@ -48,21 +61,8 @@
       "totalSolved": 1
     },
     "score": 3,
-    "originalRank": 3,
-    "rankChange": "+6"
-  },
-  {
-    "name": "Nikhil",
-    "id": "Nick_kaushik",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 1
-    },
-    "score": 3,
-    "originalRank": 3,
-    "rankChange": "+19"
+    "originalRank": 4,
+    "rankChange": "+5"
   },
   {
     "name": "YASH YOGESH BORA",

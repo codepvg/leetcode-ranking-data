@@ -292,11 +292,12 @@
       "date": "2026-07-04",
       "easy": 362,
       "medium": 753,
-      "hard": 166
+      "hard": 167
     }
   ],
   "badges": [
-    "UP_LINK"
+    "UP_LINK",
+    "SPEEDRUN"
   ],
   "leaderboardRanks": {
     "overall": {
@@ -304,16 +305,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 3,
-      "change": 19
+      "rank": 2,
+      "change": 20
     },
     "weekly": {
-      "rank": 5,
-      "change": 2
+      "rank": 3,
+      "change": 4
     },
     "monthly": {
-      "rank": 9,
-      "change": 2
+      "rank": 8,
+      "change": 3
     }
   }
 }
