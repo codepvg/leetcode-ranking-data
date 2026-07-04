@@ -156,6 +156,19 @@
     "rankChange": 0
   },
   {
+    "name": "Rayyan Shaikh",
+    "id": "RayyanShaikh",
+    "data": {
+      "easySolved": 10,
+      "mediumSolved": 22,
+      "hardSolved": 1,
+      "totalSolved": 33
+    },
+    "score": 81,
+    "originalRank": 13,
+    "rankChange": "+2"
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -165,21 +178,8 @@
       "totalSolved": 26
     },
     "score": 80,
-    "originalRank": 13,
-    "rankChange": 0
-  },
-  {
-    "name": "Rayyan Shaikh",
-    "id": "RayyanShaikh",
-    "data": {
-      "easySolved": 10,
-      "mediumSolved": 21,
-      "hardSolved": 1,
-      "totalSolved": 32
-    },
-    "score": 78,
     "originalRank": 14,
-    "rankChange": "+1"
+    "rankChange": "-1"
   },
   {
     "name": "Rishab Chandgothia",
