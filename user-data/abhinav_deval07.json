@@ -225,27 +225,29 @@
     {
       "date": "2026-07-04",
       "easy": 65,
-      "medium": 76,
+      "medium": 77,
       "hard": 14
     }
   ],
-  "badges": [],
+  "badges": [
+    "HOT_STREAK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 33,
       "change": 0
     },
     "daily": {
-      "rank": 9,
-      "change": -7
+      "rank": 7,
+      "change": -5
     },
     "weekly": {
-      "rank": 6,
-      "change": -1
+      "rank": 5,
+      "change": 0
     },
     "monthly": {
-      "rank": 4,
-      "change": 0
+      "rank": 3,
+      "change": 1
     }
   }
 }
