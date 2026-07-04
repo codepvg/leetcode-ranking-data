@@ -215,28 +215,31 @@
       "easy": 87,
       "medium": 100,
       "hard": 40
+    },
+    {
+      "date": "2026-07-04",
+      "easy": 87,
+      "medium": 100,
+      "hard": 40
     }
   ],
-  "badges": [
-    "UP_LINK",
-    "HOT_STREAK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 18,
       "change": 0
     },
     "daily": {
-      "rank": 9,
-      "change": 5
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 13,
-      "change": 1
+      "rank": 15,
+      "change": -2
     },
     "monthly": {
-      "rank": 10,
-      "change": 0
+      "rank": 9,
+      "change": 1
     }
   }
 }
