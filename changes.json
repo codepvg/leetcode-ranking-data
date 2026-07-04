@@ -1,8 +1,18 @@
 {
-  "sync_time": "2026-07-04T11:43:05.390Z",
-  "rank_changes": [],
-  "new_users": [],
+  "sync_time": "2026-07-04T11:58:24.225Z",
+  "rank_changes": [
+    {
+      "username": "Prajwal Barsagade",
+      "id": "Prajwal_0711",
+      "old_rank": 93,
+      "new_rank": 94,
+      "rank_delta": -1
+    }
+  ],
+  "new_users": [
+    "bigcookiejar"
+  ],
   "total_new_solves": 0,
   "users_with_new_solves": 0,
-  "no_changes": true
+  "no_changes": false
 }
