@@ -2114,20 +2114,22 @@
     },
     {
       "date": "2026-07-05",
-      "easy": 162,
+      "easy": 163,
       "medium": 105,
       "hard": 7
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 23,
       "change": 0
     },
     "daily": {
-      "rank": 2,
-      "change": 0
+      "rank": 4,
+      "change": 11
     },
     "weekly": {
       "rank": 11,
