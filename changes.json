@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-05T16:59:34.688Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-05T17:14:53.186Z",
+  "rank_changes": [
+    {
+      "username": "Diya Rambhai Odedara",
+      "id": "Diya_Rambhai_Odedara",
+      "old_rank": 18,
+      "new_rank": 17,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
