@@ -955,23 +955,25 @@
       "hard": 2
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 49,
-      "change": 0
+      "rank": 48,
+      "change": 1
     },
     "daily": {
-      "rank": 12,
+      "rank": 11,
       "change": 0
     },
     "weekly": {
-      "rank": 21,
-      "change": 4
+      "rank": 20,
+      "change": 5
     },
     "monthly": {
-      "rank": 25,
-      "change": 1
+      "rank": 24,
+      "change": 2
     }
   }
 }
