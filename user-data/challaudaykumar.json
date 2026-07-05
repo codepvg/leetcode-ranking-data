@@ -89,21 +89,29 @@
       "easy": 100,
       "medium": 61,
       "hard": 8
+    },
+    {
+      "date": "2026-07-05",
+      "easy": 100,
+      "medium": 61,
+      "hard": 8
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 36,
       "change": 0
     },
     "daily": {
-      "rank": 20,
-      "change": -11
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 25,
-      "change": 3
+      "rank": 20,
+      "change": 5
     },
     "monthly": {
       "rank": "--",

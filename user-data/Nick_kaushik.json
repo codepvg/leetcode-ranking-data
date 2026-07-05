@@ -293,12 +293,15 @@
       "easy": 363,
       "medium": 755,
       "hard": 169
+    },
+    {
+      "date": "2026-07-05",
+      "easy": 363,
+      "medium": 755,
+      "hard": 169
     }
   ],
-  "badges": [
-    "UP_LINK",
-    "SPEEDRUN"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 1,
@@ -306,15 +309,15 @@
     },
     "daily": {
       "rank": 1,
-      "change": 21
+      "change": 0
     },
     "weekly": {
-      "rank": 3,
-      "change": 4
+      "rank": 4,
+      "change": -1
     },
     "monthly": {
       "rank": 8,
-      "change": 3
+      "change": 0
     }
   }
 }
