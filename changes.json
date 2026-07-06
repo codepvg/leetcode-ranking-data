@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-06T12:03:36.424Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-06T12:18:50.607Z",
+  "rank_changes": [
+    {
+      "username": "Jeet Sudhish Pachpande",
+      "id": "jeet_pachpande",
+      "old_rank": 58,
+      "new_rank": 57,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
