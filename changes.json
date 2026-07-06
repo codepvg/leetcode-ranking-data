@@ -1,8 +1,32 @@
 {
-  "sync_time": "2026-07-06T19:32:31.932Z",
-  "rank_changes": [],
-  "new_users": [],
+  "sync_time": "2026-07-06T19:47:43.358Z",
+  "rank_changes": [
+    {
+      "username": "Vanshika Maheshwari",
+      "id": "vanshikamaheshwari",
+      "old_rank": 91,
+      "new_rank": 92,
+      "rank_delta": -1
+    },
+    {
+      "username": "Prajwal Barsagade",
+      "id": "Prajwal_0711",
+      "old_rank": 93,
+      "new_rank": 94,
+      "rank_delta": -1
+    },
+    {
+      "username": "Shrutika Bhosale",
+      "id": "Shrutika_20",
+      "old_rank": 95,
+      "new_rank": 96,
+      "rank_delta": -1
+    }
+  ],
+  "new_users": [
+    "re"
+  ],
   "total_new_solves": 0,
   "users_with_new_solves": 0,
-  "no_changes": true
+  "no_changes": false
 }
