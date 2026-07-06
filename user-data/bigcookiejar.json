@@ -2,10 +2,10 @@
   "leaderboardRanks": {
     "overall": {
       "rank": 85,
-      "change": 6
+      "change": 0
     },
     "daily": {
-      "rank": 15,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
@@ -29,9 +29,13 @@
       "easy": 3,
       "medium": 1,
       "hard": 0
+    },
+    {
+      "date": "2026-07-06",
+      "easy": 3,
+      "medium": 1,
+      "hard": 0
     }
   ],
-  "badges": [
-    "UP_LINK"
-  ]
+  "badges": []
 }
