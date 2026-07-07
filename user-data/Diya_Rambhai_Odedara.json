@@ -236,28 +236,30 @@
     },
     {
       "date": "2026-07-07",
-      "easy": 87,
+      "easy": 88,
       "medium": 102,
       "hard": 41
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 17,
       "change": 0
     },
     "daily": {
-      "rank": 6,
-      "change": 0
+      "rank": 2,
+      "change": 6
     },
     "weekly": {
       "rank": 14,
       "change": 1
     },
     "monthly": {
-      "rank": 13,
-      "change": -1
+      "rank": 12,
+      "change": 0
     }
   }
 }
