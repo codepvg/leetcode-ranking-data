@@ -237,23 +237,25 @@
     {
       "date": "2026-07-07",
       "easy": 107,
-      "medium": 55,
+      "medium": 56,
       "hard": 9
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 37,
       "change": -1
     },
     "daily": {
-      "rank": 8,
-      "change": 0
+      "rank": 3,
+      "change": 5
     },
     "weekly": {
-      "rank": 20,
-      "change": 0
+      "rank": 19,
+      "change": 1
     },
     "monthly": {
       "rank": 16,
