@@ -440,12 +440,14 @@
     },
     {
       "date": "2026-07-08",
-      "easy": 257,
+      "easy": 258,
       "medium": 230,
       "hard": 26
     }
   ],
-  "badges": [],
+  "badges": [
+    "HOT_STREAK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 7,
@@ -456,8 +458,8 @@
       "change": 4
     },
     "weekly": {
-      "rank": 6,
-      "change": 3
+      "rank": 5,
+      "change": 4
     },
     "monthly": {
       "rank": 6,
