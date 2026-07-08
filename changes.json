@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-07-08T18:47:12.961Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-08T19:02:25.373Z",
+  "rank_changes": [
+    {
+      "username": "Jeet Sudhish Pachpande",
+      "id": "jeet_pachpande",
+      "old_rank": 55,
+      "new_rank": 54,
+      "rank_delta": 1
+    },
+    {
+      "username": "Atharv Arvind Deshmukh",
+      "id": "Code_Atharv07",
+      "old_rank": 54,
+      "new_rank": 55,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
