@@ -2133,27 +2133,29 @@
     {
       "date": "2026-07-09",
       "easy": 136,
-      "medium": 282,
+      "medium": 283,
       "hard": 59
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 4,
       "change": 0
     },
     "daily": {
-      "rank": 3,
-      "change": 0
+      "rank": 1,
+      "change": 8
     },
     "weekly": {
-      "rank": 6,
-      "change": 0
+      "rank": 5,
+      "change": 1
     },
     "monthly": {
-      "rank": 9,
-      "change": 1
+      "rank": 7,
+      "change": 3
     }
   }
 }
