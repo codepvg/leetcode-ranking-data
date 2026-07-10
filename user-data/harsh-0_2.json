@@ -2140,26 +2140,28 @@
       "date": "2026-07-10",
       "easy": 136,
       "medium": 283,
-      "hard": 59
+      "hard": 60
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 4,
       "change": 0
     },
     "daily": {
-      "rank": 14,
-      "change": 0
+      "rank": 5,
+      "change": 5
     },
     "weekly": {
-      "rank": 8,
-      "change": -1
+      "rank": 7,
+      "change": 0
     },
     "monthly": {
-      "rank": 8,
-      "change": 0
+      "rank": 7,
+      "change": 1
     }
   }
 }
