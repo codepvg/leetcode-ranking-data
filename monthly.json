@@ -5,10 +5,10 @@
     "data": {
       "easySolved": 11,
       "mediumSolved": 77,
-      "hardSolved": 10,
-      "totalSolved": 98
+      "hardSolved": 11,
+      "totalSolved": 99
     },
-    "score": 292,
+    "score": 297,
     "originalRank": 1,
     "rankChange": 0
   },
@@ -182,6 +182,19 @@
     "rankChange": 0
   },
   {
+    "name": "Pari Patel",
+    "id": "PariChess07",
+    "data": {
+      "easySolved": 14,
+      "mediumSolved": 19,
+      "hardSolved": 1,
+      "totalSolved": 34
+    },
+    "score": 76,
+    "originalRank": 15,
+    "rankChange": "+1"
+  },
+  {
     "name": "Ridima",
     "id": "dojakit",
     "data": {
@@ -191,21 +204,8 @@
       "totalSolved": 28
     },
     "score": 74,
-    "originalRank": 15,
-    "rankChange": 0
-  },
-  {
-    "name": "Pari Patel",
-    "id": "PariChess07",
-    "data": {
-      "easySolved": 14,
-      "mediumSolved": 18,
-      "hardSolved": 1,
-      "totalSolved": 33
-    },
-    "score": 73,
     "originalRank": 16,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Rishab Chandgothia",
