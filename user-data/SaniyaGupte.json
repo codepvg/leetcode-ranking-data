@@ -2079,27 +2079,29 @@
     {
       "date": "2026-07-11",
       "easy": 178,
-      "medium": 212,
+      "medium": 213,
       "hard": 12
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 11,
       "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 0
+      "rank": 2,
+      "change": 17
     },
     "weekly": {
-      "rank": 35,
-      "change": 0
+      "rank": 28,
+      "change": 7
     },
     "monthly": {
-      "rank": 39,
-      "change": 0
+      "rank": 38,
+      "change": 1
     }
   }
 }

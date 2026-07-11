@@ -1,8 +1,30 @@
 {
-  "sync_time": "2026-07-11T05:46:22.808Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-11T06:01:34.901Z",
+  "rank_changes": [
+    {
+      "username": "Piyush",
+      "id": "Infinite_Universe",
+      "old_rank": 6,
+      "new_rank": 5,
+      "rank_delta": 1
+    },
+    {
+      "username": "Khwaish Garg",
+      "id": "KhwaishGarg",
+      "old_rank": 38,
+      "new_rank": 37,
+      "rank_delta": 1
+    },
+    {
+      "username": "Challa Uday Kumar",
+      "id": "challaudaykumar",
+      "old_rank": 37,
+      "new_rank": 38,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 4,
+  "users_with_new_solves": 4,
+  "no_changes": false
 }
