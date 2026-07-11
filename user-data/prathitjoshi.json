@@ -815,21 +815,29 @@
       "easy": 53,
       "medium": 78,
       "hard": 10
+    },
+    {
+      "date": "2026-07-11",
+      "easy": 53,
+      "medium": 78,
+      "hard": 10
     }
   ],
-  "badges": [],
+  "badges": [
+    "SPEEDRUN"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 35,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 19,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 5,
-      "change": -1
+      "rank": 3,
+      "change": 2
     },
     "monthly": {
       "rank": 10,

@@ -305,21 +305,29 @@
       "easy": 61,
       "medium": 73,
       "hard": 22
+    },
+    {
+      "date": "2026-07-11",
+      "easy": 61,
+      "medium": 73,
+      "hard": 22
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 31,
       "change": 0
     },
     "daily": {
-      "rank": 19,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 33,
-      "change": 0
+      "rank": 28,
+      "change": 5
     },
     "monthly": {
       "rank": 25,
