@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-07-11T09:35:15.117Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-11T09:50:32.277Z",
+  "rank_changes": [
+    {
+      "username": "Abhinav Deval",
+      "id": "abhinav_deval07",
+      "old_rank": 32,
+      "new_rank": 31,
+      "rank_delta": 1
+    },
+    {
+      "username": "Vishal raut",
+      "id": "vishalraut21066",
+      "old_rank": 31,
+      "new_rank": 32,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
