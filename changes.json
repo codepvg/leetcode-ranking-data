@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-07-12T14:23:34.853Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-12T14:38:51.374Z",
+  "rank_changes": [
+    {
+      "username": "Vishwajit Hodgar",
+      "id": "vishwajit15-git",
+      "old_rank": 63,
+      "new_rank": 62,
+      "rank_delta": 1
+    },
+    {
+      "username": "Shrinidhi Upadhye",
+      "id": "shirya205",
+      "old_rank": 62,
+      "new_rank": 63,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 4,
+  "total_new_solves": 1,
   "users_with_new_solves": 1,
   "no_changes": false
 }
