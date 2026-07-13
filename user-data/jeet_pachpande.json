@@ -539,10 +539,15 @@
       "easy": 27,
       "medium": 33,
       "hard": 4
+    },
+    {
+      "date": "2026-07-13",
+      "easy": 27,
+      "medium": 33,
+      "hard": 4
     }
   ],
   "badges": [
-    "UP_LINK",
     "HOT_STREAK"
   ],
   "leaderboardRanks": {
@@ -551,16 +556,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 4,
-      "change": 12
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 6,
-      "change": 5
+      "rank": 4,
+      "change": 2
     },
     "monthly": {
       "rank": 26,
-      "change": 1
+      "change": 0
     }
   }
 }
