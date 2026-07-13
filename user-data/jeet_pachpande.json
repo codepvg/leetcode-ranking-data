@@ -542,20 +542,22 @@
     },
     {
       "date": "2026-07-13",
-      "easy": 28,
+      "easy": 29,
       "medium": 33,
       "hard": 4
     }
   ],
-  "badges": [],
+  "badges": [
+    "HOT_STREAK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 52,
       "change": 0
     },
     "daily": {
-      "rank": 20,
-      "change": -16
+      "rank": 19,
+      "change": -15
     },
     "weekly": {
       "rank": 6,
