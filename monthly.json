@@ -78,6 +78,19 @@
     "rankChange": 0
   },
   {
+    "name": "Nikhil",
+    "id": "Nick_kaushik",
+    "data": {
+      "easySolved": 6,
+      "mediumSolved": 19,
+      "hardSolved": 14,
+      "totalSolved": 39
+    },
+    "score": 133,
+    "originalRank": 7,
+    "rankChange": 0
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -87,21 +100,8 @@
       "totalSolved": 39
     },
     "score": 129,
-    "originalRank": 7,
-    "rankChange": "+2"
-  },
-  {
-    "name": "Nikhil",
-    "id": "Nick_kaushik",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 19,
-      "hardSolved": 13,
-      "totalSolved": 38
-    },
-    "score": 128,
     "originalRank": 8,
-    "rankChange": "-1"
+    "rankChange": "+1"
   },
   {
     "name": "PRASATH S",
@@ -419,12 +419,12 @@
     "name": "Harshal Mahajan",
     "id": "Harshal2613",
     "data": {
-      "easySolved": 2,
+      "easySolved": 4,
       "mediumSolved": 3,
       "hardSolved": 0,
-      "totalSolved": 5
+      "totalSolved": 7
     },
-    "score": 11,
+    "score": 13,
     "originalRank": 33,
     "rankChange": 0
   },
