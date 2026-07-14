@@ -548,20 +548,22 @@
     },
     {
       "date": "2026-07-14",
-      "easy": 29,
+      "easy": 30,
       "medium": 33,
       "hard": 4
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 52,
       "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 0
+      "rank": 6,
+      "change": 14
     },
     "weekly": {
       "rank": 5,
