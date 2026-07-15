@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-15T18:44:33.590Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-15T18:59:46.659Z",
+  "rank_changes": [
+    {
+      "username": "nikita sharma",
+      "id": "_nikita_a9",
+      "old_rank": 99,
+      "new_rank": 95,
+      "rank_delta": 4
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
