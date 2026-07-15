@@ -1791,27 +1791,29 @@
     {
       "date": "2026-07-15",
       "easy": 33,
-      "medium": 22,
+      "medium": 23,
       "hard": 0
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 61,
       "change": 0
     },
     "daily": {
-      "rank": 24,
-      "change": 0
+      "rank": 8,
+      "change": 20
     },
     "weekly": {
-      "rank": 46,
-      "change": 0
+      "rank": 37,
+      "change": 8
     },
     "monthly": {
-      "rank": 51,
-      "change": 0
+      "rank": 46,
+      "change": 5
     }
   }
 }
