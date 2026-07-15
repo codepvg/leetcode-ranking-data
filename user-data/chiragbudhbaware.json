@@ -644,28 +644,30 @@
     },
     {
       "date": "2026-07-15",
-      "easy": 3,
+      "easy": 4,
       "medium": 1,
       "hard": 0
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 87,
       "change": 0
     },
     "daily": {
-      "rank": 29,
-      "change": 0
+      "rank": 20,
+      "change": 8
     },
     "weekly": {
-      "rank": 33,
-      "change": -4
+      "rank": 30,
+      "change": -1
     },
     "monthly": {
-      "rank": 43,
-      "change": -1
+      "rank": 42,
+      "change": 0
     }
   }
 }
