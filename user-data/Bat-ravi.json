@@ -158,20 +158,22 @@
     },
     {
       "date": "2026-07-16",
-      "easy": 244,
+      "easy": 245,
       "medium": 524,
       "hard": 73
     }
   ],
-  "badges": [],
+  "badges": [
+    "UP_LINK"
+  ],
   "leaderboardRanks": {
     "overall": {
       "rank": 2,
       "change": 0
     },
     "daily": {
-      "rank": 22,
-      "change": 0
+      "rank": 20,
+      "change": 13
     },
     "weekly": {
       "rank": 18,
