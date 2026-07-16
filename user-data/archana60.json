@@ -2177,27 +2177,31 @@
       "easy": 56,
       "medium": 43,
       "hard": 2
+    },
+    {
+      "date": "2026-07-16",
+      "easy": 56,
+      "medium": 43,
+      "hard": 2
     }
   ],
-  "badges": [
-    "UP_LINK"
-  ],
+  "badges": [],
   "leaderboardRanks": {
     "overall": {
       "rank": 48,
-      "change": 1
+      "change": 0
     },
     "daily": {
+      "rank": 1,
+      "change": 0
+    },
+    "weekly": {
       "rank": 5,
       "change": 1
     },
-    "weekly": {
-      "rank": 6,
-      "change": 8
-    },
     "monthly": {
       "rank": 27,
-      "change": 2
+      "change": 0
     }
   }
 }

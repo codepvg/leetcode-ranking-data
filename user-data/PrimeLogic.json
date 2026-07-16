@@ -257,10 +257,15 @@
       "easy": 405,
       "medium": 263,
       "hard": 30
+    },
+    {
+      "date": "2026-07-16",
+      "easy": 405,
+      "medium": 263,
+      "hard": 30
     }
   ],
   "badges": [
-    "UP_LINK",
     "HOT_STREAK",
     "SPEEDRUN"
   ],
@@ -270,16 +275,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 3,
-      "change": 13
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 3,
-      "change": 0
+      "rank": 2,
+      "change": 1
     },
     "monthly": {
       "rank": 6,
-      "change": 2
+      "change": 0
     }
   }
 }
