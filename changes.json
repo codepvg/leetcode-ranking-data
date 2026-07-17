@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-17T08:18:18.496Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-17T08:33:34.216Z",
+  "rank_changes": [
+    {
+      "username": "Kartik Bodke",
+      "id": "kartikbodke",
+      "old_rank": 55,
+      "new_rank": 54,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
