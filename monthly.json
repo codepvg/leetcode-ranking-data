@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Abhinav Deval",
+    "id": "abhinav_deval07",
+    "data": {
+      "easySolved": 19,
+      "mediumSolved": 30,
+      "hardSolved": 10,
+      "totalSolved": 59
+    },
+    "score": 159,
+    "originalRank": 4,
+    "rankChange": "+1"
+  },
+  {
     "name": "YASH YOGESH BORA",
     "id": "yashbora",
     "data": {
@@ -48,8 +61,8 @@
       "totalSolved": 68
     },
     "score": 156,
-    "originalRank": 4,
-    "rankChange": 0
+    "originalRank": 5,
+    "rankChange": "-1"
   },
   {
     "name": "Sayondeep Daripa",
@@ -61,21 +74,8 @@
       "totalSolved": 45
     },
     "score": 155,
-    "originalRank": 5,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Abhinav Deval",
-    "id": "abhinav_deval07",
-    "data": {
-      "easySolved": 19,
-      "mediumSolved": 30,
-      "hardSolved": 9,
-      "totalSolved": 58
-    },
-    "score": 154,
     "originalRank": 6,
-    "rankChange": "-1"
+    "rankChange": 0
   },
   {
     "name": "Nikhil",
@@ -83,10 +83,10 @@
     "data": {
       "easySolved": 8,
       "mediumSolved": 19,
-      "hardSolved": 14,
-      "totalSolved": 41
+      "hardSolved": 15,
+      "totalSolved": 42
     },
-    "score": 135,
+    "score": 140,
     "originalRank": 7,
     "rankChange": 0
   },
