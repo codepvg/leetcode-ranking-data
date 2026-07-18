@@ -30,11 +30,11 @@
     "id": "Infinite_Universe",
     "data": {
       "easySolved": 1,
-      "mediumSolved": 11,
+      "mediumSolved": 12,
       "hardSolved": 3,
-      "totalSolved": 15
+      "totalSolved": 16
     },
-    "score": 49,
+    "score": 52,
     "originalRank": 3,
     "rankChange": 0
   },
@@ -338,6 +338,19 @@
     "rankChange": "-3"
   },
   {
+    "name": "Khwaish Garg",
+    "id": "KhwaishGarg",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 1,
+      "hardSolved": 1,
+      "totalSolved": 5
+    },
+    "score": 11,
+    "originalRank": 24,
+    "rankChange": "-9"
+  },
+  {
     "name": "Yashaswini KP",
     "id": "Yashaswini_K_P",
     "data": {
@@ -360,21 +373,8 @@
       "totalSolved": 4
     },
     "score": 10,
-    "originalRank": 28,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Khwaish Garg",
-    "id": "KhwaishGarg",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 1,
-      "hardSolved": 1,
-      "totalSolved": 4
-    },
-    "score": 10,
-    "originalRank": 28,
-    "rankChange": "-13"
+    "originalRank": 29,
+    "rankChange": 0
   },
   {
     "name": "Rajat malapur",
@@ -386,8 +386,8 @@
       "totalSolved": 6
     },
     "score": 10,
-    "originalRank": 28,
-    "rankChange": "+2"
+    "originalRank": 29,
+    "rankChange": "+1"
   },
   {
     "name": "Ridima",
