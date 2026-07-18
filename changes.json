@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-18T05:08:03.854Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-18T05:23:23.838Z",
+  "rank_changes": [
+    {
+      "username": "Mythri",
+      "id": "mythri_05",
+      "old_rank": 37,
+      "new_rank": 38,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 4,
+  "users_with_new_solves": 4,
+  "no_changes": false
 }
