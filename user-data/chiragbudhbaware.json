@@ -671,24 +671,30 @@
       "easy": 4,
       "medium": 1,
       "hard": 0
+    },
+    {
+      "date": "2026-07-20",
+      "easy": 4,
+      "medium": 1,
+      "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 88,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 28,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 44,
-      "change": -2
+      "rank": 43,
+      "change": 1
     },
     "monthly": {
-      "rank": 42,
-      "change": -1
+      "rank": 45,
+      "change": -3
     }
   }
 }
