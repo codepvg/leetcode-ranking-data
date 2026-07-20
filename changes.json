@@ -1,6 +1,28 @@
 {
-  "sync_time": "2026-07-20T17:43:49.133Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-20T17:59:01.845Z",
+  "rank_changes": [
+    {
+      "username": "Sakshi Arun Kapase",
+      "id": "Sakshi_Kapase",
+      "old_rank": 71,
+      "new_rank": 68,
+      "rank_delta": 3
+    },
+    {
+      "username": "sharon",
+      "id": "Sharon_Chelsy",
+      "old_rank": 69,
+      "new_rank": 70,
+      "rank_delta": -1
+    },
+    {
+      "username": "Triveni Waghole",
+      "id": "Triveni_24",
+      "old_rank": 71,
+      "new_rank": 72,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
