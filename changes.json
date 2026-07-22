@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-22T04:46:05.764Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-22T05:01:22.223Z",
+  "rank_changes": [
+    {
+      "username": "Aryan Anoop Parihar",
+      "id": "AryanParihar07",
+      "old_rank": 76,
+      "new_rank": 75,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
