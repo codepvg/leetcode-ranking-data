@@ -200,27 +200,27 @@
     },
     {
       "date": "2026-07-23",
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
+      "easy": 100,
+      "medium": 62,
+      "hard": 8
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 67,
-      "change": -27
-    },
-    "daily": {
-      "rank": 16,
+      "rank": 40,
       "change": 0
     },
-    "weekly": {
+    "daily": {
       "rank": 25,
       "change": 0
     },
-    "monthly": {
-      "rank": 31,
+    "weekly": {
+      "rank": 48,
       "change": 0
+    },
+    "monthly": {
+      "rank": 36,
+      "change": -2
     }
   }
 }

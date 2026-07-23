@@ -2276,27 +2276,27 @@
     },
     {
       "date": "2026-07-23",
-      "easy": 0,
-      "medium": 0,
-      "hard": 0
+      "easy": 25,
+      "medium": 10,
+      "hard": 1
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 67,
-      "change": 2
-    },
-    "daily": {
-      "rank": 16,
+      "rank": 69,
       "change": 0
     },
-    "weekly": {
+    "daily": {
       "rank": 25,
       "change": 0
     },
-    "monthly": {
-      "rank": 31,
+    "weekly": {
+      "rank": 48,
       "change": 0
+    },
+    "monthly": {
+      "rank": 47,
+      "change": -1
     }
   }
 }

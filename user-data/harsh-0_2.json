@@ -2223,20 +2223,20 @@
   ],
   "leaderboardRanks": {
     "overall": {
+      "rank": 4,
+      "change": 0
+    },
+    "daily": {
       "rank": 2,
       "change": 2
     },
-    "daily": {
-      "rank": 1,
+    "weekly": {
+      "rank": 3,
       "change": 3
     },
-    "weekly": {
-      "rank": 1,
-      "change": 5
-    },
     "monthly": {
-      "rank": 3,
-      "change": 4
+      "rank": 6,
+      "change": 1
     }
   }
 }
