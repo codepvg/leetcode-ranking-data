@@ -5,10 +5,10 @@
     "data": {
       "easySolved": 2,
       "mediumSolved": 7,
-      "hardSolved": 5,
-      "totalSolved": 14
+      "hardSolved": 6,
+      "totalSolved": 15
     },
-    "score": 48,
+    "score": 53,
     "originalRank": 1,
     "rankChange": 0
   },
@@ -39,6 +39,19 @@
     "rankChange": "+1"
   },
   {
+    "name": "Raviteja P",
+    "id": "Bat-ravi",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 10,
+      "hardSolved": 1,
+      "totalSolved": 14
+    },
+    "score": 38,
+    "originalRank": 3,
+    "rankChange": "+2"
+  },
+  {
     "name": "Piyush",
     "id": "Infinite_Universe",
     "data": {
@@ -48,21 +61,8 @@
       "totalSolved": 10
     },
     "score": 36,
-    "originalRank": 4,
-    "rankChange": "-1"
-  },
-  {
-    "name": "Raviteja P",
-    "id": "Bat-ravi",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 9,
-      "hardSolved": 1,
-      "totalSolved": 13
-    },
-    "score": 35,
     "originalRank": 5,
-    "rankChange": 0
+    "rankChange": "-2"
   },
   {
     "name": "Rishab Chandgothia",
