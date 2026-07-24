@@ -1061,24 +1061,30 @@
       "easy": 42,
       "medium": 46,
       "hard": 2
+    },
+    {
+      "date": "2026-07-24",
+      "easy": 42,
+      "medium": 46,
+      "hard": 2
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 50,
-      "change": 0
+      "rank": 49,
+      "change": 1
     },
     "daily": {
-      "rank": 27,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 48,
+      "rank": 47,
       "change": 0
     },
     "monthly": {
-      "rank": 38,
-      "change": 0
+      "rank": 40,
+      "change": -2
     }
   }
 }

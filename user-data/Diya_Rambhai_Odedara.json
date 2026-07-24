@@ -335,6 +335,12 @@
       "easy": 92,
       "medium": 110,
       "hard": 45
+    },
+    {
+      "date": "2026-07-24",
+      "easy": 92,
+      "medium": 110,
+      "hard": 45
     }
   ],
   "leaderboardRanks": {
@@ -343,15 +349,15 @@
       "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 5
-    },
-    "weekly": {
-      "rank": 13,
+      "rank": 1,
       "change": 0
     },
+    "weekly": {
+      "rank": 14,
+      "change": -1
+    },
     "monthly": {
-      "rank": 13,
+      "rank": 12,
       "change": 1
     }
   }

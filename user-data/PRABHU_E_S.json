@@ -1,11 +1,11 @@
 {
   "leaderboardRanks": {
     "overall": {
-      "rank": 85,
-      "change": 0
+      "rank": 83,
+      "change": 2
     },
     "daily": {
-      "rank": 27,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
@@ -32,6 +32,12 @@
     },
     {
       "date": "2026-07-23",
+      "easy": 7,
+      "medium": 1,
+      "hard": 1
+    },
+    {
+      "date": "2026-07-24",
       "easy": 7,
       "medium": 1,
       "hard": 1
