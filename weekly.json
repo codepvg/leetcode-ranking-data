@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 7,
+      "hardSolved": 3,
+      "totalSolved": 10
+    },
+    "score": 36,
+    "originalRank": 4,
+    "rankChange": "+1"
+  },
+  {
     "name": "Abhinav Deval",
     "id": "abhinav_deval07",
     "data": {
@@ -48,20 +61,7 @@
       "totalSolved": 15
     },
     "score": 33,
-    "originalRank": 4,
-    "rankChange": "+2"
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 6,
-      "hardSolved": 3,
-      "totalSolved": 9
-    },
-    "score": 33,
-    "originalRank": 4,
+    "originalRank": 5,
     "rankChange": "+1"
   },
   {
@@ -74,8 +74,8 @@
       "totalSolved": 13
     },
     "score": 33,
-    "originalRank": 4,
-    "rankChange": "+2"
+    "originalRank": 5,
+    "rankChange": "+1"
   },
   {
     "name": "Raviteja P",
