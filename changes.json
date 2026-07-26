@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-26T03:57:31.319Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-26T04:12:48.821Z",
+  "rank_changes": [
+    {
+      "username": "Khwaish Garg",
+      "id": "KhwaishGarg",
+      "old_rank": 37,
+      "new_rank": 38,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 10,
+  "users_with_new_solves": 7,
+  "no_changes": false
 }
