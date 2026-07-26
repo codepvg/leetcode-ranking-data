@@ -356,7 +356,7 @@
     },
     {
       "date": "2026-07-26",
-      "easy": 76,
+      "easy": 77,
       "medium": 93,
       "hard": 19
     }
@@ -367,12 +367,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 11,
-      "change": 0
+      "rank": 6,
+      "change": 11
     },
     "weekly": {
-      "rank": 6,
-      "change": -1
+      "rank": 5,
+      "change": 0
     },
     "monthly": {
       "rank": 5,
@@ -380,8 +380,8 @@
     }
   },
   "streak": {
-    "current": 37,
-    "longest": 37,
-    "lastActiveDate": "2026-07-25"
+    "current": 38,
+    "longest": 38,
+    "lastActiveDate": "2026-07-26"
   }
 }
