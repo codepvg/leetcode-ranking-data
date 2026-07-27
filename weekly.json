@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "Kartik Bodke",
+    "id": "kartikbodke",
+    "data": {
+      "easySolved": 7,
+      "mediumSolved": 4,
+      "hardSolved": 1,
+      "totalSolved": 12
+    },
+    "score": 24,
+    "originalRank": 5,
+    "rankChange": "+5"
+  },
+  {
     "name": "SHREYA KULKARNI",
     "id": "shreeya25",
     "data": {
@@ -65,19 +78,6 @@
     "rankChange": "-2"
   },
   {
-    "name": "Kartik Bodke",
-    "id": "kartikbodke",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 4,
-      "hardSolved": 1,
-      "totalSolved": 11
-    },
-    "score": 23,
-    "originalRank": 6,
-    "rankChange": "+4"
-  },
-  {
     "name": "Pari Patel",
     "id": "PariChess07",
     "data": {
@@ -87,8 +87,8 @@
       "totalSolved": 11
     },
     "score": 23,
-    "originalRank": 6,
-    "rankChange": "+2"
+    "originalRank": 7,
+    "rankChange": "+1"
   },
   {
     "name": "PRASATH S",
