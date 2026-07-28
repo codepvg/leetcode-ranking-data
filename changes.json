@@ -1,16 +1,30 @@
 {
-  "sync_time": "2026-07-28T03:52:53.768Z",
+  "sync_time": "2026-07-28T04:08:08.444Z",
   "rank_changes": [
     {
       "username": "Anshika Agrawal",
       "id": "anshikaagr",
-      "old_rank": 95,
-      "new_rank": 91,
+      "old_rank": 91,
+      "new_rank": 87,
       "rank_delta": 4
+    },
+    {
+      "username": "bigcookiejar",
+      "id": "bigcookiejar",
+      "old_rank": 87,
+      "new_rank": 88,
+      "rank_delta": -1
+    },
+    {
+      "username": "Meet Kasat ",
+      "id": "MK_2006",
+      "old_rank": 90,
+      "new_rank": 91,
+      "rank_delta": -1
     }
   ],
   "new_users": [],
-  "total_new_solves": 1,
-  "users_with_new_solves": 1,
+  "total_new_solves": 6,
+  "users_with_new_solves": 3,
   "no_changes": false
 }
