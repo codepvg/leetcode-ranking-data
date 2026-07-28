@@ -2240,7 +2240,7 @@
     },
     {
       "date": "2026-07-28",
-      "easy": 44,
+      "easy": 45,
       "medium": 2,
       "hard": 0
     }
@@ -2251,21 +2251,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 21,
-      "change": 0
+      "rank": 19,
+      "change": -2
     },
     "weekly": {
-      "rank": 33,
-      "change": -1
+      "rank": 31,
+      "change": 1
     },
     "monthly": {
-      "rank": 45,
-      "change": 0
+      "rank": 42,
+      "change": 3
     }
   },
   "streak": {
-    "current": 13,
-    "longest": 13,
-    "lastActiveDate": "2026-07-27"
+    "current": 14,
+    "longest": 14,
+    "lastActiveDate": "2026-07-28"
   }
 }
