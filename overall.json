@@ -299,6 +299,19 @@
     "rankChange": 0
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 251,
+      "mediumSolved": 73,
+      "hardSolved": 5,
+      "totalSolved": 329
+    },
+    "score": 495,
+    "originalRank": 24,
+    "rankChange": "+3"
+  },
+  {
     "name": "Priya B",
     "id": "priya-codegaku",
     "data": {
@@ -308,8 +321,8 @@
       "totalSolved": 242
     },
     "score": 494,
-    "originalRank": 24,
-    "rankChange": 0
+    "originalRank": 25,
+    "rankChange": "-1"
   },
   {
     "name": "Thejaswini",
@@ -321,21 +334,8 @@
       "totalSolved": 322
     },
     "score": 494,
-    "originalRank": 24,
-    "rankChange": 0
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 251,
-      "mediumSolved": 72,
-      "hardSolved": 5,
-      "totalSolved": 328
-    },
-    "score": 492,
-    "originalRank": 26,
-    "rankChange": "+1"
+    "originalRank": 25,
+    "rankChange": "-1"
   },
   {
     "name": "Sarthak Joshi",
