@@ -1857,22 +1857,22 @@
     {
       "date": "2026-07-28",
       "easy": 16,
-      "medium": 13,
+      "medium": 14,
       "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 73,
-      "change": 0
+      "rank": 72,
+      "change": 1
     },
     "daily": {
-      "rank": 18,
-      "change": 0
+      "rank": 5,
+      "change": -4
     },
     "weekly": {
-      "rank": 11,
-      "change": 0
+      "rank": 6,
+      "change": 5
     },
     "monthly": {
       "rank": 37,
@@ -1880,8 +1880,8 @@
     }
   },
   "streak": {
-    "current": 3,
-    "longest": 3,
-    "lastActiveDate": "2026-07-27"
+    "current": 4,
+    "longest": 4,
+    "lastActiveDate": "2026-07-28"
   }
 }
