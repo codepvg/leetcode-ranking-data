@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-28T17:29:48.526Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-28T17:45:18.013Z",
+  "rank_changes": [
+    {
+      "username": "Sakshi Arun Kapase",
+      "id": "Sakshi_Kapase",
+      "old_rank": 66,
+      "new_rank": 65,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 3,
+  "users_with_new_solves": 3,
+  "no_changes": false
 }

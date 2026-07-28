@@ -723,7 +723,7 @@
     {
       "date": "2026-07-28",
       "easy": 5,
-      "medium": 4,
+      "medium": 5,
       "hard": 0
     }
   ],
@@ -733,21 +733,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 26,
-      "change": 0
+      "rank": 9,
+      "change": -1
     },
     "weekly": {
-      "rank": 27,
-      "change": 0
+      "rank": 22,
+      "change": 5
     },
     "monthly": {
-      "rank": 41,
-      "change": 0
+      "rank": 39,
+      "change": 2
     }
   },
   "streak": {
-    "current": 2,
-    "longest": 2,
-    "lastActiveDate": "2026-07-27"
+    "current": 3,
+    "longest": 3,
+    "lastActiveDate": "2026-07-28"
   }
 }
