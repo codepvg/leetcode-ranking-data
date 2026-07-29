@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-29T10:50:09.489Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-29T11:05:28.929Z",
+  "rank_changes": [
+    {
+      "username": "SHREYA KULKARNI",
+      "id": "shreeya25",
+      "old_rank": 24,
+      "new_rank": 25,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
