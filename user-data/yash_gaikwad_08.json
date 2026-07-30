@@ -2223,31 +2223,31 @@
     {
       "date": "2026-07-30",
       "easy": 14,
-      "medium": 10,
+      "medium": 11,
       "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 78,
-      "change": 0
-    },
-    "daily": {
-      "rank": 12,
-      "change": 0
-    },
-    "weekly": {
-      "rank": 34,
+      "rank": 76,
       "change": 2
     },
+    "daily": {
+      "rank": 8,
+      "change": 16
+    },
+    "weekly": {
+      "rank": 32,
+      "change": 4
+    },
     "monthly": {
-      "rank": 54,
-      "change": 0
+      "rank": 51,
+      "change": 3
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 3,
-    "lastActiveDate": "2026-07-26"
+    "lastActiveDate": "2026-07-30"
   }
 }
