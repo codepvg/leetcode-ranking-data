@@ -416,6 +416,19 @@
     "rankChange": 0
   },
   {
+    "name": "Chirag Budhbaware",
+    "id": "chiragbudhbaware",
+    "data": {
+      "easySolved": 5,
+      "mediumSolved": 6,
+      "hardSolved": 1,
+      "totalSolved": 12
+    },
+    "score": 28,
+    "originalRank": 33,
+    "rankChange": "+5"
+  },
+  {
     "name": "Aryan Sirsavkar",
     "id": "aryansirsavkarc700",
     "data": {
@@ -425,21 +438,8 @@
       "totalSolved": 13
     },
     "score": 27,
-    "originalRank": 33,
-    "rankChange": "+3"
-  },
-  {
-    "name": "Chirag Budhbaware",
-    "id": "chiragbudhbaware",
-    "data": {
-      "easySolved": 4,
-      "mediumSolved": 6,
-      "hardSolved": 1,
-      "totalSolved": 11
-    },
-    "score": 27,
-    "originalRank": 33,
-    "rankChange": "+5"
+    "originalRank": 34,
+    "rankChange": "+2"
   },
   {
     "name": "Saniya Gupte",
@@ -451,8 +451,8 @@
       "totalSolved": 9
     },
     "score": 27,
-    "originalRank": 33,
-    "rankChange": 0
+    "originalRank": 34,
+    "rankChange": "-1"
   },
   {
     "name": "Abhishek Laxman Guntuk",
