@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-07-31T11:47:55.221Z",
-  "rank_changes": [],
+  "sync_time": "2026-07-31T12:03:13.011Z",
+  "rank_changes": [
+    {
+      "username": "Aryan Sirsavkar",
+      "id": "aryansirsavkarc700",
+      "old_rank": 70,
+      "new_rank": 69,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
