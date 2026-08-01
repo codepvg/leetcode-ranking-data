@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "SHREYA KULKARNI",
+    "id": "shreeya25",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 6,
+      "hardSolved": 3,
+      "totalSolved": 12
+    },
+    "score": 36,
+    "originalRank": 5,
+    "rankChange": "+4"
+  },
+  {
     "name": "Aryan Sirsavkar",
     "id": "aryansirsavkarc700",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 17
     },
     "score": 33,
-    "originalRank": 5,
-    "rankChange": 0
-  },
-  {
-    "name": "SHREYA KULKARNI",
-    "id": "shreeya25",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 5,
-      "hardSolved": 3,
-      "totalSolved": 11
-    },
-    "score": 33,
-    "originalRank": 5,
-    "rankChange": "+4"
+    "originalRank": 6,
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
@@ -133,12 +133,12 @@
     "name": "Nikhil",
     "id": "Nick_kaushik",
     "data": {
-      "easySolved": 9,
+      "easySolved": 10,
       "mediumSolved": 3,
       "hardSolved": 1,
-      "totalSolved": 13
+      "totalSolved": 14
     },
-    "score": 23,
+    "score": 24,
     "originalRank": 11,
     "rankChange": "+10"
   },
