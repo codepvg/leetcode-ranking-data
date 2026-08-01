@@ -2277,7 +2277,7 @@
     {
       "date": "2026-08-01",
       "easy": 120,
-      "medium": 81,
+      "medium": 82,
       "hard": 4
     }
   ],
@@ -2287,21 +2287,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 5,
-      "change": 0
+      "rank": 2,
+      "change": 24
     },
     "weekly": {
-      "rank": 26,
-      "change": -1
+      "rank": 20,
+      "change": 5
     },
     "monthly": {
-      "rank": 22,
-      "change": -3
+      "rank": 20,
+      "change": -1
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 11,
-    "lastActiveDate": "2026-07-30"
+    "lastActiveDate": "2026-08-01"
   }
 }
