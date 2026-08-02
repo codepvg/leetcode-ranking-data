@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "Nikhil",
+    "id": "Nick_kaushik",
+    "data": {
+      "easySolved": 20,
+      "mediumSolved": 21,
+      "hardSolved": 10,
+      "totalSolved": 51
+    },
+    "score": 133,
+    "originalRank": 5,
+    "rankChange": "+1"
+  },
+  {
     "name": "Abhinav Deval",
     "id": "abhinav_deval07",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 51
     },
     "score": 131,
-    "originalRank": 5,
-    "rankChange": 0
-  },
-  {
-    "name": "Nikhil",
-    "id": "Nick_kaushik",
-    "data": {
-      "easySolved": 20,
-      "mediumSolved": 20,
-      "hardSolved": 10,
-      "totalSolved": 50
-    },
-    "score": 130,
     "originalRank": 6,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "rohanonleetcode :P",
