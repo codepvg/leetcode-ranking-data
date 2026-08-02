@@ -381,31 +381,31 @@
     {
       "date": "2026-08-02",
       "easy": 40,
-      "medium": 11,
+      "medium": 12,
       "hard": 2
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 66,
-      "change": 0
+      "rank": 65,
+      "change": 1
     },
     "daily": {
-      "rank": 19,
-      "change": 0
+      "rank": 12,
+      "change": 17
     },
     "weekly": {
-      "rank": 43,
-      "change": 0
+      "rank": 41,
+      "change": 3
     },
     "monthly": {
-      "rank": 60,
-      "change": 0
+      "rank": 54,
+      "change": -1
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 4,
-    "lastActiveDate": "2026-07-03"
+    "lastActiveDate": "2026-08-02"
   }
 }
