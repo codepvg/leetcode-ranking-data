@@ -328,14 +328,27 @@
     "name": "Priya B",
     "id": "priya-codegaku",
     "data": {
-      "easySolved": 130,
+      "easySolved": 131,
       "mediumSolved": 108,
       "hardSolved": 10,
-      "totalSolved": 248
+      "totalSolved": 249
     },
-    "score": 504,
+    "score": 505,
     "originalRank": 26,
     "rankChange": 0
+  },
+  {
+    "name": "Abhinav Deval",
+    "id": "abhinav_deval07",
+    "data": {
+      "easySolved": 82,
+      "mediumSolved": 103,
+      "hardSolved": 21,
+      "totalSolved": 206
+    },
+    "score": 496,
+    "originalRank": 27,
+    "rankChange": "+1"
   },
   {
     "name": "Thejaswini",
@@ -347,8 +360,8 @@
       "totalSolved": 322
     },
     "score": 494,
-    "originalRank": 27,
-    "rankChange": 0
+    "originalRank": 28,
+    "rankChange": "-1"
   },
   {
     "name": "Sarthak Joshi",
@@ -360,21 +373,8 @@
       "totalSolved": 237
     },
     "score": 491,
-    "originalRank": 28,
-    "rankChange": 0
-  },
-  {
-    "name": "Abhinav Deval",
-    "id": "abhinav_deval07",
-    "data": {
-      "easySolved": 82,
-      "mediumSolved": 103,
-      "hardSolved": 20,
-      "totalSolved": 205
-    },
-    "score": 491,
-    "originalRank": 28,
-    "rankChange": 0
+    "originalRank": 29,
+    "rankChange": "-1"
   },
   {
     "name": "Mahalaxmi K",
@@ -655,10 +655,10 @@
     "data": {
       "easySolved": 41,
       "mediumSolved": 41,
-      "hardSolved": 6,
-      "totalSolved": 88
+      "hardSolved": 7,
+      "totalSolved": 89
     },
-    "score": 194,
+    "score": 199,
     "originalRank": 51,
     "rankChange": 0
   },
