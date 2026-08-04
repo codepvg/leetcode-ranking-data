@@ -476,26 +476,26 @@
     },
     {
       "date": "2026-08-04",
-      "easy": 382,
-      "medium": 773,
-      "hard": 176
+      "easy": 0,
+      "medium": 0,
+      "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
+      "rank": 37,
+      "change": -36
+    },
+    "daily": {
       "rank": 1,
       "change": 0
     },
-    "daily": {
+    "weekly": {
       "rank": 2,
       "change": 0
     },
-    "weekly": {
-      "rank": 13,
-      "change": 0
-    },
     "monthly": {
-      "rank": 7,
+      "rank": 5,
       "change": 0
     }
   },
