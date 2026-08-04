@@ -1898,7 +1898,7 @@
     },
     {
       "date": "2026-08-04",
-      "easy": 27,
+      "easy": 28,
       "medium": 19,
       "hard": 1
     }
@@ -1909,21 +1909,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 4,
-      "change": 0
+      "rank": 3,
+      "change": -2
     },
     "weekly": {
       "rank": 6,
       "change": 1
     },
     "monthly": {
-      "rank": 21,
-      "change": 0
+      "rank": 20,
+      "change": 1
     }
   },
   "streak": {
-    "current": 5,
-    "longest": 5,
-    "lastActiveDate": "2026-08-03"
+    "current": 6,
+    "longest": 6,
+    "lastActiveDate": "2026-08-04"
   }
 }
