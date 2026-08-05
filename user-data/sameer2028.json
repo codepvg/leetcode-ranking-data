@@ -377,24 +377,30 @@
       "easy": 111,
       "medium": 114,
       "hard": 7
+    },
+    {
+      "date": "2026-08-05",
+      "easy": 111,
+      "medium": 114,
+      "hard": 7
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 30,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 10,
-      "change": 2
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 11,
+      "rank": 10,
       "change": 1
     },
     "monthly": {
       "rank": 32,
-      "change": 1
+      "change": 0
     }
   },
   "streak": {
