@@ -1,5 +1,18 @@
 [
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 6,
+      "mediumSolved": 0,
+      "hardSolved": 0,
+      "totalSolved": 6
+    },
+    "score": 6,
+    "originalRank": 1,
+    "rankChange": 0
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -7,6 +20,19 @@
       "mediumSolved": 2,
       "hardSolved": 0,
       "totalSolved": 2
+    },
+    "score": 6,
+    "originalRank": 1,
+    "rankChange": "+9"
+  },
+  {
+    "name": "Rishab Chandgothia",
+    "id": "rishab11250",
+    "data": {
+      "easySolved": 6,
+      "mediumSolved": 0,
+      "hardSolved": 0,
+      "totalSolved": 6
     },
     "score": 6,
     "originalRank": 1,
@@ -24,32 +50,6 @@
     "score": 6,
     "originalRank": 1,
     "rankChange": "+16"
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 5,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 5
-    },
-    "score": 5,
-    "originalRank": 3,
-    "rankChange": "-2"
-  },
-  {
-    "name": "Rishab Chandgothia",
-    "id": "rishab11250",
-    "data": {
-      "easySolved": 5,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 5
-    },
-    "score": 5,
-    "originalRank": 3,
-    "rankChange": "+7"
   },
   {
     "name": "Abhishek Laxman Guntuk",
