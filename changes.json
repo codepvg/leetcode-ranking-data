@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-08-05T14:50:28.989Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-05T15:05:53.177Z",
+  "rank_changes": [
+    {
+      "username": "Roshan Singh",
+      "id": "roshankumar0036singh",
+      "old_rank": 33,
+      "new_rank": 32,
+      "rank_delta": 1
+    },
+    {
+      "username": "Ridima",
+      "id": "dojakit",
+      "old_rank": 32,
+      "new_rank": 33,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
