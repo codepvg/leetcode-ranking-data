@@ -1,5 +1,18 @@
 [
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 0,
+      "hardSolved": 2,
+      "totalSolved": 2
+    },
+    "score": 10,
+    "originalRank": 1,
+    "rankChange": "+6"
+  },
+  {
     "name": "Harshad Bhalsing",
     "id": "harsh-0_2",
     "data": {
@@ -9,21 +22,8 @@
       "totalSolved": 3
     },
     "score": 7,
-    "originalRank": 1,
-    "rankChange": "+3"
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 0,
-      "hardSolved": 1,
-      "totalSolved": 1
-    },
-    "score": 5,
     "originalRank": 2,
-    "rankChange": "+5"
+    "rankChange": "+2"
   },
   {
     "name": "Sayondeep Daripa",
