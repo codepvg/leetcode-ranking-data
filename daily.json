@@ -26,6 +26,19 @@
     "rankChange": "+2"
   },
   {
+    "name": "Rishab Chandgothia",
+    "id": "rishab11250",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 2,
+      "hardSolved": 0,
+      "totalSolved": 3
+    },
+    "score": 7,
+    "originalRank": 2,
+    "rankChange": "-1"
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -35,21 +48,8 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 3,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Rishab Chandgothia",
-    "id": "rishab11250",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 2
-    },
-    "score": 4,
-    "originalRank": 3,
-    "rankChange": "-2"
+    "originalRank": 4,
+    "rankChange": 0
   },
   {
     "name": "Sameer Upadhyay",
@@ -61,8 +61,8 @@
       "totalSolved": 2
     },
     "score": 4,
-    "originalRank": 3,
-    "rankChange": "+16"
+    "originalRank": 4,
+    "rankChange": "+15"
   },
   {
     "name": "Chirag Budhbaware",
