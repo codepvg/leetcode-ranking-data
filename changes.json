@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-08-06T06:09:39.851Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-06T06:25:02.214Z",
+  "rank_changes": [
+    {
+      "username": "Sameer Upadhyay",
+      "id": "sameer2028",
+      "old_rank": 30,
+      "new_rank": 29,
+      "rank_delta": 1
+    },
+    {
+      "username": "Mahalaxmi K",
+      "id": "Maha_0604",
+      "old_rank": 30,
+      "new_rank": 31,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
