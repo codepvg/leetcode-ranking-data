@@ -383,6 +383,12 @@
       "easy": 111,
       "medium": 114,
       "hard": 7
+    },
+    {
+      "date": "2026-08-06",
+      "easy": 111,
+      "medium": 114,
+      "hard": 7
     }
   ],
   "leaderboardRanks": {
@@ -391,20 +397,20 @@
       "change": 0
     },
     "daily": {
-      "rank": 19,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
       "rank": 10,
-      "change": 1
+      "change": 0
     },
     "monthly": {
-      "rank": 32,
-      "change": 0
+      "rank": 33,
+      "change": -1
     }
   },
   "streak": {
-    "current": 9,
+    "current": 0,
     "longest": 9,
     "lastActiveDate": "2026-08-04"
   }
