@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-08-06T16:10:29.284Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-06T16:25:48.862Z",
+  "rank_changes": [
+    {
+      "username": "Priya B",
+      "id": "priya-codegaku",
+      "old_rank": 26,
+      "new_rank": 25,
+      "rank_delta": 1
+    },
+    {
+      "username": "Shivam Gupta",
+      "id": "shivamgupta1151",
+      "old_rank": 25,
+      "new_rank": 26,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
