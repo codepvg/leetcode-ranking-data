@@ -26,6 +26,19 @@
     "rankChange": 0
   },
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 4,
+      "hardSolved": 6,
+      "totalSolved": 10
+    },
+    "score": 42,
+    "originalRank": 3,
+    "rankChange": "+1"
+  },
+  {
     "name": "Dev Patel",
     "id": "Dev_D_Patel",
     "data": {
@@ -35,8 +48,8 @@
       "totalSolved": 21
     },
     "score": 41,
-    "originalRank": 3,
-    "rankChange": "+4"
+    "originalRank": 4,
+    "rankChange": "+3"
   },
   {
     "name": "Sayondeep Daripa",
@@ -48,8 +61,8 @@
       "totalSolved": 15
     },
     "score": 41,
-    "originalRank": 3,
-    "rankChange": "+2"
+    "originalRank": 4,
+    "rankChange": "+1"
   },
   {
     "name": "SHREYA KULKARNI",
@@ -61,21 +74,8 @@
       "totalSolved": 15
     },
     "score": 41,
-    "originalRank": 3,
-    "rankChange": 0
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 4,
-      "hardSolved": 5,
-      "totalSolved": 9
-    },
-    "score": 37,
-    "originalRank": 6,
-    "rankChange": "-2"
+    "originalRank": 4,
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
