@@ -260,6 +260,19 @@
     "rankChange": 0
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 265,
+      "mediumSolved": 88,
+      "hardSolved": 5,
+      "totalSolved": 358
+    },
+    "score": 554,
+    "originalRank": 21,
+    "rankChange": "+2"
+  },
+  {
     "name": "SHREYA KULKARNI",
     "id": "shreeya25",
     "data": {
@@ -271,19 +284,6 @@
     "score": 554,
     "originalRank": 21,
     "rankChange": 0
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 265,
-      "mediumSolved": 87,
-      "hardSolved": 5,
-      "totalSolved": 357
-    },
-    "score": 551,
-    "originalRank": 22,
-    "rankChange": "+1"
   },
   {
     "name": "Sushant Borde",
@@ -861,12 +861,12 @@
     "name": "Sakshi Arun Kapase",
     "id": "Sakshi_Kapase",
     "data": {
-      "easySolved": 41,
+      "easySolved": 42,
       "mediumSolved": 16,
       "hardSolved": 0,
-      "totalSolved": 57
+      "totalSolved": 58
     },
-    "score": 89,
+    "score": 90,
     "originalRank": 67,
     "rankChange": 0
   },
