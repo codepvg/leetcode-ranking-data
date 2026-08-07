@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-08-07T16:30:57.794Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-07T16:46:20.622Z",
+  "rank_changes": [
+    {
+      "username": "Harshal Mahajan",
+      "id": "Harshal2613",
+      "old_rank": 46,
+      "new_rank": 45,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
