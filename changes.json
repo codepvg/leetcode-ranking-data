@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-08-08T04:28:59.451Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-08T04:44:24.953Z",
+  "rank_changes": [
+    {
+      "username": "Triveni Waghole",
+      "id": "Triveni_24",
+      "old_rank": 74,
+      "new_rank": 75,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
