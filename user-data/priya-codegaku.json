@@ -5,12 +5,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 12,
-      "change": 0
+      "rank": 4,
+      "change": 10
     },
     "weekly": {
-      "rank": 22,
-      "change": -10
+      "rank": 17,
+      "change": -5
     },
     "monthly": {
       "rank": "--",
@@ -147,13 +147,13 @@
     {
       "date": "2026-08-09",
       "easy": 132,
-      "medium": 110,
+      "medium": 111,
       "hard": 10
     }
   ],
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 4,
-    "lastActiveDate": "2026-08-07"
+    "lastActiveDate": "2026-08-09"
   }
 }
