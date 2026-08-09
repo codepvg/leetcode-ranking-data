@@ -13,6 +13,19 @@
     "rankChange": 0
   },
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 5,
+      "hardSolved": 6,
+      "totalSolved": 11
+    },
+    "score": 45,
+    "originalRank": 2,
+    "rankChange": "+1"
+  },
+  {
     "name": "Rishab Chandgothia",
     "id": "rishab11250",
     "data": {
@@ -22,21 +35,8 @@
       "totalSolved": 24
     },
     "score": 44,
-    "originalRank": 2,
-    "rankChange": "+2"
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 4,
-      "hardSolved": 6,
-      "totalSolved": 10
-    },
-    "score": 42,
     "originalRank": 3,
-    "rankChange": 0
+    "rankChange": "+1"
   },
   {
     "name": "Sayondeep Daripa",
