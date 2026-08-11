@@ -2279,28 +2279,34 @@
       "easy": 20,
       "medium": 11,
       "hard": 0
+    },
+    {
+      "date": "2026-08-11",
+      "easy": 20,
+      "medium": 11,
+      "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 79,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 27,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 24,
-      "change": 3
+      "rank": 35,
+      "change": -11
     },
     "monthly": {
-      "rank": 39,
-      "change": 1
+      "rank": 37,
+      "change": 2
     }
   },
   "streak": {
-    "current": 1,
+    "current": 0,
     "longest": 5,
     "lastActiveDate": "2026-08-09"
   }
