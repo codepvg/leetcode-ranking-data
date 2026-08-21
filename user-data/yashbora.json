@@ -2321,6 +2321,12 @@
       "easy": 122,
       "medium": 145,
       "hard": 15
+    },
+    {
+      "date": "2026-08-21",
+      "easy": 126,
+      "medium": 148,
+      "hard": 17
     }
   ],
   "leaderboardRanks": {
@@ -2329,21 +2335,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 1,
-      "change": 8
+      "rank": 16,
+      "change": -15
     },
     "weekly": {
-      "rank": 8,
-      "change": -2
+      "rank": 16,
+      "change": -8
     },
     "monthly": {
-      "rank": 9,
-      "change": -1
+      "rank": 11,
+      "change": -2
     }
   },
   "streak": {
-    "current": 4,
+    "current": 1,
     "longest": 32,
-    "lastActiveDate": "2026-08-12"
+    "lastActiveDate": "2026-08-21"
   }
 }

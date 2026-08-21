@@ -2339,29 +2339,35 @@
       "easy": 74,
       "medium": 105,
       "hard": 33
+    },
+    {
+      "date": "2026-08-21",
+      "easy": 74,
+      "medium": 108,
+      "hard": 34
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 23,
-      "change": 0
+      "rank": 24,
+      "change": -1
     },
     "daily": {
-      "rank": 5,
-      "change": 0
+      "rank": 26,
+      "change": -21
     },
     "weekly": {
-      "rank": 33,
-      "change": 2
+      "rank": 26,
+      "change": 7
     },
     "monthly": {
-      "rank": 4,
-      "change": 0
+      "rank": 7,
+      "change": -3
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 40,
-    "lastActiveDate": "2026-08-06"
+    "lastActiveDate": "2026-08-21"
   }
 }
