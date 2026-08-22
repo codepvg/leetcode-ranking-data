@@ -5,7 +5,7 @@
       "change": 0
     },
     "daily": {
-      "rank": "--",
+      "rank": 1,
       "change": 0
     },
     "weekly": {
@@ -20,6 +20,12 @@
   "history": [
     {
       "date": "2026-08-21",
+      "easy": 150,
+      "medium": 47,
+      "hard": 0
+    },
+    {
+      "date": "2026-08-22",
       "easy": 150,
       "medium": 47,
       "hard": 0
