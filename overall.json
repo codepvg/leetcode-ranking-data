@@ -715,6 +715,19 @@
     "rankChange": 0
   },
   {
+    "name": "Darshan Dalvi",
+    "id": "error-inc",
+    "data": {
+      "easySolved": 40,
+      "mediumSolved": 47,
+      "hardSolved": 4,
+      "totalSolved": 91
+    },
+    "score": 201,
+    "originalRank": 56,
+    "rankChange": "+1"
+  },
+  {
     "name": "Kartik Bodke",
     "id": "kartikbodke",
     "data": {
@@ -724,21 +737,8 @@
       "totalSolved": 90
     },
     "score": 200,
-    "originalRank": 56,
-    "rankChange": 0
-  },
-  {
-    "name": "Darshan Dalvi",
-    "id": "error-inc",
-    "data": {
-      "easySolved": 40,
-      "mediumSolved": 47,
-      "hardSolved": 3,
-      "totalSolved": 90
-    },
-    "score": 196,
     "originalRank": 57,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Avinash Ganore",
