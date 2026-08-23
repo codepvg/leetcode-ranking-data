@@ -26,6 +26,19 @@
     "rankChange": 0
   },
   {
+    "name": "Abhinav Deval",
+    "id": "abhinav_deval07",
+    "data": {
+      "easySolved": 7,
+      "mediumSolved": 13,
+      "hardSolved": 3,
+      "totalSolved": 23
+    },
+    "score": 61,
+    "originalRank": 3,
+    "rankChange": "+3"
+  },
+  {
     "name": "Dev Patel",
     "id": "Dev_D_Patel",
     "data": {
@@ -48,21 +61,8 @@
       "totalSolved": 20
     },
     "score": 60,
-    "originalRank": 4,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Abhinav Deval",
-    "id": "abhinav_deval07",
-    "data": {
-      "easySolved": 7,
-      "mediumSolved": 12,
-      "hardSolved": 3,
-      "totalSolved": 22
-    },
-    "score": 58,
     "originalRank": 5,
-    "rankChange": "+1"
+    "rankChange": 0
   },
   {
     "name": "Piyush",
@@ -74,8 +74,8 @@
       "totalSolved": 26
     },
     "score": 58,
-    "originalRank": 5,
-    "rankChange": "-1"
+    "originalRank": 6,
+    "rankChange": "-2"
   },
   {
     "name": "Sameer Upadhyay",
