@@ -1,5 +1,18 @@
 [
   {
+    "name": "Elmajdoubi Yassine",
+    "id": "0x_naoki",
+    "data": {
+      "easySolved": 6,
+      "mediumSolved": 13,
+      "hardSolved": 7,
+      "totalSolved": 26
+    },
+    "score": 80,
+    "originalRank": 1,
+    "rankChange": 0
+  },
+  {
     "name": "Harshad Bhalsing",
     "id": "harsh-0_2",
     "data": {
@@ -9,21 +22,8 @@
       "totalSolved": 31
     },
     "score": 79,
-    "originalRank": 1,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Elmajdoubi Yassine",
-    "id": "0x_naoki",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 12,
-      "hardSolved": 7,
-      "totalSolved": 25
-    },
-    "score": 77,
     "originalRank": 2,
-    "rankChange": "-1"
+    "rankChange": 0
   },
   {
     "name": "Dev Patel",
@@ -55,12 +55,12 @@
     "name": "Piyush",
     "id": "Infinite_Universe",
     "data": {
-      "easySolved": 15,
+      "easySolved": 16,
       "mediumSolved": 4,
       "hardSolved": 6,
-      "totalSolved": 25
+      "totalSolved": 26
     },
-    "score": 57,
+    "score": 58,
     "originalRank": 5,
     "rankChange": "-1"
   },
@@ -286,6 +286,19 @@
     "rankChange": "-4"
   },
   {
+    "name": "Yashaswini KP",
+    "id": "Yashaswini_K_P",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 4,
+      "hardSolved": 1,
+      "totalSolved": 6
+    },
+    "score": 18,
+    "originalRank": 23,
+    "rankChange": 0
+  },
+  {
     "name": "PRASATH S",
     "id": "PRASATH1007",
     "data": {
@@ -295,8 +308,8 @@
       "totalSolved": 13
     },
     "score": 17,
-    "originalRank": 23,
-    "rankChange": "+8"
+    "originalRank": 24,
+    "rankChange": "+7"
   },
   {
     "name": "Sakshi Arun Kapase",
@@ -308,8 +321,8 @@
       "totalSolved": 12
     },
     "score": 16,
-    "originalRank": 24,
-    "rankChange": "-1"
+    "originalRank": 25,
+    "rankChange": "-2"
   },
   {
     "name": "Kiran Zagade",
@@ -321,8 +334,8 @@
       "totalSolved": 5
     },
     "score": 15,
-    "originalRank": 25,
-    "rankChange": "-2"
+    "originalRank": 26,
+    "rankChange": "-3"
   },
   {
     "name": "Mythri",
@@ -334,8 +347,8 @@
       "totalSolved": 9
     },
     "score": 15,
-    "originalRank": 25,
-    "rankChange": "-2"
+    "originalRank": 26,
+    "rankChange": "-3"
   },
   {
     "name": "Nikhil",
@@ -347,21 +360,8 @@
       "totalSolved": 7
     },
     "score": 15,
-    "originalRank": 25,
-    "rankChange": "-2"
-  },
-  {
-    "name": "Yashaswini KP",
-    "id": "Yashaswini_K_P",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 3,
-      "hardSolved": 1,
-      "totalSolved": 5
-    },
-    "score": 15,
-    "originalRank": 25,
-    "rankChange": "-2"
+    "originalRank": 26,
+    "rankChange": "-3"
   },
   {
     "name": "rohanonleetcode :P",
