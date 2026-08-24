@@ -1287,31 +1287,31 @@
     {
       "date": "2026-08-24",
       "easy": 32,
-      "medium": 25,
+      "medium": 26,
       "hard": 2
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 67,
-      "change": 0
+      "rank": 66,
+      "change": 1
     },
     "daily": {
-      "rank": 14,
-      "change": 0
+      "rank": 10,
+      "change": -7
     },
     "weekly": {
-      "rank": 12,
-      "change": 0
+      "rank": 11,
+      "change": 1
     },
     "monthly": {
-      "rank": 14,
-      "change": 0
+      "rank": 11,
+      "change": 3
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 4,
-    "lastActiveDate": "2026-08-23"
+    "lastActiveDate": "2026-08-24"
   }
 }
