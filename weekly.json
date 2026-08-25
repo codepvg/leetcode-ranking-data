@@ -247,6 +247,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 4,
+      "mediumSolved": 5,
+      "hardSolved": 1,
+      "totalSolved": 10
+    },
+    "score": 24,
+    "originalRank": 19,
+    "rankChange": "+2"
+  },
+  {
     "name": "Priya B",
     "id": "priya-codegaku",
     "data": {
@@ -260,19 +273,6 @@
     "rankChange": 0
   },
   {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 5,
-      "hardSolved": 1,
-      "totalSolved": 9
-    },
-    "score": 23,
-    "originalRank": 21,
-    "rankChange": 0
-  },
-  {
     "name": "Yashaswini KP",
     "id": "Yashaswini_K_P",
     "data": {
@@ -282,8 +282,8 @@
       "totalSolved": 7
     },
     "score": 23,
-    "originalRank": 21,
-    "rankChange": 0
+    "originalRank": 22,
+    "rankChange": "-1"
   },
   {
     "name": "Jeet Sudhish Pachpande",
