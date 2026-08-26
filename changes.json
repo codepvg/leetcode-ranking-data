@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-08-26T08:28:23.256Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-26T08:43:42.231Z",
+  "rank_changes": [
+    {
+      "username": "Siddhant Chavan",
+      "id": "ohJYjmBzFo",
+      "old_rank": 64,
+      "new_rank": 63,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
