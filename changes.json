@@ -1,37 +1,37 @@
 {
-  "sync_time": "2026-08-28T04:23:02.040Z",
+  "sync_time": "2026-08-28T04:38:19.634Z",
   "rank_changes": [
+    {
+      "username": "Anshika Agrawal",
+      "id": "anshikaagr",
+      "old_rank": 108,
+      "new_rank": 94,
+      "rank_delta": 14
+    },
     {
       "username": "bigcookiejar",
       "id": "bigcookiejar",
-      "old_rank": 95,
-      "new_rank": 94,
-      "rank_delta": 1
+      "old_rank": 94,
+      "new_rank": 95,
+      "rank_delta": -1
     },
     {
       "username": "nikita sharma",
       "id": "_nikita_a9",
-      "old_rank": 104,
-      "new_rank": 103,
-      "rank_delta": 1
+      "old_rank": 103,
+      "new_rank": 104,
+      "rank_delta": -1
     },
     {
       "username": "Shrutika Bhosale",
       "id": "Shrutika_20",
-      "old_rank": 104,
-      "new_rank": 103,
-      "rank_delta": 1
-    },
-    {
-      "username": "Anshika Agrawal",
-      "id": "anshikaagr",
-      "old_rank": 94,
-      "new_rank": 108,
-      "rank_delta": -14
+      "old_rank": 103,
+      "new_rank": 104,
+      "rank_delta": -1
     }
   ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
+  "total_new_solves": 11,
+  "users_with_new_solves": 1,
   "no_changes": false
 }
