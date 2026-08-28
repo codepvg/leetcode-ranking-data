@@ -383,23 +383,29 @@
       "easy": 26,
       "medium": 10,
       "hard": 0
+    },
+    {
+      "date": "2026-08-28",
+      "easy": 26,
+      "medium": 10,
+      "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 82,
-      "change": 1
-    },
-    "daily": {
-      "rank": 12,
-      "change": 2
-    },
-    "weekly": {
-      "rank": 41,
       "change": 0
     },
+    "daily": {
+      "rank": 1,
+      "change": 0
+    },
+    "weekly": {
+      "rank": 25,
+      "change": 16
+    },
     "monthly": {
-      "rank": 52,
+      "rank": 51,
       "change": 1
     }
   },
