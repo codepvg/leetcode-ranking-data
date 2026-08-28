@@ -1,8 +1,37 @@
 {
-  "sync_time": "2026-08-28T04:07:46.257Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-28T04:23:02.040Z",
+  "rank_changes": [
+    {
+      "username": "bigcookiejar",
+      "id": "bigcookiejar",
+      "old_rank": 95,
+      "new_rank": 94,
+      "rank_delta": 1
+    },
+    {
+      "username": "nikita sharma",
+      "id": "_nikita_a9",
+      "old_rank": 104,
+      "new_rank": 103,
+      "rank_delta": 1
+    },
+    {
+      "username": "Shrutika Bhosale",
+      "id": "Shrutika_20",
+      "old_rank": 104,
+      "new_rank": 103,
+      "rank_delta": 1
+    },
+    {
+      "username": "Anshika Agrawal",
+      "id": "anshikaagr",
+      "old_rank": 94,
+      "new_rank": 108,
+      "rank_delta": -14
+    }
+  ],
   "new_users": [],
   "total_new_solves": 0,
   "users_with_new_solves": 0,
-  "no_changes": true
+  "no_changes": false
 }
