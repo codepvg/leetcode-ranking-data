@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-08-29T15:44:03.551Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-29T16:30:07.937Z",
+  "rank_changes": [
+    {
+      "username": "Aayan Rashid",
+      "id": "dis_MantLe",
+      "old_rank": 29,
+      "new_rank": 28,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 10,
+  "users_with_new_solves": 5,
+  "no_changes": false
 }
