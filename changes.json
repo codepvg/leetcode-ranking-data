@@ -1,8 +1,44 @@
 {
-  "sync_time": "2026-08-30T03:58:04.339Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-30T04:13:19.779Z",
+  "rank_changes": [
+    {
+      "username": "Aayan Rashid",
+      "id": "dis_MantLe",
+      "old_rank": 28,
+      "new_rank": 27,
+      "rank_delta": 1
+    },
+    {
+      "username": "Priya B",
+      "id": "priya-codegaku",
+      "old_rank": 27,
+      "new_rank": 28,
+      "rank_delta": -1
+    },
+    {
+      "username": "Rajat malapur",
+      "id": "rajatmalapur",
+      "old_rank": 28,
+      "new_rank": 29,
+      "rank_delta": -1
+    },
+    {
+      "username": "Shivam Gupta",
+      "id": "shivamgupta1151",
+      "old_rank": 30,
+      "new_rank": 31,
+      "rank_delta": -1
+    },
+    {
+      "username": "Challa Uday Kumar",
+      "id": "challaudaykumar",
+      "old_rank": 42,
+      "new_rank": 41,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 1,
-  "users_with_new_solves": 1,
+  "total_new_solves": 16,
+  "users_with_new_solves": 8,
   "no_changes": false
 }
