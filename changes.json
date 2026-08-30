@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-08-30T19:27:11.751Z",
-  "rank_changes": [],
+  "sync_time": "2026-08-30T19:42:25.547Z",
+  "rank_changes": [
+    {
+      "username": "Anshika Agrawal",
+      "id": "anshikaagr",
+      "old_rank": 94,
+      "new_rank": 93,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
