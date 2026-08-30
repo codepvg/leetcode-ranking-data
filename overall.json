@@ -507,6 +507,19 @@
     "rankChange": 0
   },
   {
+    "name": "Mythri",
+    "id": "mythri_05",
+    "data": {
+      "easySolved": 105,
+      "mediumSolved": 79,
+      "hardSolved": 4,
+      "totalSolved": 188
+    },
+    "score": 362,
+    "originalRank": 40,
+    "rankChange": "+2"
+  },
+  {
     "name": "Prathit Joshi",
     "id": "prathitjoshi",
     "data": {
@@ -529,8 +542,8 @@
       "totalSolved": 187
     },
     "score": 361,
-    "originalRank": 41,
-    "rankChange": 0
+    "originalRank": 42,
+    "rankChange": "-1"
   },
   {
     "name": "Challa Uday Kumar",
@@ -542,21 +555,8 @@
       "totalSolved": 190
     },
     "score": 360,
-    "originalRank": 42,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Mythri",
-    "id": "mythri_05",
-    "data": {
-      "easySolved": 105,
-      "mediumSolved": 78,
-      "hardSolved": 4,
-      "totalSolved": 187
-    },
-    "score": 359,
     "originalRank": 43,
-    "rankChange": "-1"
+    "rankChange": 0
   },
   {
     "name": "Eshani Misra",
