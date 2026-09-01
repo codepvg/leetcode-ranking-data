@@ -104,6 +104,19 @@
     "rankChange": 0
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 0,
+      "hardSolved": 0,
+      "totalSolved": 3
+    },
+    "score": 3,
+    "originalRank": 3,
+    "rankChange": "+1"
+  },
+  {
     "name": "sagar nikat",
     "id": "sagarnikat",
     "data": {
@@ -128,19 +141,6 @@
     "score": 3,
     "originalRank": 3,
     "rankChange": "+15"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 2
-    },
-    "score": 2,
-    "originalRank": 11,
-    "rankChange": "-7"
   },
   {
     "name": "Divya Jadhav",

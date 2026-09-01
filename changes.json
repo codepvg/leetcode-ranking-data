@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-01T15:35:06.696Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-01T15:50:23.576Z",
+  "rank_changes": [
+    {
+      "username": "Maanya Danayak",
+      "id": "maanyadanayak",
+      "old_rank": 78,
+      "new_rank": 77,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
