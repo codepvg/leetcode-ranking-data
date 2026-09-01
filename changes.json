@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-09-01T20:34:55.855Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-01T20:50:12.347Z",
+  "rank_changes": [
+    {
+      "username": "Anshika Agrawal",
+      "id": "anshikaagr",
+      "old_rank": 90,
+      "new_rank": 89,
+      "rank_delta": 1
+    },
+    {
+      "username": "Aditya Kulkarni",
+      "id": "adi_k06",
+      "old_rank": 90,
+      "new_rank": 91,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
