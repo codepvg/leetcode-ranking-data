@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Raviteja P",
+    "id": "Bat-ravi",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 7,
+      "hardSolved": 2,
+      "totalSolved": 11
+    },
+    "score": 33,
+    "originalRank": 4,
+    "rankChange": "+1"
+  },
+  {
     "name": "Abhinav Deval",
     "id": "abhinav_deval07",
     "data": {
@@ -48,21 +61,8 @@
       "totalSolved": 10
     },
     "score": 32,
-    "originalRank": 4,
-    "rankChange": 0
-  },
-  {
-    "name": "Raviteja P",
-    "id": "Bat-ravi",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 6,
-      "hardSolved": 2,
-      "totalSolved": 10
-    },
-    "score": 30,
     "originalRank": 5,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Piyush",
