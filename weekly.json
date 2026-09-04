@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Raviteja P",
+    "id": "Bat-ravi",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 9,
+      "hardSolved": 1,
+      "totalSolved": 12
+    },
+    "score": 34,
+    "originalRank": 4,
+    "rankChange": 0
+  },
+  {
     "name": "YASH YOGESH BORA",
     "id": "yashbora",
     "data": {
@@ -48,21 +61,8 @@
       "totalSolved": 15
     },
     "score": 33,
-    "originalRank": 4,
-    "rankChange": "+4"
-  },
-  {
-    "name": "Raviteja P",
-    "id": "Bat-ravi",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 8,
-      "hardSolved": 1,
-      "totalSolved": 11
-    },
-    "score": 31,
     "originalRank": 5,
-    "rankChange": "-1"
+    "rankChange": "+3"
   },
   {
     "name": "Piyush",
