@@ -2409,7 +2409,7 @@
     {
       "date": "2026-09-04",
       "easy": 139,
-      "medium": 156,
+      "medium": 157,
       "hard": 17
     }
   ],
@@ -2420,20 +2420,20 @@
     },
     "daily": {
       "rank": 3,
-      "change": 0
+      "change": -1
     },
     "weekly": {
       "rank": 5,
       "change": 3
     },
     "monthly": {
-      "rank": 9,
-      "change": -1
+      "rank": 8,
+      "change": 0
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 32,
-    "lastActiveDate": "2026-09-03"
+    "lastActiveDate": "2026-09-04"
   }
 }
