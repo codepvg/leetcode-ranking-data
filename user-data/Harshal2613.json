@@ -2361,31 +2361,31 @@
     {
       "date": "2026-09-04",
       "easy": 90,
-      "medium": 58,
+      "medium": 59,
       "hard": 6
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 47,
-      "change": 0
-    },
-    "daily": {
-      "rank": 9,
-      "change": 0
-    },
-    "weekly": {
-      "rank": 28,
+      "rank": 46,
       "change": 1
     },
+    "daily": {
+      "rank": 5,
+      "change": 16
+    },
+    "weekly": {
+      "rank": 24,
+      "change": 5
+    },
     "monthly": {
-      "rank": 17,
-      "change": 0
+      "rank": 16,
+      "change": 1
     }
   },
   "streak": {
-    "current": 3,
+    "current": 4,
     "longest": 17,
-    "lastActiveDate": "2026-09-03"
+    "lastActiveDate": "2026-09-04"
   }
 }
