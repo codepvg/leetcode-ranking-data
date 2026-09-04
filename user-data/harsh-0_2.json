@@ -2423,6 +2423,12 @@
       "easy": 195,
       "medium": 349,
       "hard": 76
+    },
+    {
+      "date": "2026-09-04",
+      "easy": 195,
+      "medium": 349,
+      "hard": 76
     }
   ],
   "leaderboardRanks": {
@@ -2431,12 +2437,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 26,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 11,
-      "change": -3
+      "rank": 13,
+      "change": -2
     },
     "monthly": {
       "rank": 1,
@@ -2444,7 +2450,7 @@
     }
   },
   "streak": {
-    "current": 13,
+    "current": 0,
     "longest": 27,
     "lastActiveDate": "2026-09-02"
   }
