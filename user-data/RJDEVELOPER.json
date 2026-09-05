@@ -2429,28 +2429,34 @@
       "easy": 17,
       "medium": 15,
       "hard": 4
+    },
+    {
+      "date": "2026-09-05",
+      "easy": 17,
+      "medium": 15,
+      "hard": 4
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 76,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 28,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 10,
-      "change": 0
+      "rank": 20,
+      "change": -10
     },
     "monthly": {
       "rank": 31,
-      "change": 1
+      "change": 0
     }
   },
   "streak": {
-    "current": 2,
+    "current": 0,
     "longest": 3,
     "lastActiveDate": "2026-09-03"
   }
