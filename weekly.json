@@ -26,6 +26,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 7,
+      "mediumSolved": 9,
+      "hardSolved": 1,
+      "totalSolved": 17
+    },
+    "score": 39,
+    "originalRank": 3,
+    "rankChange": "+1"
+  },
+  {
     "name": "YASH YOGESH BORA",
     "id": "yashbora",
     "data": {
@@ -37,19 +50,6 @@
     "score": 39,
     "originalRank": 3,
     "rankChange": "+3"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 9,
-      "hardSolved": 1,
-      "totalSolved": 16
-    },
-    "score": 38,
-    "originalRank": 4,
-    "rankChange": 0
   },
   {
     "name": "Raviteja P",
@@ -69,11 +69,11 @@
     "id": "dis_MantLe",
     "data": {
       "easySolved": 6,
-      "mediumSolved": 6,
+      "mediumSolved": 7,
       "hardSolved": 1,
-      "totalSolved": 13
+      "totalSolved": 14
     },
-    "score": 29,
+    "score": 32,
     "originalRank": 6,
     "rankChange": "-3"
   },
