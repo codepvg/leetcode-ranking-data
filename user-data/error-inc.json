@@ -5,16 +5,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 3,
-      "change": 0
+      "rank": 4,
+      "change": 17
     },
     "weekly": {
-      "rank": 26,
-      "change": 7
+      "rank": 23,
+      "change": 10
     },
     "monthly": {
-      "rank": 12,
-      "change": -1
+      "rank": 11,
+      "change": 0
     }
   },
   "history": [
@@ -200,14 +200,14 @@
     },
     {
       "date": "2026-09-06",
-      "easy": 42,
-      "medium": 49,
+      "easy": 43,
+      "medium": 50,
       "hard": 5
     }
   ],
   "streak": {
-    "current": 2,
+    "current": 3,
     "longest": 4,
-    "lastActiveDate": "2026-09-05"
+    "lastActiveDate": "2026-09-06"
   }
 }
