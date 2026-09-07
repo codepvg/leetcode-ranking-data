@@ -531,7 +531,7 @@
     {
       "date": "2026-09-07",
       "easy": 121,
-      "medium": 136,
+      "medium": 137,
       "hard": 9
     }
   ],
@@ -541,12 +541,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 9,
-      "change": 0
+      "rank": 2,
+      "change": 11
     },
     "weekly": {
-      "rank": 25,
-      "change": -1
+      "rank": 21,
+      "change": 3
     },
     "monthly": {
       "rank": 11,
@@ -554,8 +554,8 @@
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 9,
-    "lastActiveDate": "2026-09-06"
+    "lastActiveDate": "2026-09-07"
   }
 }
