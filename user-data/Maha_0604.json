@@ -543,7 +543,7 @@
     {
       "date": "2026-09-07",
       "easy": 232,
-      "medium": 84,
+      "medium": 85,
       "hard": 5
     }
   ],
@@ -553,21 +553,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 19,
-      "change": 0
+      "rank": 8,
+      "change": 19
     },
     "weekly": {
-      "rank": 44,
-      "change": 0
+      "rank": 34,
+      "change": 10
     },
     "monthly": {
-      "rank": 32,
-      "change": 0
+      "rank": 31,
+      "change": 1
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 8,
-    "lastActiveDate": "2026-08-30"
+    "lastActiveDate": "2026-09-07"
   }
 }
