@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-08T18:55:53.282Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-08T19:11:16.722Z",
+  "rank_changes": [
+    {
+      "username": "Chirag Budhbaware",
+      "id": "chiragbudhbaware",
+      "old_rank": 88,
+      "new_rank": 89,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
