@@ -13,6 +13,19 @@
     "rankChange": 0
   },
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 23,
+      "mediumSolved": 21,
+      "hardSolved": 10,
+      "totalSolved": 54
+    },
+    "score": 136,
+    "originalRank": 2,
+    "rankChange": "+1"
+  },
+  {
     "name": "Harshad Bhalsing",
     "id": "harsh-0_2",
     "data": {
@@ -22,21 +35,8 @@
       "totalSolved": 51
     },
     "score": 135,
-    "originalRank": 2,
-    "rankChange": 0
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 23,
-      "mediumSolved": 20,
-      "hardSolved": 10,
-      "totalSolved": 53
-    },
-    "score": 133,
     "originalRank": 3,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
@@ -81,12 +81,12 @@
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
-      "easySolved": 14,
+      "easySolved": 15,
       "mediumSolved": 24,
       "hardSolved": 5,
-      "totalSolved": 43
+      "totalSolved": 44
     },
-    "score": 111,
+    "score": 112,
     "originalRank": 7,
     "rankChange": "-1"
   },
