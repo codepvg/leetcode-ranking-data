@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Raviteja P",
+    "id": "Bat-ravi",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 7,
+      "hardSolved": 3,
+      "totalSolved": 11
+    },
+    "score": 37,
+    "originalRank": 4,
+    "rankChange": "+1"
+  },
+  {
     "name": "Jeet Sudhish Pachpande",
     "id": "jeet_pachpande",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 17
     },
     "score": 35,
-    "originalRank": 5,
-    "rankChange": "-2"
-  },
-  {
-    "name": "Raviteja P",
-    "id": "Bat-ravi",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 6,
-      "hardSolved": 3,
-      "totalSolved": 10
-    },
-    "score": 34,
     "originalRank": 6,
-    "rankChange": "-1"
+    "rankChange": "-3"
   },
   {
     "name": "Maanya Danayak",
@@ -87,8 +87,8 @@
       "totalSolved": 12
     },
     "score": 34,
-    "originalRank": 6,
-    "rankChange": 0
+    "originalRank": 7,
+    "rankChange": "-1"
   },
   {
     "name": "PRASATH S",
