@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 11,
+      "hardSolved": 1,
+      "totalSolved": 14
+    },
+    "score": 40,
+    "originalRank": 4,
+    "rankChange": "+2"
+  },
+  {
     "name": "Raviteja P",
     "id": "Bat-ravi",
     "data": {
@@ -48,8 +61,8 @@
       "totalSolved": 11
     },
     "score": 37,
-    "originalRank": 4,
-    "rankChange": "+1"
+    "originalRank": 5,
+    "rankChange": 0
   },
   {
     "name": "Jeet Sudhish Pachpande",
@@ -61,21 +74,8 @@
       "totalSolved": 13
     },
     "score": 37,
-    "originalRank": 4,
-    "rankChange": "+2"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 10,
-      "hardSolved": 1,
-      "totalSolved": 13
-    },
-    "score": 37,
-    "originalRank": 4,
-    "rankChange": "+2"
+    "originalRank": 5,
+    "rankChange": "+1"
   },
   {
     "name": "Siddhant Chavan",
@@ -247,6 +247,19 @@
     "rankChange": "-3"
   },
   {
+    "name": "Harshad Bhalsing",
+    "id": "harsh-0_2",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 2,
+      "hardSolved": 2,
+      "totalSolved": 4
+    },
+    "score": 16,
+    "originalRank": 18,
+    "rankChange": "+4"
+  },
+  {
     "name": "Pari Patel",
     "id": "PariChess07",
     "data": {
@@ -269,8 +282,8 @@
       "totalSolved": 7
     },
     "score": 15,
-    "originalRank": 21,
-    "rankChange": "-5"
+    "originalRank": 22,
+    "rankChange": "-6"
   },
   {
     "name": "Aryan Anoop Parihar",
@@ -282,21 +295,8 @@
       "totalSolved": 5
     },
     "score": 13,
-    "originalRank": 22,
-    "rankChange": "+4"
-  },
-  {
-    "name": "Harshad Bhalsing",
-    "id": "harsh-0_2",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 1,
-      "hardSolved": 2,
-      "totalSolved": 3
-    },
-    "score": 13,
-    "originalRank": 22,
-    "rankChange": 0
+    "originalRank": 23,
+    "rankChange": "+3"
   },
   {
     "name": "Vishwajit Hodgar",
@@ -308,8 +308,8 @@
       "totalSolved": 9
     },
     "score": 13,
-    "originalRank": 22,
-    "rankChange": "-3"
+    "originalRank": 23,
+    "rankChange": "-4"
   },
   {
     "name": "Challa Uday Kumar",
