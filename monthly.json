@@ -143,6 +143,19 @@
     "rankChange": 0
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 14,
+      "mediumSolved": 21,
+      "hardSolved": 1,
+      "totalSolved": 36
+    },
+    "score": 82,
+    "originalRank": 12,
+    "rankChange": "+1"
+  },
+  {
     "name": "Dev Patel",
     "id": "Dev_D_Patel",
     "data": {
@@ -152,21 +165,8 @@
       "totalSolved": 36
     },
     "score": 80,
-    "originalRank": 12,
-    "rankChange": 0
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 14,
-      "mediumSolved": 20,
-      "hardSolved": 1,
-      "totalSolved": 35
-    },
-    "score": 79,
     "originalRank": 13,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Darshan Dalvi",
