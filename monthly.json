@@ -29,14 +29,27 @@
     "name": "Raviteja P",
     "id": "Bat-ravi",
     "data": {
-      "easySolved": 12,
-      "mediumSolved": 30,
+      "easySolved": 13,
+      "mediumSolved": 31,
       "hardSolved": 9,
-      "totalSolved": 51
+      "totalSolved": 53
     },
-    "score": 147,
+    "score": 151,
     "originalRank": 3,
     "rankChange": 0
+  },
+  {
+    "name": "Harshad Bhalsing",
+    "id": "harsh-0_2",
+    "data": {
+      "easySolved": 14,
+      "mediumSolved": 26,
+      "hardSolved": 9,
+      "totalSolved": 49
+    },
+    "score": 137,
+    "originalRank": 4,
+    "rankChange": "+1"
   },
   {
     "name": "Piyush",
@@ -48,32 +61,19 @@
       "totalSolved": 53
     },
     "score": 135,
-    "originalRank": 4,
-    "rankChange": 0
-  },
-  {
-    "name": "Harshad Bhalsing",
-    "id": "harsh-0_2",
-    "data": {
-      "easySolved": 13,
-      "mediumSolved": 24,
-      "hardSolved": 9,
-      "totalSolved": 46
-    },
-    "score": 130,
     "originalRank": 5,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
     "id": "abhinav_deval07",
     "data": {
-      "easySolved": 10,
-      "mediumSolved": 23,
+      "easySolved": 11,
+      "mediumSolved": 25,
       "hardSolved": 9,
-      "totalSolved": 42
+      "totalSolved": 45
     },
-    "score": 124,
+    "score": 131,
     "originalRank": 6,
     "rankChange": 0
   },
@@ -195,6 +195,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "PRASATH S",
+    "id": "PRASATH1007",
+    "data": {
+      "easySolved": 19,
+      "mediumSolved": 16,
+      "hardSolved": 0,
+      "totalSolved": 35
+    },
+    "score": 67,
+    "originalRank": 16,
+    "rankChange": "+1"
+  },
+  {
     "name": "SHREYA KULKARNI",
     "id": "shreeya25",
     "data": {
@@ -205,19 +218,6 @@
     },
     "score": 67,
     "originalRank": 16,
-    "rankChange": 0
-  },
-  {
-    "name": "PRASATH S",
-    "id": "PRASATH1007",
-    "data": {
-      "easySolved": 18,
-      "mediumSolved": 16,
-      "hardSolved": 0,
-      "totalSolved": 34
-    },
-    "score": 66,
-    "originalRank": 17,
     "rankChange": 0
   },
   {
@@ -276,12 +276,12 @@
     "name": "Priya B",
     "id": "priya-codegaku",
     "data": {
-      "easySolved": 14,
+      "easySolved": 15,
       "mediumSolved": 12,
       "hardSolved": 0,
-      "totalSolved": 26
+      "totalSolved": 27
     },
-    "score": 50,
+    "score": 51,
     "originalRank": 22,
     "rankChange": 0
   },
