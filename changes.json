@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-12T09:18:54.549Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-12T09:34:10.528Z",
+  "rank_changes": [
+    {
+      "username": "Aditya sarse",
+      "id": "cxV1JzH5C2",
+      "old_rank": 50,
+      "new_rank": 49,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
