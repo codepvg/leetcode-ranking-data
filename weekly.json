@@ -39,6 +39,19 @@
     "rankChange": 0
   },
   {
+    "name": "Aayan Rashid",
+    "id": "dis_MantLe",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 10,
+      "hardSolved": 2,
+      "totalSolved": 13
+    },
+    "score": 41,
+    "originalRank": 4,
+    "rankChange": "+4"
+  },
+  {
     "name": "sagar nikat",
     "id": "sagarnikat",
     "data": {
@@ -48,21 +61,8 @@
       "totalSolved": 16
     },
     "score": 40,
-    "originalRank": 4,
-    "rankChange": 0
-  },
-  {
-    "name": "Aayan Rashid",
-    "id": "dis_MantLe",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 10,
-      "hardSolved": 1,
-      "totalSolved": 12
-    },
-    "score": 36,
     "originalRank": 5,
-    "rankChange": "+3"
+    "rankChange": "-1"
   },
   {
     "name": "SHREYA KULKARNI",
@@ -74,8 +74,8 @@
       "totalSolved": 10
     },
     "score": 36,
-    "originalRank": 5,
-    "rankChange": "+1"
+    "originalRank": 6,
+    "rankChange": 0
   },
   {
     "name": "M R Krishni",
