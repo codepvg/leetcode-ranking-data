@@ -234,6 +234,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 6,
+      "mediumSolved": 13,
+      "hardSolved": 3,
+      "totalSolved": 22
+    },
+    "score": 60,
+    "originalRank": 19,
+    "rankChange": "+2"
+  },
+  {
     "name": "Punya NHCE",
     "id": "Punnya_956",
     "data": {
@@ -256,21 +269,8 @@
       "totalSolved": 22
     },
     "score": 56,
-    "originalRank": 20,
-    "rankChange": 0
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 6,
-      "mediumSolved": 13,
-      "hardSolved": 2,
-      "totalSolved": 21
-    },
-    "score": 55,
     "originalRank": 21,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "M R Krishni",
