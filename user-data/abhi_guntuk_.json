@@ -2393,24 +2393,30 @@
       "easy": 61,
       "medium": 60,
       "hard": 7
+    },
+    {
+      "date": "2026-09-14",
+      "easy": 61,
+      "medium": 60,
+      "hard": 7
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 50,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 25,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 29,
-      "change": -2
+      "rank": 28,
+      "change": 1
     },
     "monthly": {
       "rank": 39,
-      "change": -1
+      "change": 0
     }
   },
   "streak": {
