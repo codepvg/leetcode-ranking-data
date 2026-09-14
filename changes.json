@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-14T14:06:28.921Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-14T14:21:47.083Z",
+  "rank_changes": [
+    {
+      "username": "Sameer Upadhyay",
+      "id": "sameer2028",
+      "old_rank": 26,
+      "new_rank": 25,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
