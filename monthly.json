@@ -117,6 +117,19 @@
     "rankChange": 0
   },
   {
+    "name": "Diya Rambhai Odedara",
+    "id": "Diya_Rambhai_Odedara",
+    "data": {
+      "easySolved": 11,
+      "mediumSolved": 16,
+      "hardSolved": 9,
+      "totalSolved": 36
+    },
+    "score": 104,
+    "originalRank": 10,
+    "rankChange": "+1"
+  },
+  {
     "name": "Sayondeep Daripa",
     "id": "PrimeLogic",
     "data": {
@@ -126,21 +139,8 @@
       "totalSolved": 42
     },
     "score": 102,
-    "originalRank": 10,
-    "rankChange": 0
-  },
-  {
-    "name": "Diya Rambhai Odedara",
-    "id": "Diya_Rambhai_Odedara",
-    "data": {
-      "easySolved": 11,
-      "mediumSolved": 16,
-      "hardSolved": 8,
-      "totalSolved": 35
-    },
-    "score": 99,
     "originalRank": 11,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Sameer Upadhyay",
@@ -263,12 +263,12 @@
     "name": "Yashaswini KP",
     "id": "Yashaswini_K_P",
     "data": {
-      "easySolved": 9,
+      "easySolved": 10,
       "mediumSolved": 10,
       "hardSolved": 4,
-      "totalSolved": 23
+      "totalSolved": 24
     },
-    "score": 59,
+    "score": 60,
     "originalRank": 21,
     "rankChange": 0
   },
