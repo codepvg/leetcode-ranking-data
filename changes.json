@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-16T06:28:55.537Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-16T06:44:18.436Z",
+  "rank_changes": [
+    {
+      "username": "Eshani Misra",
+      "id": "ESHA18",
+      "old_rank": 45,
+      "new_rank": 46,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
