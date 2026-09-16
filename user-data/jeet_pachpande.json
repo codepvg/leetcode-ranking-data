@@ -885,22 +885,22 @@
     {
       "date": "2026-09-16",
       "easy": 69,
-      "medium": 71,
+      "medium": 72,
       "hard": 5
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 46,
-      "change": 0
+      "rank": 45,
+      "change": 1
     },
     "daily": {
-      "rank": 2,
-      "change": 0
+      "rank": 1,
+      "change": 19
     },
     "weekly": {
-      "rank": 23,
-      "change": -6
+      "rank": 17,
+      "change": 0
     },
     "monthly": {
       "rank": 18,
@@ -908,8 +908,8 @@
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 14,
-    "lastActiveDate": "2026-09-13"
+    "lastActiveDate": "2026-09-16"
   }
 }
