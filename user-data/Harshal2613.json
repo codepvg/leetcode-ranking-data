@@ -2439,31 +2439,31 @@
     {
       "date": "2026-09-17",
       "easy": 97,
-      "medium": 60,
+      "medium": 61,
       "hard": 6
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 47,
-      "change": 0
-    },
-    "daily": {
-      "rank": 18,
-      "change": 0
-    },
-    "weekly": {
-      "rank": 29,
+      "rank": 46,
       "change": 1
     },
+    "daily": {
+      "rank": 5,
+      "change": -1
+    },
+    "weekly": {
+      "rank": 21,
+      "change": 9
+    },
     "monthly": {
-      "rank": 24,
-      "change": 0
+      "rank": 23,
+      "change": 1
     }
   },
   "streak": {
-    "current": 2,
+    "current": 3,
     "longest": 17,
-    "lastActiveDate": "2026-09-16"
+    "lastActiveDate": "2026-09-17"
   }
 }
