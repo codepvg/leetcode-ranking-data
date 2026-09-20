@@ -2519,24 +2519,30 @@
       "easy": 79,
       "medium": 120,
       "hard": 40
+    },
+    {
+      "date": "2026-09-20",
+      "easy": 79,
+      "medium": 120,
+      "hard": 40
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 24,
-      "change": -1
+      "change": 0
     },
     "daily": {
-      "rank": 22,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 13,
-      "change": 1
+      "rank": 23,
+      "change": -10
     },
     "monthly": {
-      "rank": 16,
-      "change": -2
+      "rank": 13,
+      "change": 3
     }
   },
   "streak": {
