@@ -260,6 +260,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 11,
+      "hardSolved": 3,
+      "totalSolved": 17
+    },
+    "score": 51,
+    "originalRank": 21,
+    "rankChange": "+2"
+  },
+  {
     "name": "M R Krishni",
     "id": "krishni_",
     "data": {
@@ -282,21 +295,8 @@
       "totalSolved": 26
     },
     "score": 50,
-    "originalRank": 22,
-    "rankChange": 0
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 10,
-      "hardSolved": 3,
-      "totalSolved": 16
-    },
-    "score": 48,
     "originalRank": 23,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Sameer Upadhyay",
