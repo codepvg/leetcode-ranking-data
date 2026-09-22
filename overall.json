@@ -767,6 +767,19 @@
     "rankChange": 0
   },
   {
+    "name": "Kiran Zagade",
+    "id": "Kiran_zagade",
+    "data": {
+      "easySolved": 62,
+      "mediumSolved": 41,
+      "hardSolved": 2,
+      "totalSolved": 105
+    },
+    "score": 195,
+    "originalRank": 60,
+    "rankChange": "+1"
+  },
+  {
     "name": "Avinash Ganore",
     "id": "IAvii",
     "data": {
@@ -776,21 +789,8 @@
       "totalSolved": 91
     },
     "score": 193,
-    "originalRank": 60,
-    "rankChange": 0
-  },
-  {
-    "name": "Kiran Zagade",
-    "id": "Kiran_zagade",
-    "data": {
-      "easySolved": 62,
-      "mediumSolved": 40,
-      "hardSolved": 2,
-      "totalSolved": 104
-    },
-    "score": 192,
     "originalRank": 61,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Maanya Danayak",
@@ -1147,12 +1147,12 @@
     "name": "Chirag Budhbaware",
     "id": "chiragbudhbaware",
     "data": {
-      "easySolved": 11,
+      "easySolved": 12,
       "mediumSolved": 9,
       "hardSolved": 1,
-      "totalSolved": 21
+      "totalSolved": 22
     },
-    "score": 43,
+    "score": 44,
     "originalRank": 89,
     "rankChange": 0
   },
