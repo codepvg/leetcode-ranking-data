@@ -78,6 +78,19 @@
     "rankChange": 0
   },
   {
+    "name": "sharon",
+    "id": "Sharon_Chelsy",
+    "data": {
+      "easySolved": 22,
+      "mediumSolved": 1,
+      "hardSolved": 0,
+      "totalSolved": 23
+    },
+    "score": 25,
+    "originalRank": 7,
+    "rankChange": "+7"
+  },
+  {
     "name": "Vishwajit Hodgar",
     "id": "vishwajit15-git",
     "data": {
@@ -100,21 +113,8 @@
       "totalSolved": 8
     },
     "score": 24,
-    "originalRank": 8,
-    "rankChange": "-1"
-  },
-  {
-    "name": "sharon",
-    "id": "Sharon_Chelsy",
-    "data": {
-      "easySolved": 20,
-      "mediumSolved": 1,
-      "hardSolved": 0,
-      "totalSolved": 21
-    },
-    "score": 23,
     "originalRank": 9,
-    "rankChange": "+5"
+    "rankChange": "-2"
   },
   {
     "name": "sagar nikat",
