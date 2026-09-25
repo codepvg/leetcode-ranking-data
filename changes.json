@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-09-25T05:19:13.058Z",
-  "rank_changes": [],
+  "sync_time": "2026-09-25T05:34:32.382Z",
+  "rank_changes": [
+    {
+      "username": "sharon",
+      "id": "Sharon_Chelsy",
+      "old_rank": 75,
+      "new_rank": 76,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
