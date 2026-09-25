@@ -644,32 +644,32 @@
     },
     {
       "date": "2026-09-25",
-      "easy": 39,
+      "easy": 41,
       "medium": 17,
       "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 76,
-      "change": -1
-    },
-    "daily": {
-      "rank": 13,
+      "rank": 75,
       "change": 0
     },
+    "daily": {
+      "rank": 8,
+      "change": -2
+    },
     "weekly": {
-      "rank": 12,
-      "change": 2
+      "rank": 10,
+      "change": 4
     },
     "monthly": {
-      "rank": 37,
-      "change": -1
+      "rank": 34,
+      "change": 2
     }
   },
   "streak": {
-    "current": 4,
-    "longest": 4,
-    "lastActiveDate": "2026-09-24"
+    "current": 5,
+    "longest": 5,
+    "lastActiveDate": "2026-09-25"
   }
 }

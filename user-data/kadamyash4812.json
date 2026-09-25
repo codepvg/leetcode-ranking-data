@@ -1,7 +1,7 @@
 {
   "leaderboardRanks": {
     "overall": {
-      "rank": 110,
+      "rank": 100,
       "change": 0
     },
     "daily": {
@@ -22,12 +22,12 @@
       "date": "2026-09-25",
       "easy": 0,
       "medium": 0,
-      "hard": 0
+      "hard": 1
     }
   ],
   "streak": {
-    "current": 0,
-    "longest": 0,
-    "lastActiveDate": null
+    "current": 1,
+    "longest": 1,
+    "lastActiveDate": "2026-09-25"
   }
 }
