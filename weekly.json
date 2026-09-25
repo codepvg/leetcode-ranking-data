@@ -81,12 +81,12 @@
     "name": "sharon",
     "id": "Sharon_Chelsy",
     "data": {
-      "easySolved": 23,
+      "easySolved": 24,
       "mediumSolved": 1,
       "hardSolved": 0,
-      "totalSolved": 24
+      "totalSolved": 25
     },
-    "score": 26,
+    "score": 27,
     "originalRank": 7,
     "rankChange": "+7"
   },
@@ -208,6 +208,19 @@
     "rankChange": "-6"
   },
   {
+    "name": "Sayondeep Daripa",
+    "id": "PrimeLogic",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 2,
+      "hardSolved": 2,
+      "totalSolved": 4
+    },
+    "score": 16,
+    "originalRank": 16,
+    "rankChange": "-2"
+  },
+  {
     "name": "Kiran Zagade",
     "id": "Kiran_zagade",
     "data": {
@@ -217,21 +230,8 @@
       "totalSolved": 5
     },
     "score": 15,
-    "originalRank": 17,
-    "rankChange": 0
-  },
-  {
-    "name": "Sayondeep Daripa",
-    "id": "PrimeLogic",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 1,
-      "hardSolved": 2,
-      "totalSolved": 3
-    },
-    "score": 13,
     "originalRank": 18,
-    "rankChange": "-4"
+    "rankChange": "-1"
   },
   {
     "name": "Abhinav Deval",
