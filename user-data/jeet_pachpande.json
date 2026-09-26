@@ -941,24 +941,30 @@
       "easy": 72,
       "medium": 91,
       "hard": 5
+    },
+    {
+      "date": "2026-09-26",
+      "easy": 72,
+      "medium": 91,
+      "hard": 5
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 42,
-      "change": 3
-    },
-    "daily": {
-      "rank": 2,
-      "change": 24
-    },
-    "weekly": {
-      "rank": 2,
       "change": 0
     },
+    "daily": {
+      "rank": 1,
+      "change": 0
+    },
+    "weekly": {
+      "rank": 3,
+      "change": -1
+    },
     "monthly": {
-      "rank": 7,
-      "change": 3
+      "rank": 6,
+      "change": 1
     }
   },
   "streak": {
