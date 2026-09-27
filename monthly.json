@@ -65,6 +65,19 @@
     "rankChange": 0
   },
   {
+    "name": "YASH YOGESH BORA",
+    "id": "yashbora",
+    "data": {
+      "easySolved": 23,
+      "mediumSolved": 29,
+      "hardSolved": 1,
+      "totalSolved": 53
+    },
+    "score": 115,
+    "originalRank": 6,
+    "rankChange": "+2"
+  },
+  {
     "name": "sagar nikat",
     "id": "sagarnikat",
     "data": {
@@ -74,21 +87,8 @@
       "totalSolved": 39
     },
     "score": 111,
-    "originalRank": 6,
-    "rankChange": 0
-  },
-  {
-    "name": "YASH YOGESH BORA",
-    "id": "yashbora",
-    "data": {
-      "easySolved": 23,
-      "mediumSolved": 27,
-      "hardSolved": 1,
-      "totalSolved": 51
-    },
-    "score": 109,
     "originalRank": 7,
-    "rankChange": "+1"
+    "rankChange": "-1"
   },
   {
     "name": "Piyush",
