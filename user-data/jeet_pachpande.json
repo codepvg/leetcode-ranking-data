@@ -957,7 +957,7 @@
     {
       "date": "2026-09-28",
       "easy": 75,
-      "medium": 91,
+      "medium": 92,
       "hard": 6
     }
   ],
@@ -967,21 +967,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 7,
-      "change": 0
+      "rank": 1,
+      "change": 25
     },
     "weekly": {
-      "rank": 4,
-      "change": -1
+      "rank": 3,
+      "change": 0
     },
     "monthly": {
-      "rank": 5,
-      "change": 1
+      "rank": 3,
+      "change": 3
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 14,
-    "lastActiveDate": "2026-09-26"
+    "lastActiveDate": "2026-09-28"
   }
 }
