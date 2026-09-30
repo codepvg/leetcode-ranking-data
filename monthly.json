@@ -104,6 +104,19 @@
     "rankChange": 0
   },
   {
+    "name": "Piyush",
+    "id": "Infinite_Universe",
+    "data": {
+      "easySolved": 5,
+      "mediumSolved": 26,
+      "hardSolved": 3,
+      "totalSolved": 34
+    },
+    "score": 98,
+    "originalRank": 9,
+    "rankChange": 0
+  },
+  {
     "name": "Vishwajit Hodgar",
     "id": "vishwajit15-git",
     "data": {
@@ -113,21 +126,8 @@
       "totalSolved": 40
     },
     "score": 96,
-    "originalRank": 9,
-    "rankChange": "+3"
-  },
-  {
-    "name": "Piyush",
-    "id": "Infinite_Universe",
-    "data": {
-      "easySolved": 5,
-      "mediumSolved": 25,
-      "hardSolved": 3,
-      "totalSolved": 33
-    },
-    "score": 95,
     "originalRank": 10,
-    "rankChange": "-1"
+    "rankChange": "+2"
   },
   {
     "name": "Aayan Rashid",
