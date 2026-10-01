@@ -1065,31 +1065,31 @@
     {
       "date": "2026-10-01",
       "easy": 19,
-      "medium": 12,
+      "medium": 13,
       "hard": 1
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 83,
-      "change": 0
+      "rank": 82,
+      "change": 1
     },
     "daily": {
-      "rank": 10,
-      "change": 0
+      "rank": 5,
+      "change": 1
     },
     "weekly": {
-      "rank": 23,
-      "change": -1
+      "rank": 20,
+      "change": 2
     },
     "monthly": {
-      "rank": 36,
-      "change": -1
+      "rank": 33,
+      "change": 2
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 7,
-    "lastActiveDate": "2026-09-30"
+    "lastActiveDate": "2026-10-01"
   }
 }
