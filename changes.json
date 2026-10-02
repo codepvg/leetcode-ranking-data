@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-10-02T19:14:52.081Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-02T19:30:21.590Z",
+  "rank_changes": [
+    {
+      "username": "Punya NHCE",
+      "id": "Punnya_956",
+      "old_rank": 14,
+      "new_rank": 13,
+      "rank_delta": 1
+    },
+    {
+      "username": "Saniya Gupte",
+      "id": "SaniyaGupte",
+      "old_rank": 13,
+      "new_rank": 14,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
