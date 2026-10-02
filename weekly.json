@@ -273,6 +273,19 @@
     "rankChange": "+3"
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 2,
+      "hardSolved": 1,
+      "totalSolved": 3
+    },
+    "score": 11,
+    "originalRank": 22,
+    "rankChange": "+5"
+  },
+  {
     "name": "Nikhil",
     "id": "Nick_kaushik",
     "data": {
@@ -308,8 +321,8 @@
       "totalSolved": 4
     },
     "score": 10,
-    "originalRank": 24,
-    "rankChange": 0
+    "originalRank": 25,
+    "rankChange": "-1"
   },
   {
     "name": "Yash Kadam",
@@ -321,7 +334,7 @@
       "totalSolved": 7
     },
     "score": 9,
-    "originalRank": 25,
+    "originalRank": 26,
     "rankChange": "NEW"
   },
   {
@@ -334,8 +347,8 @@
       "totalSolved": 5
     },
     "score": 9,
-    "originalRank": 25,
-    "rankChange": 0
+    "originalRank": 26,
+    "rankChange": "-1"
   },
   {
     "name": "Triveni Waghole",
@@ -347,8 +360,8 @@
       "totalSolved": 3
     },
     "score": 9,
-    "originalRank": 25,
-    "rankChange": 0
+    "originalRank": 26,
+    "rankChange": "-1"
   },
   {
     "name": "Divya Jadhav",
@@ -360,21 +373,8 @@
       "totalSolved": 6
     },
     "score": 8,
-    "originalRank": 28,
-    "rankChange": "+5"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 1,
-      "hardSolved": 1,
-      "totalSolved": 2
-    },
-    "score": 8,
-    "originalRank": 28,
-    "rankChange": "-1"
+    "originalRank": 29,
+    "rankChange": "+4"
   },
   {
     "name": "Anushka Prasad",
@@ -386,8 +386,8 @@
       "totalSolved": 4
     },
     "score": 8,
-    "originalRank": 28,
-    "rankChange": "-1"
+    "originalRank": 29,
+    "rankChange": "-2"
   },
   {
     "name": "Aryan Anoop Parihar",
