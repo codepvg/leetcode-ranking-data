@@ -5,16 +5,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 5,
-      "change": 10
+      "rank": 1,
+      "change": 0
     },
     "weekly": {
-      "rank": 34,
-      "change": 2
+      "rank": 30,
+      "change": 4
     },
     "monthly": {
-      "rank": 23,
-      "change": 3
+      "rank": 25,
+      "change": -2
     }
   },
   "history": [
@@ -422,6 +422,12 @@
     },
     {
       "date": "2026-10-02",
+      "easy": 151,
+      "medium": 130,
+      "hard": 10
+    },
+    {
+      "date": "2026-10-03",
       "easy": 151,
       "medium": 130,
       "hard": 10
