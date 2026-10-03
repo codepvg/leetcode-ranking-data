@@ -121,11 +121,11 @@
     "id": "Infinite_Universe",
     "data": {
       "easySolved": 5,
-      "mediumSolved": 27,
+      "mediumSolved": 28,
       "hardSolved": 2,
-      "totalSolved": 34
+      "totalSolved": 35
     },
-    "score": 96,
+    "score": 99,
     "originalRank": 10,
     "rankChange": 0
   },
@@ -195,6 +195,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "Abhinav Deval",
+    "id": "abhinav_deval07",
+    "data": {
+      "easySolved": 11,
+      "mediumSolved": 13,
+      "hardSolved": 3,
+      "totalSolved": 27
+    },
+    "score": 65,
+    "originalRank": 16,
+    "rankChange": "+2"
+  },
+  {
     "name": "Divya Jadhav",
     "id": "divya_jadhav05",
     "data": {
@@ -219,19 +232,6 @@
     "score": 65,
     "originalRank": 16,
     "rankChange": "+1"
-  },
-  {
-    "name": "Abhinav Deval",
-    "id": "abhinav_deval07",
-    "data": {
-      "easySolved": 11,
-      "mediumSolved": 12,
-      "hardSolved": 3,
-      "totalSolved": 26
-    },
-    "score": 62,
-    "originalRank": 18,
-    "rankChange": 0
   },
   {
     "name": "Punya NHCE",
