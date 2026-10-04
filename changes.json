@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-10-04T03:45:01.386Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-04T04:01:40.472Z",
+  "rank_changes": [
+    {
+      "username": "Priya B",
+      "id": "priya-codegaku",
+      "old_rank": 27,
+      "new_rank": 26,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 7,
+  "users_with_new_solves": 4,
+  "no_changes": false
 }
