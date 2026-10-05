@@ -78,6 +78,19 @@
     "rankChange": 0
   },
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 5,
+      "hardSolved": 2,
+      "totalSolved": 7
+    },
+    "score": 25,
+    "originalRank": 7,
+    "rankChange": "+5"
+  },
+  {
     "name": "Aayan Rashid",
     "id": "dis_MantLe",
     "data": {
@@ -87,21 +100,8 @@
       "totalSolved": 12
     },
     "score": 24,
-    "originalRank": 7,
-    "rankChange": "+3"
-  },
-  {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 4,
-      "hardSolved": 2,
-      "totalSolved": 6
-    },
-    "score": 22,
     "originalRank": 8,
-    "rankChange": "+4"
+    "rankChange": "+2"
   },
   {
     "name": "Piyush",
