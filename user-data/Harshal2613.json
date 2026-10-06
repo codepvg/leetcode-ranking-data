@@ -2553,7 +2553,7 @@
     {
       "date": "2026-10-06",
       "easy": 100,
-      "medium": 64,
+      "medium": 65,
       "hard": 6
     }
   ],
@@ -2563,21 +2563,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 21,
-      "change": 0
+      "rank": 6,
+      "change": 5
     },
     "weekly": {
-      "rank": 37,
-      "change": -2
+      "rank": 32,
+      "change": 3
     },
     "monthly": {
-      "rank": 39,
-      "change": -1
+      "rank": 38,
+      "change": 0
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 17,
-    "lastActiveDate": "2026-10-05"
+    "lastActiveDate": "2026-10-06"
   }
 }
