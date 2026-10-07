@@ -1,5 +1,18 @@
 [
   {
+    "name": "Jeet Sudhish Pachpande",
+    "id": "jeet_pachpande",
+    "data": {
+      "easySolved": 5,
+      "mediumSolved": 9,
+      "hardSolved": 3,
+      "totalSolved": 17
+    },
+    "score": 47,
+    "originalRank": 1,
+    "rankChange": "+2"
+  },
+  {
     "name": "Vishwajit Hodgar",
     "id": "vishwajit15-git",
     "data": {
@@ -9,8 +22,8 @@
       "totalSolved": 14
     },
     "score": 46,
-    "originalRank": 1,
-    "rankChange": "+1"
+    "originalRank": 2,
+    "rankChange": 0
   },
   {
     "name": "Elmajdoubi Yassine",
@@ -22,8 +35,8 @@
       "totalSolved": 15
     },
     "score": 45,
-    "originalRank": 2,
-    "rankChange": "-1"
+    "originalRank": 3,
+    "rankChange": "-2"
   },
   {
     "name": "Aayan Rashid",
@@ -35,20 +48,7 @@
       "totalSolved": 18
     },
     "score": 44,
-    "originalRank": 3,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Jeet Sudhish Pachpande",
-    "id": "jeet_pachpande",
-    "data": {
-      "easySolved": 5,
-      "mediumSolved": 8,
-      "hardSolved": 3,
-      "totalSolved": 16
-    },
-    "score": 44,
-    "originalRank": 3,
+    "originalRank": 4,
     "rankChange": 0
   },
   {
@@ -104,6 +104,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 0,
+      "mediumSolved": 5,
+      "hardSolved": 2,
+      "totalSolved": 7
+    },
+    "score": 25,
+    "originalRank": 9,
+    "rankChange": "+1"
+  },
+  {
     "name": "Raviteja P",
     "id": "Bat-ravi",
     "data": {
@@ -113,8 +126,8 @@
       "totalSolved": 6
     },
     "score": 22,
-    "originalRank": 9,
-    "rankChange": "+9"
+    "originalRank": 10,
+    "rankChange": "+8"
   },
   {
     "name": "Piyush",
@@ -126,8 +139,8 @@
       "totalSolved": 7
     },
     "score": 21,
-    "originalRank": 10,
-    "rankChange": "-1"
+    "originalRank": 11,
+    "rankChange": "-2"
   },
   {
     "name": "PRASATH S",
@@ -139,21 +152,8 @@
       "totalSolved": 7
     },
     "score": 21,
-    "originalRank": 10,
-    "rankChange": "+6"
-  },
-  {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 5,
-      "hardSolved": 1,
-      "totalSolved": 6
-    },
-    "score": 20,
-    "originalRank": 12,
-    "rankChange": "-2"
+    "originalRank": 11,
+    "rankChange": "+5"
   },
   {
     "name": "sharon",
