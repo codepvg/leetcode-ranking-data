@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "PRASATH S",
+    "id": "PRASATH1007",
+    "data": {
+      "easySolved": 12,
+      "mediumSolved": 39,
+      "hardSolved": 0,
+      "totalSolved": 51
+    },
+    "score": 129,
+    "originalRank": 5,
+    "rankChange": "+1"
+  },
+  {
     "name": "Harshad Bhalsing",
     "id": "harsh-0_2",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 44
     },
     "score": 128,
-    "originalRank": 5,
-    "rankChange": 0
-  },
-  {
-    "name": "PRASATH S",
-    "id": "PRASATH1007",
-    "data": {
-      "easySolved": 12,
-      "mediumSolved": 38,
-      "hardSolved": 0,
-      "totalSolved": 50
-    },
-    "score": 126,
     "originalRank": 6,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Aayan Rashid",
