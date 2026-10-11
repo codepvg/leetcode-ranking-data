@@ -700,7 +700,7 @@
       "date": "2026-10-11",
       "easy": 151,
       "medium": 116,
-      "hard": 13
+      "hard": 14
     }
   ],
   "leaderboardRanks": {
@@ -709,21 +709,21 @@
       "change": 0
     },
     "daily": {
-      "rank": 15,
-      "change": 0
+      "rank": 2,
+      "change": 15
     },
     "weekly": {
-      "rank": 25,
-      "change": 2
+      "rank": 21,
+      "change": 6
     },
     "monthly": {
-      "rank": 17,
-      "change": 1
+      "rank": 15,
+      "change": 3
     }
   },
   "streak": {
-    "current": 0,
+    "current": 1,
     "longest": 8,
-    "lastActiveDate": "2026-10-09"
+    "lastActiveDate": "2026-10-11"
   }
 }
