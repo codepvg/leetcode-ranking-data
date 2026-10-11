@@ -1,8 +1,30 @@
 {
-  "sync_time": "2026-10-11T03:15:23.526Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-11T05:02:41.617Z",
+  "rank_changes": [
+    {
+      "username": "Shivam Gupta",
+      "id": "shivamgupta1151",
+      "old_rank": 31,
+      "new_rank": 32,
+      "rank_delta": -1
+    },
+    {
+      "username": "srushti rajesh shete",
+      "id": "srushtishete18",
+      "old_rank": 37,
+      "new_rank": 36,
+      "rank_delta": 1
+    },
+    {
+      "username": "Jeet Sudhish Pachpande",
+      "id": "jeet_pachpande",
+      "old_rank": 36,
+      "new_rank": 37,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 6,
+  "users_with_new_solves": 6,
+  "no_changes": false
 }
