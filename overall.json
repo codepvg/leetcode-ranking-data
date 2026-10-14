@@ -377,6 +377,19 @@
     "rankChange": 0
   },
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 83,
+      "mediumSolved": 113,
+      "hardSolved": 25,
+      "totalSolved": 221
+    },
+    "score": 547,
+    "originalRank": 30,
+    "rankChange": "+1"
+  },
+  {
     "name": "Sushant Borde",
     "id": "Sbking_391",
     "data": {
@@ -386,8 +399,8 @@
       "totalSolved": 226
     },
     "score": 546,
-    "originalRank": 30,
-    "rankChange": 0
+    "originalRank": 31,
+    "rankChange": "-1"
   },
   {
     "name": "Rajat malapur",
@@ -399,21 +412,8 @@
       "totalSolved": 296
     },
     "score": 544,
-    "originalRank": 31,
-    "rankChange": 0
-  },
-  {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 83,
-      "mediumSolved": 112,
-      "hardSolved": 25,
-      "totalSolved": 220
-    },
-    "score": 544,
-    "originalRank": 31,
-    "rankChange": 0
+    "originalRank": 32,
+    "rankChange": "-1"
   },
   {
     "name": "Shivam Gupta",
@@ -719,11 +719,11 @@
     "id": "error-inc",
     "data": {
       "easySolved": 45,
-      "mediumSolved": 54,
+      "mediumSolved": 55,
       "hardSolved": 5,
-      "totalSolved": 104
+      "totalSolved": 105
     },
-    "score": 232,
+    "score": 235,
     "originalRank": 56,
     "rankChange": 0
   },
