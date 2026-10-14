@@ -182,6 +182,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 12,
+      "hardSolved": 4,
+      "totalSolved": 19
+    },
+    "score": 59,
+    "originalRank": 15,
+    "rankChange": "+1"
+  },
+  {
     "name": "Punya NHCE",
     "id": "Punnya_956",
     "data": {
@@ -204,21 +217,8 @@
       "totalSolved": 52
     },
     "score": 58,
-    "originalRank": 16,
-    "rankChange": "+1"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 11,
-      "hardSolved": 4,
-      "totalSolved": 18
-    },
-    "score": 56,
     "originalRank": 17,
-    "rankChange": "-1"
+    "rankChange": 0
   },
   {
     "name": "Sameer Upadhyay",
