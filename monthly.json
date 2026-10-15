@@ -182,6 +182,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 12,
+      "hardSolved": 5,
+      "totalSolved": 20
+    },
+    "score": 64,
+    "originalRank": 15,
+    "rankChange": 0
+  },
+  {
     "name": "rohanonleetcode :P",
     "id": "Rohan-Mali",
     "data": {
@@ -191,21 +204,8 @@
       "totalSolved": 33
     },
     "score": 61,
-    "originalRank": 15,
-    "rankChange": "+4"
-  },
-  {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 12,
-      "hardSolved": 4,
-      "totalSolved": 19
-    },
-    "score": 59,
     "originalRank": 16,
-    "rankChange": "-1"
+    "rankChange": "+3"
   },
   {
     "name": "sharon",
