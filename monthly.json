@@ -52,6 +52,19 @@
     "rankChange": 0
   },
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 16,
+      "mediumSolved": 21,
+      "hardSolved": 8,
+      "totalSolved": 45
+    },
+    "score": 119,
+    "originalRank": 5,
+    "rankChange": "+1"
+  },
+  {
     "name": "Vishwajit Hodgar",
     "id": "vishwajit15-git",
     "data": {
@@ -61,21 +74,8 @@
       "totalSolved": 44
     },
     "score": 114,
-    "originalRank": 5,
-    "rankChange": 0
-  },
-  {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 16,
-      "mediumSolved": 19,
-      "hardSolved": 8,
-      "totalSolved": 43
-    },
-    "score": 113,
     "originalRank": 6,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Raviteja P",

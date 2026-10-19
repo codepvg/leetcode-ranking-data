@@ -1,5 +1,18 @@
 [
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 8,
+      "mediumSolved": 9,
+      "hardSolved": 2,
+      "totalSolved": 19
+    },
+    "score": 45,
+    "originalRank": 1,
+    "rankChange": "+3"
+  },
+  {
     "name": "Elmajdoubi Yassine",
     "id": "0x_naoki",
     "data": {
@@ -9,21 +22,8 @@
       "totalSolved": 13
     },
     "score": 39,
-    "originalRank": 1,
-    "rankChange": "+1"
-  },
-  {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 8,
-      "mediumSolved": 7,
-      "hardSolved": 2,
-      "totalSolved": 17
-    },
-    "score": 39,
-    "originalRank": 1,
-    "rankChange": "+3"
+    "originalRank": 2,
+    "rankChange": 0
   },
   {
     "name": "rohanonleetcode :P",
