@@ -2711,24 +2711,30 @@
       "easy": 16,
       "medium": 10,
       "hard": 3
+    },
+    {
+      "date": "2026-10-21",
+      "easy": 16,
+      "medium": 10,
+      "hard": 3
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 84,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 14,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 38,
+      "rank": 36,
       "change": 0
     },
     "monthly": {
-      "rank": 30,
-      "change": 3
+      "rank": 35,
+      "change": -5
     }
   },
   "streak": {
