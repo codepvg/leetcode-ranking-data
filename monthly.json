@@ -299,6 +299,19 @@
     "rankChange": "-1"
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 4,
+      "mediumSolved": 7,
+      "hardSolved": 3,
+      "totalSolved": 14
+    },
+    "score": 40,
+    "originalRank": 24,
+    "rankChange": "+2"
+  },
+  {
     "name": "Pari Patel",
     "id": "PariChess07",
     "data": {
@@ -321,8 +334,8 @@
       "totalSolved": 15
     },
     "score": 37,
-    "originalRank": 25,
-    "rankChange": "-1"
+    "originalRank": 26,
+    "rankChange": "-2"
   },
   {
     "name": "Aryan Shashikant Patil",
@@ -334,21 +347,8 @@
       "totalSolved": 20
     },
     "score": 36,
-    "originalRank": 26,
-    "rankChange": "+3"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 3,
-      "mediumSolved": 6,
-      "hardSolved": 3,
-      "totalSolved": 12
-    },
-    "score": 36,
-    "originalRank": 26,
-    "rankChange": 0
+    "originalRank": 27,
+    "rankChange": "+2"
   },
   {
     "name": "Shivam Gupta",
