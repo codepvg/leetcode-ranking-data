@@ -2723,24 +2723,30 @@
       "easy": 123,
       "medium": 175,
       "hard": 15
+    },
+    {
+      "date": "2026-10-24",
+      "easy": 123,
+      "medium": 175,
+      "hard": 15
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 20,
-      "change": 1
+      "change": 0
     },
     "daily": {
       "rank": 1,
-      "change": 2
+      "change": 0
     },
     "weekly": {
-      "rank": 7,
-      "change": 8
+      "rank": 5,
+      "change": 2
     },
     "monthly": {
       "rank": 26,
-      "change": 3
+      "change": 0
     }
   },
   "streak": {
