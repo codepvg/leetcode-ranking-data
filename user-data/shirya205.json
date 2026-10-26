@@ -2669,23 +2669,29 @@
       "easy": 20,
       "medium": 25,
       "hard": 7
+    },
+    {
+      "date": "2026-10-26",
+      "easy": 20,
+      "medium": 25,
+      "hard": 7
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 66,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 18,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 17,
-      "change": -4
+      "rank": 15,
+      "change": 2
     },
     "monthly": {
-      "rank": 21,
+      "rank": 20,
       "change": 1
     }
   },

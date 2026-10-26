@@ -2,19 +2,19 @@
   "leaderboardRanks": {
     "overall": {
       "rank": 57,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 18,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
-      "rank": 26,
-      "change": -1
+      "rank": 24,
+      "change": 2
     },
     "monthly": {
       "rank": 41,
-      "change": -2
+      "change": 0
     }
   },
   "history": [
@@ -437,10 +437,16 @@
       "easy": 68,
       "medium": 46,
       "hard": 2
+    },
+    {
+      "date": "2026-10-26",
+      "easy": 68,
+      "medium": 46,
+      "hard": 2
     }
   ],
   "streak": {
-    "current": 1,
+    "current": 0,
     "longest": 4,
     "lastActiveDate": "2026-10-24"
   }
