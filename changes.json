@@ -1,8 +1,30 @@
 {
-  "sync_time": "2026-10-26T16:40:26.505Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-26T16:56:03.224Z",
+  "rank_changes": [
+    {
+      "username": "Abhinav Deval",
+      "id": "abhinav_deval07",
+      "old_rank": 20,
+      "new_rank": 19,
+      "rank_delta": 1
+    },
+    {
+      "username": "Priya B",
+      "id": "priya-codegaku",
+      "old_rank": 25,
+      "new_rank": 24,
+      "rank_delta": 1
+    },
+    {
+      "username": "SHREYA KULKARNI",
+      "id": "shreeya25",
+      "old_rank": 24,
+      "new_rank": 25,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 1,
-  "users_with_new_solves": 1,
+  "total_new_solves": 3,
+  "users_with_new_solves": 3,
   "no_changes": false
 }
