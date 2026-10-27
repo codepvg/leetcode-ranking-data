@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-10-27T06:11:54.194Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-27T08:47:31.509Z",
+  "rank_changes": [
+    {
+      "username": "Challa Uday Kumar",
+      "id": "challaudaykumar",
+      "old_rank": 39,
+      "new_rank": 38,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 5,
+  "users_with_new_solves": 4,
+  "no_changes": false
 }

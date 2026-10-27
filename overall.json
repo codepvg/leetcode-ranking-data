@@ -78,6 +78,19 @@
     "rankChange": 0
   },
   {
+    "name": "Pari Patel",
+    "id": "PariChess07",
+    "data": {
+      "easySolved": 234,
+      "mediumSolved": 254,
+      "hardSolved": 38,
+      "totalSolved": 526
+    },
+    "score": 1186,
+    "originalRank": 7,
+    "rankChange": 0
+  },
+  {
     "name": "Neerad Ahire",
     "id": "Neerad_ahire",
     "data": {
@@ -87,21 +100,8 @@
       "totalSolved": 509
     },
     "score": 1185,
-    "originalRank": 7,
-    "rankChange": 0
-  },
-  {
-    "name": "Pari Patel",
-    "id": "PariChess07",
-    "data": {
-      "easySolved": 233,
-      "mediumSolved": 254,
-      "hardSolved": 38,
-      "totalSolved": 525
-    },
-    "score": 1185,
-    "originalRank": 7,
-    "rankChange": 0
+    "originalRank": 8,
+    "rankChange": "-1"
   },
   {
     "name": "PRASATH S",
@@ -481,6 +481,19 @@
     "rankChange": 0
   },
   {
+    "name": "Challa Uday Kumar",
+    "id": "challaudaykumar",
+    "data": {
+      "easySolved": 135,
+      "mediumSolved": 80,
+      "hardSolved": 12,
+      "totalSolved": 227
+    },
+    "score": 435,
+    "originalRank": 38,
+    "rankChange": "+1"
+  },
+  {
     "name": "Neevan Redkar",
     "id": "neevs1",
     "data": {
@@ -494,28 +507,15 @@
     "rankChange": 0
   },
   {
-    "name": "Challa Uday Kumar",
-    "id": "challaudaykumar",
-    "data": {
-      "easySolved": 133,
-      "mediumSolved": 80,
-      "hardSolved": 12,
-      "totalSolved": 225
-    },
-    "score": 433,
-    "originalRank": 39,
-    "rankChange": 0
-  },
-  {
     "name": "Khwaish Garg",
     "id": "KhwaishGarg",
     "data": {
-      "easySolved": 118,
+      "easySolved": 119,
       "mediumSolved": 71,
       "hardSolved": 13,
-      "totalSolved": 202
+      "totalSolved": 203
     },
-    "score": 396,
+    "score": 397,
     "originalRank": 40,
     "rankChange": 0
   },
@@ -835,12 +835,12 @@
     "name": "Shrinidhi Upadhye",
     "id": "shirya205",
     "data": {
-      "easySolved": 20,
+      "easySolved": 21,
       "mediumSolved": 27,
       "hardSolved": 7,
-      "totalSolved": 54
+      "totalSolved": 55
     },
-    "score": 136,
+    "score": 137,
     "originalRank": 65,
     "rankChange": 0
   },
