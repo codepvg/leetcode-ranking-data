@@ -2675,24 +2675,30 @@
       "easy": 20,
       "medium": 27,
       "hard": 7
+    },
+    {
+      "date": "2026-10-27",
+      "easy": 20,
+      "medium": 27,
+      "hard": 7
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 65,
-      "change": 1
+      "change": 0
     },
     "daily": {
       "rank": 1,
-      "change": 17
+      "change": 0
     },
     "weekly": {
-      "rank": 15,
-      "change": 2
+      "rank": 16,
+      "change": -1
     },
     "monthly": {
       "rank": 18,
-      "change": 3
+      "change": 0
     }
   },
   "streak": {
