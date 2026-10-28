@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-10-28T06:13:00.949Z",
-  "rank_changes": [],
+  "sync_time": "2026-10-28T06:28:20.290Z",
+  "rank_changes": [
+    {
+      "username": "Shrinidhi Upadhye",
+      "id": "shirya205",
+      "old_rank": 65,
+      "new_rank": 64,
+      "rank_delta": 1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 2,
+  "users_with_new_solves": 2,
+  "no_changes": false
 }
