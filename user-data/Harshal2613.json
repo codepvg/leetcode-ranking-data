@@ -2697,7 +2697,7 @@
     {
       "date": "2026-10-30",
       "easy": 105,
-      "medium": 80,
+      "medium": 81,
       "hard": 7
     }
   ],
@@ -2707,12 +2707,12 @@
       "change": 0
     },
     "daily": {
-      "rank": 2,
-      "change": 0
+      "rank": 1,
+      "change": 12
     },
     "weekly": {
-      "rank": 6,
-      "change": -1
+      "rank": 3,
+      "change": 2
     },
     "monthly": {
       "rank": 14,
@@ -2720,8 +2720,8 @@
     }
   },
   "streak": {
-    "current": 4,
+    "current": 5,
     "longest": 17,
-    "lastActiveDate": "2026-10-29"
+    "lastActiveDate": "2026-10-30"
   }
 }
