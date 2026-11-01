@@ -2709,31 +2709,31 @@
     {
       "date": "2026-11-01",
       "easy": 21,
-      "medium": 29,
+      "medium": 30,
       "hard": 9
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 64,
-      "change": 0
+      "rank": 62,
+      "change": 2
     },
     "daily": {
-      "rank": 8,
-      "change": 0
+      "rank": 4,
+      "change": -2
     },
     "weekly": {
       "rank": 1,
       "change": 0
     },
     "monthly": {
-      "rank": 12,
-      "change": 2
+      "rank": 10,
+      "change": 4
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 4,
-    "lastActiveDate": "2026-10-31"
+    "lastActiveDate": "2026-11-01"
   }
 }
