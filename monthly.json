@@ -1,5 +1,18 @@
 [
   {
+    "name": "YASH YOGESH BORA",
+    "id": "yashbora",
+    "data": {
+      "easySolved": 11,
+      "mediumSolved": 26,
+      "hardSolved": 8,
+      "totalSolved": 45
+    },
+    "score": 129,
+    "originalRank": 1,
+    "rankChange": "+2"
+  },
+  {
     "name": "Harshad Bhalsing",
     "id": "harsh-0_2",
     "data": {
@@ -9,32 +22,19 @@
       "totalSolved": 48
     },
     "score": 128,
-    "originalRank": 1,
-    "rankChange": "+1"
-  },
-  {
-    "name": "YASH YOGESH BORA",
-    "id": "yashbora",
-    "data": {
-      "easySolved": 11,
-      "mediumSolved": 25,
-      "hardSolved": 8,
-      "totalSolved": 44
-    },
-    "score": 126,
     "originalRank": 2,
-    "rankChange": "+1"
+    "rankChange": 0
   },
   {
     "name": "Elmajdoubi Yassine",
     "id": "0x_naoki",
     "data": {
       "easySolved": 9,
-      "mediumSolved": 25,
+      "mediumSolved": 26,
       "hardSolved": 8,
-      "totalSolved": 42
+      "totalSolved": 43
     },
-    "score": 124,
+    "score": 127,
     "originalRank": 3,
     "rankChange": "-2"
   },

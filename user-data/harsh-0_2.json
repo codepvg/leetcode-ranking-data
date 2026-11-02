@@ -2791,16 +2791,16 @@
       "change": 0
     },
     "daily": {
-      "rank": 2,
-      "change": 0
-    },
-    "weekly": {
       "rank": 4,
       "change": 0
     },
+    "weekly": {
+      "rank": 5,
+      "change": -1
+    },
     "monthly": {
-      "rank": 1,
-      "change": 1
+      "rank": 2,
+      "change": 0
     }
   },
   "streak": {
