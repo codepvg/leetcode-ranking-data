@@ -2625,31 +2625,31 @@
     {
       "date": "2026-11-02",
       "easy": 5,
-      "medium": 5,
+      "medium": 6,
       "hard": 0
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 93,
-      "change": 0
-    },
-    "daily": {
-      "rank": 5,
-      "change": 0
-    },
-    "weekly": {
-      "rank": 31,
+      "rank": 92,
       "change": 1
     },
+    "daily": {
+      "rank": 4,
+      "change": 10
+    },
+    "weekly": {
+      "rank": 24,
+      "change": 8
+    },
     "monthly": {
-      "rank": 32,
-      "change": 0
+      "rank": 31,
+      "change": 1
     }
   },
   "streak": {
-    "current": 1,
+    "current": 2,
     "longest": 2,
-    "lastActiveDate": "2026-11-01"
+    "lastActiveDate": "2026-11-02"
   }
 }
