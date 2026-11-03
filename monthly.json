@@ -107,12 +107,12 @@
     "name": "Ridima",
     "id": "dojakit",
     "data": {
-      "easySolved": 7,
+      "easySolved": 8,
       "mediumSolved": 16,
       "hardSolved": 4,
-      "totalSolved": 27
+      "totalSolved": 28
     },
-    "score": 75,
+    "score": 76,
     "originalRank": 9,
     "rankChange": "-1"
   },
@@ -260,6 +260,19 @@
     "rankChange": "+6"
   },
   {
+    "name": "Pari Patel",
+    "id": "PariChess07",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 12,
+      "hardSolved": 1,
+      "totalSolved": 16
+    },
+    "score": 44,
+    "originalRank": 20,
+    "rankChange": 0
+  },
+  {
     "name": "Yashaswini KP",
     "id": "Yashaswini_K_P",
     "data": {
@@ -271,19 +284,6 @@
     "score": 44,
     "originalRank": 20,
     "rankChange": "+2"
-  },
-  {
-    "name": "Pari Patel",
-    "id": "PariChess07",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 12,
-      "hardSolved": 1,
-      "totalSolved": 15
-    },
-    "score": 43,
-    "originalRank": 22,
-    "rankChange": "-2"
   },
   {
     "name": "Abhinav Deval",
