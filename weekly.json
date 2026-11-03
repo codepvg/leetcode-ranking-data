@@ -78,6 +78,19 @@
     "rankChange": "+3"
   },
   {
+    "name": "sagar nikat",
+    "id": "sagarnikat",
+    "data": {
+      "easySolved": 1,
+      "mediumSolved": 5,
+      "hardSolved": 1,
+      "totalSolved": 7
+    },
+    "score": 21,
+    "originalRank": 6,
+    "rankChange": "-1"
+  },
+  {
     "name": "YASH YOGESH BORA",
     "id": "yashbora",
     "data": {
@@ -91,19 +104,6 @@
     "rankChange": "-1"
   },
   {
-    "name": "sagar nikat",
-    "id": "sagarnikat",
-    "data": {
-      "easySolved": 0,
-      "mediumSolved": 5,
-      "hardSolved": 1,
-      "totalSolved": 6
-    },
-    "score": 20,
-    "originalRank": 8,
-    "rankChange": "-3"
-  },
-  {
     "name": "Yashaswini KP",
     "id": "Yashaswini_K_P",
     "data": {
@@ -113,8 +113,8 @@
       "totalSolved": 6
     },
     "score": 20,
-    "originalRank": 8,
-    "rankChange": "+1"
+    "originalRank": 9,
+    "rankChange": 0
   },
   {
     "name": "Pari Patel",
