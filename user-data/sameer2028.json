@@ -878,19 +878,19 @@
     },
     {
       "date": "2026-11-04",
-      "easy": 148,
+      "easy": 149,
       "medium": 173,
       "hard": 10
     }
   ],
   "leaderboardRanks": {
     "overall": {
-      "rank": 22,
-      "change": 0
+      "rank": 21,
+      "change": 1
     },
     "daily": {
-      "rank": 10,
-      "change": 0
+      "rank": 15,
+      "change": -7
     },
     "weekly": {
       "rank": 12,
@@ -902,8 +902,8 @@
     }
   },
   "streak": {
-    "current": 21,
-    "longest": 21,
-    "lastActiveDate": "2026-11-03"
+    "current": 22,
+    "longest": 22,
+    "lastActiveDate": "2026-11-04"
   }
 }
