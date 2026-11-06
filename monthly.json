@@ -156,6 +156,19 @@
     "rankChange": 0
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 11,
+      "mediumSolved": 10,
+      "hardSolved": 2,
+      "totalSolved": 23
+    },
+    "score": 51,
+    "originalRank": 13,
+    "rankChange": "+4"
+  },
+  {
     "name": "Pari Patel",
     "id": "PariChess07",
     "data": {
@@ -166,19 +179,6 @@
     },
     "score": 51,
     "originalRank": 13,
-    "rankChange": "+3"
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 10,
-      "mediumSolved": 10,
-      "hardSolved": 2,
-      "totalSolved": 22
-    },
-    "score": 50,
-    "originalRank": 14,
     "rankChange": "+3"
   },
   {
