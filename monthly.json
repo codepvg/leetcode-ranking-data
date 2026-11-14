@@ -143,6 +143,19 @@
     "rankChange": 0
   },
   {
+    "name": "Maanya Danayak",
+    "id": "maanyadanayak",
+    "data": {
+      "easySolved": 16,
+      "mediumSolved": 15,
+      "hardSolved": 2,
+      "totalSolved": 33
+    },
+    "score": 71,
+    "originalRank": 12,
+    "rankChange": "+2"
+  },
+  {
     "name": "Priya B",
     "id": "priya-codegaku",
     "data": {
@@ -152,8 +165,8 @@
       "totalSolved": 28
     },
     "score": 70,
-    "originalRank": 12,
-    "rankChange": 0
+    "originalRank": 13,
+    "rankChange": "-1"
   },
   {
     "name": "Shrinidhi Upadhye",
@@ -165,21 +178,8 @@
       "totalSolved": 25
     },
     "score": 69,
-    "originalRank": 13,
-    "rankChange": 0
-  },
-  {
-    "name": "Maanya Danayak",
-    "id": "maanyadanayak",
-    "data": {
-      "easySolved": 16,
-      "mediumSolved": 13,
-      "hardSolved": 2,
-      "totalSolved": 31
-    },
-    "score": 65,
     "originalRank": 14,
-    "rankChange": 0
+    "rankChange": "-1"
   },
   {
     "name": "Aryan Shashikant Patil",
