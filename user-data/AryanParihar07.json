@@ -2855,6 +2855,12 @@
       "easy": 77,
       "medium": 10,
       "hard": 0
+    },
+    {
+      "date": "2026-11-16",
+      "easy": 77,
+      "medium": 10,
+      "hard": 0
     }
   ],
   "leaderboardRanks": {
@@ -2863,7 +2869,7 @@
       "change": 0
     },
     "daily": {
-      "rank": 16,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
@@ -2872,11 +2878,11 @@
     },
     "monthly": {
       "rank": 35,
-      "change": 1
+      "change": 0
     }
   },
   "streak": {
-    "current": 9,
+    "current": 0,
     "longest": 15,
     "lastActiveDate": "2026-11-14"
   }
