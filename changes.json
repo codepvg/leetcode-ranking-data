@@ -1,6 +1,21 @@
 {
-  "sync_time": "2026-11-17T08:05:44.190Z",
-  "rank_changes": [],
+  "sync_time": "2026-11-17T08:20:53.789Z",
+  "rank_changes": [
+    {
+      "username": "Yash Gaiwkad",
+      "id": "yash_gaikwad_08",
+      "old_rank": 83,
+      "new_rank": 81,
+      "rank_delta": 2
+    },
+    {
+      "username": "Anshika Agrawal",
+      "id": "anshikaagr",
+      "old_rank": 82,
+      "new_rank": 83,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
   "total_new_solves": 1,
   "users_with_new_solves": 1,
