@@ -1,8 +1,16 @@
 {
-  "sync_time": "2026-11-17T13:09:23.575Z",
-  "rank_changes": [],
+  "sync_time": "2026-11-17T18:19:32.070Z",
+  "rank_changes": [
+    {
+      "username": "Ridima",
+      "id": "dojakit",
+      "old_rank": 25,
+      "new_rank": 26,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 10,
+  "users_with_new_solves": 8,
+  "no_changes": false
 }
