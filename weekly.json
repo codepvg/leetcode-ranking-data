@@ -143,6 +143,19 @@
     "rankChange": 0
   },
   {
+    "name": "Ridima",
+    "id": "dojakit",
+    "data": {
+      "easySolved": 3,
+      "mediumSolved": 3,
+      "hardSolved": 0,
+      "totalSolved": 6
+    },
+    "score": 12,
+    "originalRank": 12,
+    "rankChange": 0
+  },
+  {
     "name": "YASH YOGESH BORA",
     "id": "yashbora",
     "data": {
@@ -156,19 +169,6 @@
     "rankChange": "+2"
   },
   {
-    "name": "Ridima",
-    "id": "dojakit",
-    "data": {
-      "easySolved": 2,
-      "mediumSolved": 3,
-      "hardSolved": 0,
-      "totalSolved": 5
-    },
-    "score": 11,
-    "originalRank": 13,
-    "rankChange": "-1"
-  },
-  {
     "name": "Darshan Dalvi",
     "id": "error-inc",
     "data": {
@@ -178,8 +178,8 @@
       "totalSolved": 3
     },
     "score": 11,
-    "originalRank": 13,
-    "rankChange": "-1"
+    "originalRank": 14,
+    "rankChange": "-2"
   },
   {
     "name": "Divya Jadhav",
