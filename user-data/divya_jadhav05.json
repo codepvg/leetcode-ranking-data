@@ -5,7 +5,7 @@
       "change": 0
     },
     "daily": {
-      "rank": 12,
+      "rank": 1,
       "change": 0
     },
     "weekly": {
@@ -569,10 +569,16 @@
       "easy": 192,
       "medium": 65,
       "hard": 4
+    },
+    {
+      "date": "2026-11-21",
+      "easy": 192,
+      "medium": 65,
+      "hard": 4
     }
   ],
   "streak": {
-    "current": 2,
+    "current": 0,
     "longest": 18,
     "lastActiveDate": "2026-11-19"
   }
