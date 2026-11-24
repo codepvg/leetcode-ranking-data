@@ -911,24 +911,30 @@
       "easy": 55,
       "medium": 68,
       "hard": 8
+    },
+    {
+      "date": "2026-11-24",
+      "easy": 55,
+      "medium": 68,
+      "hard": 8
     }
   ],
   "leaderboardRanks": {
     "overall": {
       "rank": 48,
-      "change": 1
+      "change": 0
     },
     "daily": {
-      "rank": 4,
-      "change": 14
+      "rank": 5,
+      "change": 0
     },
     "weekly": {
-      "rank": 8,
-      "change": -1
+      "rank": 5,
+      "change": 3
     },
     "monthly": {
-      "rank": 8,
-      "change": 0
+      "rank": 5,
+      "change": 3
     }
   },
   "streak": {
