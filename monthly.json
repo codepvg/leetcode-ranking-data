@@ -546,6 +546,19 @@
     "rankChange": 0
   },
   {
+    "name": "Dev Patel",
+    "id": "Dev_D_Patel",
+    "data": {
+      "easySolved": 2,
+      "mediumSolved": 0,
+      "hardSolved": 0,
+      "totalSolved": 2
+    },
+    "score": 2,
+    "originalRank": 43,
+    "rankChange": "+2"
+  },
+  {
     "name": "Ajinkya Ashish Moharir",
     "id": "AjinkyaMoharir",
     "data": {
@@ -555,21 +568,8 @@
       "totalSolved": 1
     },
     "score": 1,
-    "originalRank": 43,
-    "rankChange": 0
-  },
-  {
-    "name": "Dev Patel",
-    "id": "Dev_D_Patel",
-    "data": {
-      "easySolved": 1,
-      "mediumSolved": 0,
-      "hardSolved": 0,
-      "totalSolved": 1
-    },
-    "score": 1,
-    "originalRank": 43,
-    "rankChange": "+2"
+    "originalRank": 44,
+    "rankChange": "-1"
   },
   {
     "name": "srushti rajesh shete",
@@ -581,8 +581,8 @@
       "totalSolved": 1
     },
     "score": 1,
-    "originalRank": 43,
-    "rankChange": 0
+    "originalRank": 44,
+    "rankChange": "-1"
   },
   {
     "name": "nikita sharma",
