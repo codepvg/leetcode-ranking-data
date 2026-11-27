@@ -1,8 +1,23 @@
 {
-  "sync_time": "2026-11-27T03:52:37.891Z",
-  "rank_changes": [],
+  "sync_time": "2026-11-27T04:07:48.057Z",
+  "rank_changes": [
+    {
+      "username": "Sayondeep Daripa",
+      "id": "PrimeLogic",
+      "old_rank": 5,
+      "new_rank": 4,
+      "rank_delta": 1
+    },
+    {
+      "username": "Harshad Bhalsing",
+      "id": "harsh-0_2",
+      "old_rank": 4,
+      "new_rank": 5,
+      "rank_delta": -1
+    }
+  ],
   "new_users": [],
-  "total_new_solves": 0,
-  "users_with_new_solves": 0,
-  "no_changes": true
+  "total_new_solves": 1,
+  "users_with_new_solves": 1,
+  "no_changes": false
 }
